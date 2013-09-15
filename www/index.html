@@ -47,26 +47,13 @@
 
       <div class="container">
         <div class="list-group">
-          <a href="#" class="list-group-item active">
-            <h4 class="list-group-item-heading pull-right">34 km NE</h4>
-            <p class="list-group-item-text">Cattai</p>
-            <p class="list-group-item-text">Cattai NP</p>
-          </a>
-          <a href="#" class="list-group-item">
-            <h4 class="list-group-item-heading pull-right">36 km N</h4>
-            <p class="list-group-item-text">Wheeny Creek</p>
-            <p class="list-group-item-text">Wollemi NP</p>
-          </a>
-          <a href="#" class="list-group-item">
-            <h4 class="list-group-item-heading pull-right">44 km N</h4>
-            <p class="list-group-item-text">Colo Meroo</p>
-            <p class="list-group-item-text">Wollemi NP</p>
-          </a>
-          <a href="#" class="list-group-item">
-            <h4 class="list-group-item-heading pull-right">48 km E</h4>
-            <p class="list-group-item-text">Lane Cove River</p>
-            <p class="list-group-item-text">Lane Cove NP</p>
-          </a>
+          {{#each}}
+            <a href="#" class="list-group-item">
+              <h4 class="list-group-item-heading pull-right">{{distance_text}}</h4>
+              <p class="list-group-item-text">{{name}}</p>
+              <p class="list-group-item-text">{{park_name}}</p>
+            </a>
+          {{/each}}
         </div>
       </div><!-- /.container -->
     </script>
