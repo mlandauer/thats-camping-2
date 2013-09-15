@@ -1,0 +1,1 @@
+window.ThatsCamping = Ember.Application.create();
