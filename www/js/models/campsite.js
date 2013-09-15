@@ -1,5 +1,6 @@
 ThatsCamping.Campsite = DS.Model.extend({
-  distance_text: DS.attr('string'),
+  distanceText: DS.attr('string'),
+  bearingText: DS.attr('string'),
   name: DS.attr('string'),
   park_name: DS.attr('string')
 });
@@ -7,25 +8,29 @@ ThatsCamping.Campsite = DS.Model.extend({
 ThatsCamping.Campsite.FIXTURES = [
  {
    id: 1,
-   distance_text: '34 km NE',
+   distanceText: '34 km',
+   bearingText: 'NE',
    name: 'Cattai',
    park_name: 'Cattai NP'
  },
  {
    id: 2,
-   distance_text: '36 km N',
+   distanceText: '36 km',
+   bearingText: 'N',
    name: 'Wheeny Creek',
    park_name: 'Wollemi NP'
  },
  {
    id: 3,
-   distance_text: '44 km N',
+   distanceText: '44 km',
+   bearingText: 'N',
    name: 'Colo Meroo',
    park_name: 'Wollemi NP'
  },
  {
    id: 4,
-   distance_text: '48 km E',
+   distanceText: '48 km',
+   bearingText: 'E',
    name: 'Lane Cove River',
    park_name: 'Lane Cove NP'
  }
