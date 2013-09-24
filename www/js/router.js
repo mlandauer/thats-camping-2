@@ -7,7 +7,7 @@ ThatsCamping.CampsitesRoute = Ember.Route.extend({
     return this.store.find('campsite');
   },
   setupController: function(controller, model) {
-    navigator.geolocation.getCurrentPosition(controller.geoLocation);
+    controller.updateLocation();
     controller.set('model', model);
   }
 });
