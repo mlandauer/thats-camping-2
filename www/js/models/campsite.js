@@ -1,3 +1,5 @@
+// TODO Move these global functions somewhere sensible
+
 calculateDistance = function(lat1, lon1, lat2, lon2) {
   R = 6371000;
   dLat = (lat2 - lat1).toRad();
@@ -8,8 +10,26 @@ calculateDistance = function(lat1, lon1, lat2, lon2) {
   return d;
 }
 
+// Bearing (as an angle) to this campsite from the given location
+calculateBearing = function(lat1, lon1, lat2, lon2) {
+  lon1 = lon1.toRad();
+  lat1 = lat1.toRad();
+  lon2 = lon2.toRad();
+  lat2 = lat2.toRad();
+  dLon = lon2 - lon1;
+  y = Math.sin(dLon) * Math.cos(lat2);
+  x = Math.cos(lat1) * Math.sin(lat2) - Math.sin(lat1) * Math.cos(lat2) * Math.cos(dLon);
+  // This is a number between 0 and 360
+  bearing = (Math.atan2(y, x).toDeg() + 360.0) % 360;
+  return bearing;
+}
+
 Number.prototype.toRad = function() {
   return (this * Math.PI / 180);
+}
+
+Number.prototype.toDeg = function() {
+  return (this * 180 / Math.PI);
 }
 
 ThatsCamping.Campsite = DS.Model.extend({
@@ -18,7 +38,6 @@ ThatsCamping.Campsite = DS.Model.extend({
   longitude: DS.attr('number'),
   userLatitude: DS.attr('number'),
   userLongitude: DS.attr('number'),
-  bearingText: DS.attr('string'),
   name: DS.attr('string'),
   park_name: DS.attr('string'),
 
@@ -50,14 +69,38 @@ ThatsCamping.Campsite = DS.Model.extend({
       units = "m"      
     }
     return(distance.toFixed(0) + " " + units);
-  }.property('distance')
+  }.property('distance'),
+
+  bearing: function() {
+    userLatitude = this.get("userLatitude");
+    userLongitude = this.get("userLongitude");
+    latitude = this.get("latitude");
+    longitude = this.get("longitude");
+    if (userLatitude && userLongitude && latitude && longitude) {
+      return calculateBearing(userLatitude, userLongitude, latitude, longitude);
+    }
+    else {
+      return null;      
+    }
+  }.property("userLatitude", "userLongitude", "latitude", "longitude"),
+
+  bearingText: function() {
+    bearing = this.get("bearing");
+    if (bearing == null) {
+      return ""  
+    }
+    // Dividing the compass into 8 sectors that are centred on north
+    sector = Math.floor(((bearing + 22.5) % 360.0) / 45.0);
+    sectorNames = [ "N", "NE", "E", "SE", "S", "SW", "W", "NW" ];
+    return sectorNames[sector];
+  }.property("bearing")
+
 });
 
 ThatsCamping.Campsite.FIXTURES = [
   {
     id: 1,
     distance: 34000,
-    bearingText: 'NE',
     name: 'Cattai',
     park_name: 'Cattai NP',
     latitude: -33.56056,
@@ -68,7 +111,6 @@ ThatsCamping.Campsite.FIXTURES = [
   {
     id: 2,
     distance: 36000,
-    bearingText: 'N',
     name: 'Wheeny Creek',
     park_name: 'Wollemi NP',
     latitude: -33.45663,
@@ -79,7 +121,6 @@ ThatsCamping.Campsite.FIXTURES = [
   {
     id: 3,
     distance: 44000,
-    bearingText: 'N',
     name: 'Colo Meroo',
     park_name: 'Wollemi NP',
     latitude: -33.38363,
@@ -90,7 +131,6 @@ ThatsCamping.Campsite.FIXTURES = [
   {
     id: 4,
     distance: 48000,
-    bearingText: 'E',
     name: 'Lane Cove River',
     park_name: 'Lane Cove NP',
     latitude: -33.79077,
