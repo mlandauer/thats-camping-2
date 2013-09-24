@@ -36,10 +36,11 @@ ThatsCamping.Campsite = DS.Model.extend({
   distance: DS.attr('number'),
   latitude: DS.attr('number'),
   longitude: DS.attr('number'),
-  userLatitude: DS.attr('number'),
-  userLongitude: DS.attr('number'),
   name: DS.attr('string'),
   park_name: DS.attr('string'),
+
+  userLatitudeBinding: "ThatsCamping.latitude",
+  userLongitudeBinding: "ThatsCamping.longitude",
 
   distance: function() {
     userLatitude = this.get("userLatitude");
@@ -104,9 +105,7 @@ ThatsCamping.Campsite.FIXTURES = [
     name: 'Cattai',
     park_name: 'Cattai NP',
     latitude: -33.56056,
-    longitude: 150.89195,
-    userLatitude: -33.01008163699043,
-    userLongitude: 150.31314922114512
+    longitude: 150.89195
   },
   {
     id: 2,
@@ -114,9 +113,7 @@ ThatsCamping.Campsite.FIXTURES = [
     name: 'Wheeny Creek',
     park_name: 'Wollemi NP',
     latitude: -33.45663,
-    longitude: 150.72224,
-    userLatitude: -33.01008163699043,
-    userLongitude: 150.31314922114512
+    longitude: 150.72224
   },
   {
     id: 3,
@@ -124,9 +121,7 @@ ThatsCamping.Campsite.FIXTURES = [
     name: 'Colo Meroo',
     park_name: 'Wollemi NP',
     latitude: -33.38363,
-    longitude: 150.69215,
-    userLatitude: -33.01008163699043,
-    userLongitude: 150.31314922114512
+    longitude: 150.69215
   },
   {
     id: 4,
@@ -134,8 +129,6 @@ ThatsCamping.Campsite.FIXTURES = [
     name: 'Lane Cove River',
     park_name: 'Lane Cove NP',
     latitude: -33.79077,
-    longitude: 151.14421,
-    userLatitude: -33.01008163699043,
-    userLongitude: 150.31314922114512
+    longitude: 151.14421
   }
 ];
