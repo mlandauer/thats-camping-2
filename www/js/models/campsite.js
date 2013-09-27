@@ -39,12 +39,9 @@ App.Campsite = DS.Model.extend({
   name: DS.attr('string'),
   park_name: DS.attr('string'),
 
-  userLatitudeBinding: "App.latitude",
-  userLongitudeBinding: "App.longitude",
-
   distance: function() {
-    userLatitude = this.get("userLatitude");
-    userLongitude = this.get("userLongitude");
+    userLatitude = App.get("latitude");
+    userLongitude = App.get("longitude");
     latitude = this.get("latitude");
     longitude = this.get("longitude");
     if(userLatitude && userLongitude && latitude && longitude) {
@@ -54,7 +51,7 @@ App.Campsite = DS.Model.extend({
     else {
       return null;      
     }
-  }.property("userLatitude", "userLongitude", "latitude", "longitude"),
+  }.property("App.latitude", "App.longitude", "latitude", "longitude"),
 
   distanceText: function() {
     distance = this.get("distance");
