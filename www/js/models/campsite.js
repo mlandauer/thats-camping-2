@@ -32,15 +32,15 @@ Number.prototype.toDeg = function() {
   return (this * 180 / Math.PI);
 }
 
-ThatsCamping.Campsite = DS.Model.extend({
+App.Campsite = DS.Model.extend({
   distance: DS.attr('number'),
   latitude: DS.attr('number'),
   longitude: DS.attr('number'),
   name: DS.attr('string'),
   park_name: DS.attr('string'),
 
-  userLatitudeBinding: "ThatsCamping.latitude",
-  userLongitudeBinding: "ThatsCamping.longitude",
+  userLatitudeBinding: "App.latitude",
+  userLongitudeBinding: "App.longitude",
 
   distance: function() {
     userLatitude = this.get("userLatitude");
@@ -98,7 +98,7 @@ ThatsCamping.Campsite = DS.Model.extend({
 
 });
 
-ThatsCamping.Campsite.FIXTURES = [
+App.Campsite.FIXTURES = [
   {
     id: 1,
     distance: 34000,

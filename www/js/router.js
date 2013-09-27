@@ -1,8 +1,8 @@
-ThatsCamping.Router.map(function () {
+App.Router.map(function () {
   this.resource('campsites', { path: '/' });
 });
 
-ThatsCamping.CampsitesRoute = Ember.Route.extend({
+App.CampsitesRoute = Ember.Route.extend({
   model: function () {
     return this.store.find('campsite');
   },

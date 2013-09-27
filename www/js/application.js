@@ -1,3 +1,3 @@
-window.ThatsCamping = Ember.Application.create();
+window.App = Ember.Application.create();
 
-ThatsCamping.ApplicationAdapter = DS.FixtureAdapter.extend();
+App.ApplicationAdapter = DS.FixtureAdapter.extend();
