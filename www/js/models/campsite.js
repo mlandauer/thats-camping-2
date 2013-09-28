@@ -70,8 +70,8 @@ App.Campsite = DS.Model.extend({
   }.property('distance'),
 
   bearing: function() {
-    userLatitude = this.get("userLatitude");
-    userLongitude = this.get("userLongitude");
+    userLatitude = App.get("latitude");
+    userLongitude = App.get("longitude");
     latitude = this.get("latitude");
     longitude = this.get("longitude");
     if (userLatitude && userLongitude && latitude && longitude) {
@@ -80,7 +80,7 @@ App.Campsite = DS.Model.extend({
     else {
       return null;      
     }
-  }.property("userLatitude", "userLongitude", "latitude", "longitude"),
+  }.property("App.latitude", "App.longitude", "latitude", "longitude"),
 
   bearingText: function() {
     bearing = this.get("bearing");
