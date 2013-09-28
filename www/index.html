@@ -49,11 +49,11 @@
         <p>Latitude: {{App.latitude}}, Longitude: {{App.longitude}}</p>
         <div class="list-group">
           {{#each}}
-            <a href="#" class="list-group-item">
+            {{#link-to 'campsite' this classNames=[list-group-item]}}
               <h4 class="list-group-item-heading pull-right">{{distanceText}} {{bearingText}}</h4>
               <p class="list-group-item-text">{{shortName}}</p>
               <p class="list-group-item-text">{{park_name}}</p>
-            </a>
+            {{/link-to}}
           {{/each}}
         </div>
       </div><!-- /.container -->
