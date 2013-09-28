@@ -36,7 +36,7 @@ App.Campsite = DS.Model.extend({
   distance: DS.attr('number'),
   latitude: DS.attr('number'),
   longitude: DS.attr('number'),
-  name: DS.attr('string'),
+  shortName: DS.attr('string'),
   park_name: DS.attr('string'),
 
   distance: function() {

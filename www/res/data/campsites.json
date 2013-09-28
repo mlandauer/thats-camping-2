@@ -1,24 +1,24 @@
 [
   {
-    "name": "Cattai",
+    "shortName": "Cattai",
     "park_name": "Cattai NP",
     "latitude": -33.56056,
     "longitude": 150.89195
   },
   {
-    "name": "Wheeny Creek",
+    "shortName": "Wheeny Creek",
     "park_name": "Wollemi NP",
     "latitude": -33.45663,
     "longitude": 150.72224
   },
   {
-    "name": "Colo Meroo",
+    "shortName": "Colo Meroo",
     "park_name": "Wollemi NP",
     "latitude": -33.38363,
     "longitude": 150.69215
   },
   {
-    "name": "Lane Cove River",
+    "shortName": "Lane Cove River",
     "park_name": "Lane Cove NP",
     "latitude": -33.79077,
     "longitude": 151.14421
