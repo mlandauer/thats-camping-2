@@ -53,6 +53,17 @@ App.Campsite = DS.Model.extend({
     }
   }.property("App.latitude", "App.longitude", "latitude", "longitude"),
 
+  hasCoordinates: function() {
+    latitude = this.get("latitude");
+    longitude = this.get("longitude");
+    if (latitude != null && longitude != null) {
+      return true;
+    }
+    else {
+      return false;
+    }
+  }.property("latitude", "longitude"),
+
   distanceText: function() {
     distance = this.get("distance");
     units = undefined

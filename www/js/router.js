@@ -13,7 +13,9 @@ App.ApplicationRoute = Ember.Route.extend({
 
 App.CampsitesRoute = Ember.Route.extend({
   model: function () {
-    return this.store.find('campsite');
+    return this.store.filter('campsite', function(campsite){
+      return campsite.get("hasCoordinates");
+    });
   },
   setupController: function(controller, model) {
     controller.updateLocation();
