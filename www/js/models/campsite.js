@@ -46,6 +46,9 @@ App.Campsite = DS.Model.extend({
   barbecues: DS.attr('string'),
   showers: DS.attr('string'),
   drinkingWater: DS.attr('boolean'),
+  caravans: DS.attr('boolean'),
+  trailers: DS.attr('boolean'),
+  car: DS.attr('boolean'),
 
   distance: function() {
     userLatitude = App.get("latitude");
@@ -175,6 +178,36 @@ App.Campsite = DS.Model.extend({
     return {have: have, notHave: notHave};
   }.property("toilets", "picnicTables", "barbecues", "showers", "drinkingWater"),
 
+  accessFields: function() {
+    have = [];
+    notHave = [];
+
+    caravans = this.get("caravans");
+    trailers = this.get("trailers");
+    car = this.get("car");
+
+    if (caravans) {
+      have.push("caravans");      
+    }
+    else {
+      notHave.push("caravans");
+    }
+    if (trailers) {
+      have.push("trailers");      
+    }
+    else {
+      notHave.push("trailers");      
+    }
+    if (car) {
+      have.push("car camping");      
+    }
+    else {
+      notHave.push("car camping");
+    }
+
+    return {have: have, notHave: notHave};
+  }.property("caravans", "trailers", "car"),
+
   haveFacilitiesText: function() {
     return this.listAsText(this.get("facilitiesFields")["have"]);
   }.property("facilitiesFields"),
@@ -182,6 +215,14 @@ App.Campsite = DS.Model.extend({
   notHaveFacilitiesText: function() {
     return this.listAsText(this.get("facilitiesFields")["notHave"]);
   }.property("facilitiesFields"),
+
+  haveAccessText: function() {
+    return this.listAsText(this.get("accessFields")["have"]);
+  }.property("accessFields"),
+
+  notHaveAccessText: function() {
+    return this.listAsText(this.get("accessFields")["notHave"]);
+  }.property("accessFields"),
 
   listAsText: function(list) {
     if (list.length == 0) {
