@@ -41,6 +41,11 @@ App.Campsite = DS.Model.extend({
   parkShortName: DS.attr('string'),
   parkLongName: DS.attr('string'),
   description: DS.attr('string'),
+  toilets: DS.attr('string'),
+  picnicTables: DS.attr('boolean'),
+  barbecues: DS.attr('string'),
+  showers: DS.attr('string'),
+  drinkingWater: DS.attr('boolean'),
 
   distance: function() {
     userLatitude = App.get("latitude");
@@ -110,7 +115,85 @@ App.Campsite = DS.Model.extend({
   html_description: function() {
     description = this.get("description");
     return "<p>" + description.replace("\n\n", "</p><p>") + "</p>";
-  }.property("description")
+  }.property("description"),
+
+  facilitiesFields: function() {
+    have = [];
+    notHave = [];
+
+    toilets = this.get("toilets");
+    picnicTables = this.get("picnicTables");
+    barbecues = this.get("barbecues");
+    showers = this.get("showers");
+    drinkingWater = this.get("drinkingWater");
+
+    if (toilets == "flush") {
+      have.push("flush toilets");
+    }
+    else if (toilets == "non_flush") {
+      have.push("non-flush toilets");
+    }
+    else if (toilets == "none") {
+      notHave.push("toilets");
+    }
+
+    if (picnicTables) {
+      have.push("picnic tables"); 
+    }
+    else {
+      notHave.push("picnic tables");        
+    }
+
+    // TODO: show whether you need to bring your own firewood elsewhere
+    // Like "You will need to bring firewood (if you want to use the wood BBQs) and drinking water"
+    if(barbecues == "wood" || barbecues == "wood_supplied" || barbecues == "wood_bring_your_own") {
+      have.push("wood BBQs"); 
+    }
+    else if (barbecues == "gas_electric") {
+      have.push("gas/electric BBQs"); 
+    }
+    else if (barbecues == "none") {
+      notHave.push("BBQs");
+    }
+
+    if (showers == "hot") {
+      have.push("hot showers");
+    }
+    else if (showers == "cold") {
+      have.push("cold showers");
+    }
+    else if (showers == "none") {
+      notHave.push("showers"); 
+    }
+
+    if (drinkingWater) {
+      have.push("drinking water");
+    }
+    else {
+      notHave.push("drinking water");
+    }
+    return {have: have, notHave: notHave};
+  }.property("toilets", "picnicTables", "barbecues", "showers", "drinkingWater"),
+
+  haveFacilitiesText: function() {
+    return this.listAsText(this.get("facilitiesFields")["have"]);
+  }.property("facilitiesFields"),
+
+  notHaveFacilitiesText: function() {
+    return this.listAsText(this.get("facilitiesFields")["notHave"]);
+  }.property("facilitiesFields"),
+
+  listAsText: function(list) {
+    if (list.length == 0) {
+      return null;
+    }
+    else if (list.length == 1) {
+      return list[0];
+    }
+    else {
+      return list.slice(0, -1).join(", ") + " and " + list[list.length - 1];      
+    }
+  }
 
 });
 
