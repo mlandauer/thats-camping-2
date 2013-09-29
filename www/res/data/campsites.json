@@ -3,1553 +3,1553 @@
     "shortName": "Acacia Flat",
     "latitude": -33.6149,
     "longitude": 150.3553,
-    "park_name": "Blue Mountains NP",
+    "parkShortName": "Blue Mountains NP",
     "id": 1
   },
   {
     "shortName": "Alexanders Hut",
-    "park_name": "South East Forest NP",
+    "parkShortName": "South East Forest NP",
     "id": 2
   },
   {
     "shortName": "Apsley Falls",
-    "park_name": "Oxley Wild Rivers NP",
+    "parkShortName": "Oxley Wild Rivers NP",
     "id": 3
   },
   {
     "shortName": "Aragunnu",
     "latitude": -36.585,
     "longitude": 150.0419,
-    "park_name": "Mimosa Rocks NP",
+    "parkShortName": "Mimosa Rocks NP",
     "id": 4
   },
   {
     "shortName": "Bald Rock",
     "latitude": -28.84716,
     "longitude": 152.04612,
-    "park_name": "Bald Rock NP",
+    "parkShortName": "Bald Rock NP",
     "id": 5
   },
   {
     "shortName": "Balor Hut",
-    "park_name": "Warrumbungle NP",
+    "parkShortName": "Warrumbungle NP",
     "id": 6
   },
   {
     "shortName": "Banksia Green",
     "latitude": -32.55003,
     "longitude": 152.30742,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 7
   },
   {
     "shortName": "Bark Hut",
-    "park_name": "Mount Kaputar NP",
+    "parkShortName": "Mount Kaputar NP",
     "id": 8
   },
   {
     "shortName": "Barokee",
     "latitude": -30.44392,
     "longitude": 152.25024,
-    "park_name": "Cathedral Rock NP",
+    "parkShortName": "Cathedral Rock NP",
     "id": 9
   },
   {
     "shortName": "Behrs Flat",
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 10
   },
   {
     "shortName": "Belah",
-    "park_name": "Mungo NP",
+    "parkShortName": "Mungo NP",
     "id": 11
   },
   {
     "shortName": "Bellbird",
     "latitude": -29.47415,
     "longitude": 152.31472,
-    "park_name": "Washpool NP",
+    "parkShortName": "Washpool NP",
     "id": 12
   },
   {
     "shortName": "Ben Halls",
-    "park_name": "Weddin Mountains NP",
+    "parkShortName": "Weddin Mountains NP",
     "id": 13
   },
   {
     "shortName": "Bendethera Valley",
     "latitude": -35.93862,
     "longitude": 149.74543,
-    "park_name": "Deua NP",
+    "parkShortName": "Deua NP",
     "id": 14
   },
   {
     "shortName": "Bents Basin",
     "latitude": -33.93189,
     "longitude": 150.63257,
-    "park_name": "Bents Basin SCA",
+    "parkShortName": "Bents Basin SCA",
     "id": 15
   },
   {
     "shortName": "Berlang",
     "latitude": -35.725,
     "longitude": 149.6456,
-    "park_name": "Deua NP",
+    "parkShortName": "Deua NP",
     "id": 16
   },
   {
     "shortName": "Big River Camp",
-    "park_name": "Goulburn River NP",
+    "parkShortName": "Goulburn River NP",
     "id": 17
   },
   {
     "shortName": "Bittangabee",
     "latitude": -37.2171,
     "longitude": 150.0173,
-    "park_name": "Ben Boyd NP",
+    "parkShortName": "Ben Boyd NP",
     "id": 18
   },
   {
     "shortName": "Black Rocks",
-    "park_name": "Bundjalung NP",
+    "parkShortName": "Bundjalung NP",
     "id": 19
   },
   {
     "shortName": "Blatherarm",
     "latitude": -29.25931,
     "longitude": 151.70592,
-    "park_name": "Torrington SCA",
+    "parkShortName": "Torrington SCA",
     "id": 20
   },
   {
     "shortName": "Blue Gums",
-    "park_name": "Yengo NP",
+    "parkShortName": "Yengo NP",
     "id": 21
   },
   {
     "shortName": "Blue Waterholes",
     "latitude": -35.62329,
     "longitude": 148.6837,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 22
   },
   {
     "shortName": "Bonnie Vale",
     "latitude": -34.0837,
     "longitude": 151.1383,
-    "park_name": "Royal NP",
+    "parkShortName": "Royal NP",
     "id": 23
   },
   {
     "shortName": "Boolambayte Lake",
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 24
   },
   {
     "shortName": "Boomeri",
     "latitude": -32.50935,
     "longitude": 152.32038,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 25
   },
   {
     "shortName": "Boorkoom",
     "latitude": -29.8201,
     "longitude": 153.2915,
-    "park_name": "Yuraygir NP",
+    "parkShortName": "Yuraygir NP",
     "id": 26
   },
   {
     "shortName": "Boundary Falls",
-    "park_name": "Gibraltar Range NP",
+    "parkShortName": "Gibraltar Range NP",
     "id": 27
   },
   {
     "shortName": "Boyd River",
     "latitude": -33.9708,
     "longitude": 150.0565,
-    "park_name": "Kanangra-Boyd NP",
+    "parkShortName": "Kanangra-Boyd NP",
     "id": 28
   },
   {
     "shortName": "Bradley's/O'Brien's Hut",
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 29
   },
   {
     "shortName": "Bradneys Gap",
     "latitude": -36.16506,
     "longitude": 148.1563,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 30
   },
   {
     "shortName": "Brambles Green",
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 31
   },
   {
     "shortName": "Brou Lake",
-    "park_name": "Eurobodalla NP",
+    "parkShortName": "Eurobodalla NP",
     "id": 32
   },
   {
     "shortName": "Brushy Mountain",
     "latitude": -31.14691,
     "longitude": 152.36139,
-    "park_name": "Werrikimbe NP",
+    "parkShortName": "Werrikimbe NP",
     "id": 33
   },
   {
     "shortName": "Buddong Falls",
     "latitude": -35.64357,
     "longitude": 148.21963,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 34
   },
   {
     "shortName": "Budds Mare",
-    "park_name": "Oxley Wild Rivers NP",
+    "parkShortName": "Oxley Wild Rivers NP",
     "id": 35
   },
   {
     "shortName": "Bullocks Hill",
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 36
   },
   {
     "shortName": "Bummaroo Ford",
     "latitude": -34.19388,
     "longitude": 149.73846,
-    "park_name": "Abercrombie River NP",
+    "parkShortName": "Abercrombie River NP",
     "id": 37
   },
   {
     "shortName": "Bungaree Bay",
     "latitude": -32.45869,
     "longitude": 152.31872,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 38
   },
   {
     "shortName": "Bungonia",
     "latitude": -34.80658,
     "longitude": 150.00268,
-    "park_name": "Bungonia SCA",
+    "parkShortName": "Bungonia SCA",
     "id": 39
   },
   {
     "shortName": "Burbie Camp",
-    "park_name": "Warrumbungle NP",
+    "parkShortName": "Warrumbungle NP",
     "id": 40
   },
   {
     "shortName": "Burralow Creek",
     "latitude": -33.5487,
     "longitude": 150.6047,
-    "park_name": "Blue Mountains NP",
+    "parkShortName": "Blue Mountains NP",
     "id": 41
   },
   {
     "shortName": "Camp Blackman",
-    "park_name": "Warrumbungle NP",
+    "parkShortName": "Warrumbungle NP",
     "id": 42
   },
   {
     "shortName": "Camp Pincham",
-    "park_name": "Warrumbungle NP",
+    "parkShortName": "Warrumbungle NP",
     "id": 43
   },
   {
     "shortName": "Camp Walaay",
-    "park_name": "Warrumbungle NP",
+    "parkShortName": "Warrumbungle NP",
     "id": 44
   },
   {
     "shortName": "Camp Wambelong",
-    "park_name": "Warrumbungle NP",
+    "parkShortName": "Warrumbungle NP",
     "id": 45
   },
   {
     "shortName": "Cascades",
     "latitude": -36.22371,
     "longitude": 149.51831,
-    "park_name": "Wadbilliga NP",
+    "parkShortName": "Wadbilliga NP",
     "id": 46
   },
   {
     "shortName": "Cattai",
     "latitude": -33.56056,
     "longitude": 150.89195,
-    "park_name": "Cattai NP",
+    "parkShortName": "Cattai NP",
     "id": 47
   },
   {
     "shortName": "Chaelundi",
     "latitude": -30.06845,
     "longitude": 152.33393,
-    "park_name": "Guy Fawkes River NP",
+    "parkShortName": "Guy Fawkes River NP",
     "id": 48
   },
   {
     "shortName": "Clover Flat",
     "latitude": -36.07285,
     "longitude": 148.21775,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 49
   },
   {
     "shortName": "Coach and Horses",
-    "park_name": "Paroo-Darling NP",
+    "parkShortName": "Paroo-Darling NP",
     "id": 50
   },
   {
     "shortName": "Colo Meroo",
     "latitude": -33.38363,
     "longitude": 150.69215,
-    "park_name": "Wollemi NP",
+    "parkShortName": "Wollemi NP",
     "id": 51
   },
   {
     "shortName": "Congo",
     "latitude": -35.9547,
     "longitude": 150.1577,
-    "park_name": "Eurobodalla NP",
+    "parkShortName": "Eurobodalla NP",
     "id": 52
   },
   {
     "shortName": "Cooinbil Hut",
     "latitude": -35.63141,
     "longitude": 148.59698,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 53
   },
   {
     "shortName": "Cooleman Mountain",
     "latitude": -35.59786,
     "longitude": 148.63977,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 54
   },
   {
     "shortName": "Coombadjha",
     "latitude": -29.47166,
     "longitude": 152.32117,
-    "park_name": "Washpool NP",
+    "parkShortName": "Washpool NP",
     "id": 55
   },
   {
     "shortName": "Coorongooba",
-    "park_name": "Wollemi NP",
+    "parkShortName": "Wollemi NP",
     "id": 56
   },
   {
     "shortName": "Coxs Creek",
-    "park_name": "Coolah Tops NP",
+    "parkShortName": "Coolah Tops NP",
     "id": 57
   },
   {
     "shortName": "Culgoa",
-    "park_name": "Culgoa NP",
+    "parkShortName": "Culgoa NP",
     "id": 58
   },
   {
     "shortName": "Cutters camp",
     "latitude": -28.44484,
     "longitude": 153.19439,
-    "park_name": "Mebbin NP",
+    "parkShortName": "Mebbin NP",
     "id": 59
   },
   {
     "shortName": "Cypress-pine",
-    "park_name": "Boonoo Boonoo NP",
+    "parkShortName": "Boonoo Boonoo NP",
     "id": 60
   },
   {
     "shortName": "Dalmorton",
-    "park_name": "Guy Fawkes River SCA",
+    "parkShortName": "Guy Fawkes River SCA",
     "id": 61
   },
   {
     "shortName": "Dangars Gorge",
     "latitude": -30.6729,
     "longitude": 151.72507,
-    "park_name": "Oxley Wild Rivers NP",
+    "parkShortName": "Oxley Wild Rivers NP",
     "id": 62
   },
   {
     "shortName": "Darling River",
-    "park_name": "Kinchega NP",
+    "parkShortName": "Kinchega NP",
     "id": 63
   },
   {
     "shortName": "Dawsons Spring",
-    "park_name": "Mount Kaputar NP",
+    "parkShortName": "Mount Kaputar NP",
     "id": 64
   },
   {
     "shortName": "Dead Horse Gully",
-    "park_name": "Sturt NP",
+    "parkShortName": "Sturt NP",
     "id": 65
   },
   {
     "shortName": "Dees Corner",
     "latitude": -32.53832,
     "longitude": 152.31751,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 66
   },
   {
     "shortName": "Denison",
     "latitude": -35.94512,
     "longitude": 148.63629,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 67
   },
   {
     "shortName": "Depot Beach",
     "latitude": -35.6286,
     "longitude": 150.3218,
-    "park_name": "Murramarang NP",
+    "parkShortName": "Murramarang NP",
     "id": 68
   },
   {
     "shortName": "Deua River",
     "latitude": -35.74213,
     "longitude": 149.91687,
-    "park_name": "Deua NP",
+    "parkShortName": "Deua NP",
     "id": 69
   },
   {
     "shortName": "Devils Hole",
     "latitude": -31.9163,
     "longitude": 151.4827,
-    "park_name": "Barrington Tops NP",
+    "parkShortName": "Barrington Tops NP",
     "id": 70
   },
   {
     "shortName": "Diamond Head",
     "latitude": -31.71882,
     "longitude": 152.79481,
-    "park_name": "Crowdy Bay NP",
+    "parkShortName": "Crowdy Bay NP",
     "id": 71
   },
   {
     "shortName": "Dingo Dell",
     "latitude": -33.97375,
     "longitude": 149.96516,
-    "park_name": "Kanangra-Boyd NP",
+    "parkShortName": "Kanangra-Boyd NP",
     "id": 72
   },
   {
     "shortName": "Dingo Tops",
     "latitude": -31.66617,
     "longitude": 152.14363,
-    "park_name": "Tapin Tops NP",
+    "parkShortName": "Tapin Tops NP",
     "id": 73
   },
   {
     "shortName": "Doon Goonge",
-    "park_name": "Chaelundi NP",
+    "parkShortName": "Chaelundi NP",
     "id": 74
   },
   {
     "shortName": "Double Wharf",
-    "park_name": "Karuah NR",
+    "parkShortName": "Karuah NR",
     "id": 75
   },
   {
     "shortName": "Dry Tank",
     "latitude": -30.5193,
     "longitude": 145.7116,
-    "park_name": "Gundabooka NP",
+    "parkShortName": "Gundabooka NP",
     "id": 76
   },
   {
     "shortName": "Dunns Swamp",
     "latitude": -32.83361,
     "longitude": 150.19759,
-    "park_name": "Wollemi NP",
+    "parkShortName": "Wollemi NP",
     "id": 77
   },
   {
     "shortName": "Emu Lake",
-    "park_name": "Kinchega NP",
+    "parkShortName": "Kinchega NP",
     "id": 78
   },
   {
     "shortName": "Euroka",
-    "park_name": "Blue Mountains NP",
+    "parkShortName": "Blue Mountains NP",
     "id": 79
   },
   {
     "shortName": "Euroka (trailer area)",
     "latitude": -33.80002,
     "longitude": 150.61707,
-    "park_name": "Blue Mountains NP",
+    "parkShortName": "Blue Mountains NP",
     "id": 80
   },
   {
     "shortName": "Federal Falls",
     "latitude": -33.34896,
     "longitude": 148.9772,
-    "park_name": "Mount Canobolas SCA",
+    "parkShortName": "Mount Canobolas SCA",
     "id": 81
   },
   {
     "shortName": "Finchley",
     "latitude": -32.98,
     "longitude": 151.0134,
-    "park_name": "Yengo NP",
+    "parkShortName": "Yengo NP",
     "id": 82
   },
   {
     "shortName": "Forest Tops",
-    "park_name": "Border Ranges NP",
+    "parkShortName": "Border Ranges NP",
     "id": 83
   },
   {
     "shortName": "Fort Grey",
-    "park_name": "Sturt NP",
+    "parkShortName": "Sturt NP",
     "id": 84
   },
   {
     "shortName": "Frazer",
     "latitude": -33.1864,
     "longitude": 151.6228,
-    "park_name": "Munmorah SCA",
+    "parkShortName": "Munmorah SCA",
     "id": 85
   },
   {
     "shortName": "Freemans",
     "latitude": -33.2006,
     "longitude": 151.6038,
-    "park_name": "Munmorah SCA",
+    "parkShortName": "Munmorah SCA",
     "id": 86
   },
   {
     "shortName": "Freshwater",
     "latitude": -32.48671,
     "longitude": 152.30508,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 87
   },
   {
     "shortName": "Gambells Rest",
     "latitude": -34.66914,
     "longitude": 150.29737,
-    "park_name": "Morton NP",
+    "parkShortName": "Morton NP",
     "id": 88
   },
   {
     "shortName": "Geehi Flats",
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 89
   },
   {
     "shortName": "Gentlemans Halt",
-    "park_name": "Marramarra NP",
+    "parkShortName": "Marramarra NP",
     "id": 90
   },
   {
     "shortName": "Ghost Gully",
     "latitude": -35.6927,
     "longitude": 148.5919,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 91
   },
   {
     "shortName": "Gillards",
-    "park_name": "Mimosa Rocks NP",
+    "parkShortName": "Mimosa Rocks NP",
     "id": 92
   },
   {
     "shortName": "Glendora",
-    "park_name": "Hill End",
+    "parkShortName": "Hill End",
     "id": 93
   },
   {
     "shortName": "Gloucester River",
     "latitude": -32.0589,
     "longitude": 151.6834,
-    "park_name": "Barrington Tops NP",
+    "parkShortName": "Barrington Tops NP",
     "id": 94
   },
   {
     "shortName": "Green Gully",
-    "park_name": "Oxley Wild Rivers NP",
+    "parkShortName": "Oxley Wild Rivers NP",
     "id": 95
   },
   {
     "shortName": "Greenbah",
-    "park_name": "Goobang NP",
+    "parkShortName": "Goobang NP",
     "id": 96
   },
   {
     "shortName": "Group",
-    "park_name": "Willandra NP",
+    "parkShortName": "Willandra NP",
     "id": 97
   },
   {
     "shortName": "Gummi Falls",
     "latitude": -31.903,
     "longitude": 151.4688,
-    "park_name": "Barrington Tops NP",
+    "parkShortName": "Barrington Tops NP",
     "id": 98
   },
   {
     "shortName": "Gunneemooroo",
-    "park_name": "Warrumbungle NP",
+    "parkShortName": "Warrumbungle NP",
     "id": 99
   },
   {
     "shortName": "Halls Peak",
-    "park_name": "Oxley Wild Rivers NP",
+    "parkShortName": "Oxley Wild Rivers NP",
     "id": 100
   },
   {
     "shortName": "Heartbreak Hill",
-    "park_name": "Parr SCA",
+    "parkShortName": "Parr SCA",
     "id": 101
   },
   {
     "shortName": "Hobart Beach",
     "latitude": -36.7969,
     "longitude": 149.9406,
-    "park_name": "Bournda NP",
+    "parkShortName": "Bournda NP",
     "id": 102
   },
   {
     "shortName": "Homestead Creek",
     "latitude": -31.2846,
     "longitude": 142.2931,
-    "park_name": "Mutawintji NP",
+    "parkShortName": "Mutawintji NP",
     "id": 103
   },
   {
     "shortName": "Horse Swamp",
     "latitude": -31.927,
     "longitude": 151.3872,
-    "park_name": "Barrington Tops NP",
+    "parkShortName": "Barrington Tops NP",
     "id": 104
   },
   {
     "shortName": "Humes Crossing",
     "latitude": -35.47266,
     "longitude": 148.27679,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 105
   },
   {
     "shortName": "Hungry Gate",
     "latitude": -31.07977,
     "longitude": 153.04207,
-    "park_name": "Hat Head NP",
+    "parkShortName": "Hat Head NP",
     "id": 106
   },
   {
     "shortName": "Illaroo",
     "latitude": -29.75692,
     "longitude": 153.29134,
-    "park_name": "Yuraygir NP",
+    "parkShortName": "Yuraygir NP",
     "id": 107
   },
   {
     "shortName": "Indian Head",
     "latitude": -31.73122,
     "longitude": 152.79396,
-    "park_name": "Crowdy Bay NP",
+    "parkShortName": "Crowdy Bay NP",
     "id": 108
   },
   {
     "shortName": "Ingar",
     "latitude": -33.771,
     "longitude": 150.463,
-    "park_name": "Blue Mountains NP",
+    "parkShortName": "Blue Mountains NP",
     "id": 109
   },
   {
     "shortName": "Iron Pot Creek",
     "latitude": -28.52166,
     "longitude": 152.74796,
-    "park_name": "Toonumbar NP",
+    "parkShortName": "Toonumbar NP",
     "id": 110
   },
   {
     "shortName": "Island Bend",
     "latitude": -36.32572,
     "longitude": 148.47309,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 111
   },
   {
     "shortName": "Jacob's River",
     "latitude": -36.7496,
     "longitude": 148.4458,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 112
   },
   {
     "shortName": "Joes Cove",
     "latitude": -32.49792,
     "longitude": 152.30497,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 113
   },
   {
     "shortName": "Johnsons Beach",
     "latitude": -32.48496,
     "longitude": 152.32792,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 114
   },
   {
     "shortName": "Jounama Creek campground 1",
     "latitude": -35.56695,
     "longitude": 148.32683,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 115
   },
   {
     "shortName": "Junction Pools",
     "latitude": -32.02746,
     "longitude": 151.43618,
-    "park_name": "Barrington Tops NP",
+    "parkShortName": "Barrington Tops NP",
     "id": 116
   },
   {
     "shortName": "Kingfisher Pool",
     "latitude": -34.12665,
     "longitude": 150.97787,
-    "park_name": "Heathcote NP",
+    "parkShortName": "Heathcote NP",
     "id": 117
   },
   {
     "shortName": "Kings Plains Creek",
-    "park_name": "Kings Plains NP",
+    "parkShortName": "Kings Plains NP",
     "id": 118
   },
   {
     "shortName": "Koreelah Creek",
-    "park_name": "Koreelah NP",
+    "parkShortName": "Koreelah NP",
     "id": 119
   },
   {
     "shortName": "Korsmans Landing",
     "latitude": -32.47166,
     "longitude": 152.28465,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 120
   },
   {
     "shortName": "Kosciuszko",
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 121
   },
   {
     "shortName": "Kylies Beach",
     "latitude": -31.7358,
     "longitude": 152.7906,
-    "park_name": "Crowdy Bay NP",
+    "parkShortName": "Crowdy Bay NP",
     "id": 122
   },
   {
     "shortName": "Lake Arragan and Red Cliff",
     "latitude": -29.5678,
     "longitude": 153.33469,
-    "park_name": "Yuraygir NP",
+    "parkShortName": "Yuraygir NP",
     "id": 123
   },
   {
     "shortName": "Lake Cawndilla",
-    "park_name": "Kinchega NP",
+    "parkShortName": "Kinchega NP",
     "id": 124
   },
   {
     "shortName": "Lake Creek",
-    "park_name": "Wadbilliga NP",
+    "parkShortName": "Wadbilliga NP",
     "id": 125
   },
   {
     "shortName": "Lane Cove River",
     "latitude": -33.79077,
     "longitude": 151.14421,
-    "park_name": "Lane Cove NP",
+    "parkShortName": "Lane Cove NP",
     "id": 126
   },
   {
     "shortName": "Leatherbarrel Creek",
     "latitude": -36.5257,
     "longitude": 148.193,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 127
   },
   {
     "shortName": "Lemon Tree Flat",
-    "park_name": "Kwiambal NP",
+    "parkShortName": "Kwiambal NP",
     "id": 128
   },
   {
     "shortName": "Little Beach",
     "latitude": -33.5103,
     "longitude": 151.4179,
-    "park_name": "Bouddi NP",
+    "parkShortName": "Bouddi NP",
     "id": 129
   },
   {
     "shortName": "Little Mountain",
     "latitude": -32.60566,
     "longitude": 151.94745,
-    "park_name": "Karuah NR",
+    "parkShortName": "Karuah NR",
     "id": 130
   },
   {
     "shortName": "Little Murray",
     "latitude": -31.98269,
     "longitude": 151.46053,
-    "park_name": "Barrington Tops NP",
+    "parkShortName": "Barrington Tops NP",
     "id": 131
   },
   {
     "shortName": "Log Bridge Creek",
     "latitude": -35.41869,
     "longitude": 148.27306,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 132
   },
   {
     "shortName": "Long Plain Hut",
     "latitude": -35.69739,
     "longitude": 148.53773,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 133
   },
   {
     "shortName": "Long Point",
     "latitude": -30.66711,
     "longitude": 151.93286,
-    "park_name": "Oxley Wild Rivers NP",
+    "parkShortName": "Oxley Wild Rivers NP",
     "id": 134
   },
   {
     "shortName": "Mackaway Bay",
     "latitude": -32.46348,
     "longitude": 152.28154,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 135
   },
   {
     "shortName": "Main camp",
-    "park_name": "Mungo NP",
+    "parkShortName": "Mungo NP",
     "id": 136
   },
   {
     "shortName": "Mann River",
-    "park_name": "Mann River NR",
+    "parkShortName": "Mann River NR",
     "id": 137
   },
   {
     "shortName": "Marramarra Creek",
-    "park_name": "Marramarra NP",
+    "parkShortName": "Marramarra NP",
     "id": 138
   },
   {
     "shortName": "Melaleuca",
     "latitude": -31.27985,
     "longitude": 152.96719,
-    "park_name": "Limeburners Creek NR",
+    "parkShortName": "Limeburners Creek NR",
     "id": 139
   },
   {
     "shortName": "Middle Beach",
     "latitude": -36.64396,
     "longitude": 150.01317,
-    "park_name": "Mimosa Rocks NP",
+    "parkShortName": "Mimosa Rocks NP",
     "id": 140
   },
   {
     "shortName": "Mill Creek",
     "latitude": -33.4011,
     "longitude": 151.0435,
-    "park_name": "Dharug NP",
+    "parkShortName": "Dharug NP",
     "id": 141
   },
   {
     "shortName": "Mogo Creek",
     "latitude": -33.14483,
     "longitude": 151.09156,
-    "park_name": "Yengo NP",
+    "parkShortName": "Yengo NP",
     "id": 142
   },
   {
     "shortName": "Mooraback",
     "latitude": -31.14776,
     "longitude": 152.21624,
-    "park_name": "Werrikimbe NP",
+    "parkShortName": "Werrikimbe NP",
     "id": 143
   },
   {
     "shortName": "Mount Werong",
-    "park_name": "Blue Mountains NP",
+    "parkShortName": "Blue Mountains NP",
     "id": 144
   },
   {
     "shortName": "Mount Wood",
-    "park_name": "Sturt NP",
+    "parkShortName": "Sturt NP",
     "id": 145
   },
   {
     "shortName": "Mulligans",
     "latitude": -29.51623,
     "longitude": 152.36021,
-    "park_name": "Gibraltar Range NP",
+    "parkShortName": "Gibraltar Range NP",
     "id": 146
   },
   {
     "shortName": "Mungo Brush",
     "latitude": -32.54368,
     "longitude": 152.30619,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 147
   },
   {
     "shortName": "Murphys Glen",
     "latitude": -33.76975,
     "longitude": 150.49078,
-    "park_name": "Blue Mountains NP",
+    "parkShortName": "Blue Mountains NP",
     "id": 148
   },
   {
     "shortName": "Myall Creek",
     "latitude": -31.42941,
     "longitude": 151.5575,
-    "park_name": "Nowendoc NP",
+    "parkShortName": "Nowendoc NP",
     "id": 149
   },
   {
     "shortName": "Native Dog",
-    "park_name": "Cathedral Rock NP",
+    "parkShortName": "Cathedral Rock NP",
     "id": 150
   },
   {
     "shortName": "Neranie Head",
     "latitude": -32.40867,
     "longitude": 152.45246,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 151
   },
   {
     "shortName": "New Country Swamp",
-    "park_name": "Mummel Gulf NP",
+    "parkShortName": "Mummel Gulf NP",
     "id": 152
   },
   {
     "shortName": "Newnes",
     "latitude": -33.17322,
     "longitude": 150.23965,
-    "park_name": "Wollemi NP",
+    "parkShortName": "Wollemi NP",
     "id": 153
   },
   {
     "shortName": "Ngarigo",
     "latitude": -36.4586,
     "longitude": 148.384,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 154
   },
   {
     "shortName": "North Era",
     "latitude": -34.1772,
     "longitude": 151.05582,
-    "park_name": "Royal NP",
+    "parkShortName": "Royal NP",
     "id": 155
   },
   {
     "shortName": "Nunnock",
     "latitude": -36.70356,
     "longitude": 149.44711,
-    "park_name": "South East Forest NP",
+    "parkShortName": "South East Forest NP",
     "id": 156
   },
   {
     "shortName": "Nymboida River",
     "latitude": -29.7123,
     "longitude": 152.5598,
-    "park_name": "Nymboida NP",
+    "parkShortName": "Nymboida NP",
     "id": 157
   },
   {
     "shortName": "O'Hares",
     "latitude": -35.81827,
     "longitude": 148.36507,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 158
   },
   {
     "shortName": "Old Geehi",
     "latitude": -36.38312,
     "longitude": 148.17959,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 159
   },
   {
     "shortName": "Old Snowy",
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 160
   },
   {
     "shortName": "Olive Downs",
-    "park_name": "Sturt NP",
+    "parkShortName": "Sturt NP",
     "id": 161
   },
   {
     "shortName": "Peacock Creek",
     "latitude": -28.66001,
     "longitude": 152.7157,
-    "park_name": "Richmond Range NP",
+    "parkShortName": "Richmond Range NP",
     "id": 162
   },
   {
     "shortName": "Pebbly Beach",
     "latitude": -29.94335,
     "longitude": 153.25671,
-    "park_name": "Yuraygir NP",
+    "parkShortName": "Yuraygir NP",
     "id": 163
   },
   {
     "shortName": "Pebbly Beach",
     "latitude": -35.6071,
     "longitude": 150.3262,
-    "park_name": "Murramarang NP",
+    "parkShortName": "Murramarang NP",
     "id": 164
   },
   {
     "shortName": "Perrys Lookdown",
     "latitude": -33.59935,
     "longitude": 150.34592,
-    "park_name": "Blue Mountains NP",
+    "parkShortName": "Blue Mountains NP",
     "id": 165
   },
   {
     "shortName": "Picnic Point",
     "latitude": -36.6138,
     "longitude": 150.0289,
-    "park_name": "Mimosa Rocks NP",
+    "parkShortName": "Mimosa Rocks NP",
     "id": 166
   },
   {
     "shortName": "Pinch River",
     "latitude": -36.79352,
     "longitude": 148.40593,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 167
   },
   {
     "shortName": "Plateau Beech",
     "latitude": -31.18047,
     "longitude": 152.32696,
-    "park_name": "Werrikimbe NP",
+    "parkShortName": "Werrikimbe NP",
     "id": 168
   },
   {
     "shortName": "Platypus Flat",
     "latitude": -30.25262,
     "longitude": 152.6378,
-    "park_name": "Nymboi-Binderay NP",
+    "parkShortName": "Nymboi-Binderay NP",
     "id": 169
   },
   {
     "shortName": "Point Plomer",
     "latitude": -31.31338,
     "longitude": 152.97156,
-    "park_name": "Limeburners Creek NR",
+    "parkShortName": "Limeburners Creek NR",
     "id": 170
   },
   {
     "shortName": "Polblue",
     "latitude": -31.957,
     "longitude": 151.4268,
-    "park_name": "Barrington Tops NP",
+    "parkShortName": "Barrington Tops NP",
     "id": 171
   },
   {
     "shortName": "Postman's",
-    "park_name": "South East Forest NP",
+    "parkShortName": "South East Forest NP",
     "id": 172
   },
   {
     "shortName": "Pretty Beach",
     "latitude": -35.5675,
     "longitude": 150.366,
-    "park_name": "Murramarang NP",
+    "parkShortName": "Murramarang NP",
     "id": 173
   },
   {
     "shortName": "Putty Beach",
     "latitude": -33.5273,
     "longitude": 151.3713,
-    "park_name": "Bouddi NP",
+    "parkShortName": "Bouddi NP",
     "id": 174
   },
   {
     "shortName": "Rivermouth",
     "latitude": -32.51894,
     "longitude": 152.24838,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 175
   },
   {
     "shortName": "Riverside",
-    "park_name": "Oxley Wild Rivers NP",
+    "parkShortName": "Oxley Wild Rivers NP",
     "id": 176
   },
   {
     "shortName": "Rock Flat",
     "latitude": -35.4002,
     "longitude": 148.4324,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 177
   },
   {
     "shortName": "Rocky Plain",
     "latitude": -35.8917,
     "longitude": 148.5416,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 178
   },
   {
     "shortName": "Rummery Park",
     "latitude": -28.5988,
     "longitude": 153.3784,
-    "park_name": "Whian Whian SCA",
+    "parkShortName": "Whian Whian SCA",
     "id": 179
   },
   {
     "shortName": "Running Waters",
     "latitude": -36.81348,
     "longitude": 148.40452,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 180
   },
   {
     "shortName": "Saltwater Creek",
     "latitude": -37.1694,
     "longitude": 150.0005,
-    "park_name": "Ben Boyd NP",
+    "parkShortName": "Ben Boyd NP",
     "id": 181
   },
   {
     "shortName": "Samual Bollard",
-    "park_name": "Woomargama NP",
+    "parkShortName": "Woomargama NP",
     "id": 182
   },
   {
     "shortName": "Sandon River",
     "latitude": -29.6739,
     "longitude": 153.3273,
-    "park_name": "Yuraygir NP",
+    "parkShortName": "Yuraygir NP",
     "id": 183
   },
   {
     "shortName": "Scotchie's Yards",
     "latitude": -36.86548,
     "longitude": 148.41364,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 184
   },
   {
     "shortName": "Sheepstation Creek",
     "latitude": -28.4136,
     "longitude": 153.0229,
-    "park_name": "Border Ranges NP",
+    "parkShortName": "Border Ranges NP",
     "id": 185
   },
   {
     "shortName": "Shelley Head",
-    "park_name": "Yuraygir NP",
+    "parkShortName": "Yuraygir NP",
     "id": 186
   },
   {
     "shortName": "Shelly Beach",
     "latitude": -32.45604,
     "longitude": 152.37841,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 187
   },
   {
     "shortName": "Silent Creek",
-    "park_name": "Abercrombie River NP",
+    "parkShortName": "Abercrombie River NP",
     "id": 188
   },
   {
     "shortName": "Six Mile Creek",
     "latitude": -36.78646,
     "longitude": 149.53885,
-    "park_name": "South East Forest NP",
+    "parkShortName": "South East Forest NP",
     "id": 189
   },
   {
     "shortName": "Smoky Cape",
     "latitude": -30.9272,
     "longitude": 153.0792,
-    "park_name": "Hat Head NP",
+    "parkShortName": "Hat Head NP",
     "id": 190
   },
   {
     "shortName": "Spring Gully Camp",
-    "park_name": "Goulburn River NP",
+    "parkShortName": "Goulburn River NP",
     "id": 191
   },
   {
     "shortName": "Station Creek",
     "latitude": -29.95094,
     "longitude": 153.2466,
-    "park_name": "Yuraygir NP",
+    "parkShortName": "Yuraygir NP",
     "id": 192
   },
   {
     "shortName": "Stewart and Lloyds",
     "latitude": -32.60498,
     "longitude": 152.24105,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 193
   },
   {
     "shortName": "Sunnyside",
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 194
   },
   {
     "shortName": "Tallow Beach",
     "latitude": -33.53652,
     "longitude": 151.35081,
-    "park_name": "Bouddi NP",
+    "parkShortName": "Bouddi NP",
     "id": 195
   },
   {
     "shortName": "Tattersals",
     "latitude": -32.58563,
     "longitude": 151.96812,
-    "park_name": "Karuah NR",
+    "parkShortName": "Karuah NR",
     "id": 196
   },
   {
     "shortName": "Ten Mile Hollow",
     "latitude": -33.32754,
     "longitude": 151.08948,
-    "park_name": "Dharug NP",
+    "parkShortName": "Dharug NP",
     "id": 197
   },
   {
     "shortName": "Terarra Creek",
-    "park_name": "Nangar NP",
+    "parkShortName": "Nangar NP",
     "id": 198
   },
   {
     "shortName": "The Barracks",
-    "park_name": "Coolah Tops NP",
+    "parkShortName": "Coolah Tops NP",
     "id": 199
   },
   {
     "shortName": "The Basin",
     "latitude": -33.60311,
     "longitude": 151.29324,
-    "park_name": "Ku-ring-gai Chase NP",
+    "parkShortName": "Ku-ring-gai Chase NP",
     "id": 200
   },
   {
     "shortName": "The Beach",
-    "park_name": "Abercrombie River NP",
+    "parkShortName": "Abercrombie River NP",
     "id": 201
   },
   {
     "shortName": "The Diggings",
-    "park_name": "Turon NP",
+    "parkShortName": "Turon NP",
     "id": 202
   },
   {
     "shortName": "The Junction",
     "latitude": -30.07047,
     "longitude": 152.75668,
-    "park_name": "Nymboi-Binderay NP",
+    "parkShortName": "Nymboi-Binderay NP",
     "id": 203
   },
   {
     "shortName": "The Pines",
     "latitude": -35.4483,
     "longitude": 148.2844,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 204
   },
   {
     "shortName": "The Pines",
-    "park_name": "Coolah Tops NP",
+    "parkShortName": "Coolah Tops NP",
     "id": 205
   },
   {
     "shortName": "The Ruins",
     "latitude": -32.3106,
     "longitude": 152.5194,
-    "park_name": "Booti Booti NP",
+    "parkShortName": "Booti Booti NP",
     "id": 206
   },
   {
     "shortName": "The Sink",
     "latitude": -34.0905,
     "longitude": 149.65711,
-    "park_name": "Abercrombie River NP",
+    "parkShortName": "Abercrombie River NP",
     "id": 207
   },
   {
     "shortName": "The Wells",
     "latitude": -32.52077,
     "longitude": 152.32258,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 208
   },
   {
     "shortName": "Thredbo Diggings",
     "latitude": -36.44679,
     "longitude": 148.42513,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 209
   },
   {
     "shortName": "Three Mile Dam East",
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 210
   },
   {
     "shortName": "Three Mile Dam West",
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 211
   },
   {
     "shortName": "Thungutti",
     "latitude": -30.50426,
     "longitude": 152.38199,
-    "park_name": "New England NP",
+    "parkShortName": "New England NP",
     "id": 212
   },
   {
     "shortName": "Tia Falls",
     "latitude": -31.16046,
     "longitude": 151.85318,
-    "park_name": "Oxley Wild Rivers NP",
+    "parkShortName": "Oxley Wild Rivers NP",
     "id": 213
   },
   {
     "shortName": "Tin Mines",
-    "park_name": "Woomargama NP",
+    "parkShortName": "Woomargama NP",
     "id": 214
   },
   {
     "shortName": "Tom Groggin",
     "latitude": -36.5384,
     "longitude": 148.1343,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 215
   },
   {
     "shortName": "Trial Bay Gaol",
-    "park_name": "Arakoon SCA",
+    "parkShortName": "Arakoon SCA",
     "id": 216
   },
   {
     "shortName": "Two Mile Sands",
     "latitude": -32.48214,
     "longitude": 152.29753,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 217
   },
   {
     "shortName": "Uloola Falls",
     "latitude": -34.1086,
     "longitude": 151.038,
-    "park_name": "Royal NP",
+    "parkShortName": "Royal NP",
     "id": 218
   },
   {
     "shortName": "Village",
-    "park_name": "Hill End",
+    "parkShortName": "Hill End",
     "id": 219
   },
   {
     "shortName": "Violet Hill",
     "latitude": -32.4695,
     "longitude": 152.32698,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 220
   },
   {
     "shortName": "Wallingat River",
     "latitude": -32.3307,
     "longitude": 152.4041,
-    "park_name": "Wallingat NP",
+    "parkShortName": "Wallingat NP",
     "id": 221
   },
   {
     "shortName": "Wanda Wandong",
-    "park_name": "Goobang NP",
+    "parkShortName": "Goobang NP",
     "id": 222
   },
   {
     "shortName": "Waratah Gully",
     "latitude": -37.00248,
     "longitude": 149.38427,
-    "park_name": "South East Forest NP",
+    "parkShortName": "South East Forest NP",
     "id": 223
   },
   {
     "shortName": "Wards Glen",
-    "park_name": "The Glen NR",
+    "parkShortName": "The Glen NR",
     "id": 224
   },
   {
     "shortName": "Wares Yards",
     "latitude": -35.8764,
     "longitude": 148.6203,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 225
   },
   {
     "shortName": "Warrabah",
-    "park_name": "Warrabah NP",
+    "parkShortName": "Warrabah NP",
     "id": 226
   },
   {
     "shortName": "Washpools",
     "latitude": -31.91462,
     "longitude": 150.79479,
-    "park_name": "Towarri NP",
+    "parkShortName": "Towarri NP",
     "id": 227
   },
   {
     "shortName": "Wheeny Creek",
     "latitude": -33.45663,
     "longitude": 150.72224,
-    "park_name": "Wollemi NP",
+    "parkShortName": "Wollemi NP",
     "id": 228
   },
   {
     "shortName": "White Tree Bay",
     "latitude": -32.52912,
     "longitude": 152.32264,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 229
   },
   {
     "shortName": "Willandra",
-    "park_name": "Willandra NP",
+    "parkShortName": "Willandra NP",
     "id": 230
   },
   {
     "shortName": "Woko",
-    "park_name": "Woko NP",
+    "parkShortName": "Woko NP",
     "id": 231
   },
   {
     "shortName": "Wombat Creek",
-    "park_name": "Barrington Tops NP",
+    "parkShortName": "Barrington Tops NP",
     "id": 232
   },
   {
     "shortName": "Wombeyan Caves",
     "latitude": -34.30369,
     "longitude": 149.97194,
-    "park_name": "Wombeyan KCR",
+    "parkShortName": "Wombeyan KCR",
     "id": 233
   },
   {
     "shortName": "Woody Head",
     "latitude": -29.3656,
     "longitude": 153.3725,
-    "park_name": "Bundjalung NP",
+    "parkShortName": "Bundjalung NP",
     "id": 234
   },
   {
     "shortName": "Woolshed Flat",
-    "park_name": "Cocoparra NP",
+    "parkShortName": "Cocoparra NP",
     "id": 235
   },
   {
     "shortName": "Woolshed Flat",
     "latitude": -33.20563,
     "longitude": 149.96116,
-    "park_name": "Turon NP",
+    "parkShortName": "Turon NP",
     "id": 236
   },
   {
     "shortName": "Wyanbene Cave",
-    "park_name": "Deua NP",
+    "parkShortName": "Deua NP",
     "id": 237
   },
   {
     "shortName": "Yachting Point",
     "latitude": -35.51146,
     "longitude": 148.26627,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 238
   },
   {
     "shortName": "Yagon",
     "latitude": -32.4532,
     "longitude": 152.4949,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 239
   },
   {
     "shortName": "Yarrangobilly Village",
     "latitude": -35.65237,
     "longitude": 148.46252,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 240
   },
   {
     "shortName": "Yolde",
     "latitude": -35.53859,
     "longitude": 148.29567,
-    "park_name": "Kosciuszko NP",
+    "parkShortName": "Kosciuszko NP",
     "id": 241
   },
   {
     "shortName": "Youdales",
     "latitude": -31.12727,
     "longitude": 152.27959,
-    "park_name": "Oxley Wild Rivers NP",
+    "parkShortName": "Oxley Wild Rivers NP",
     "id": 242
   },
   {
     "shortName": "Youngville",
     "latitude": -32.19967,
     "longitude": 151.3095,
-    "park_name": "Mount Royal NP",
+    "parkShortName": "Mount Royal NP",
     "id": 243
   },
   {
     "shortName": "Sunny Side",
     "latitude": -32.45147,
     "longitude": 152.28807,
-    "park_name": "Myall Lakes NP",
+    "parkShortName": "Myall Lakes NP",
     "id": 244
   },
   {
     "shortName": "Gap Creek",
     "latitude": -33.0136,
     "longitude": 151.4302,
-    "park_name": "Watagans NP",
+    "parkShortName": "Watagans NP",
     "id": 245
   },
   {
     "shortName": "Bangalow",
     "latitude": -33.0174,
     "longitude": 151.4248,
-    "park_name": "Watagans NP",
+    "parkShortName": "Watagans NP",
     "id": 246
   },
   {
     "shortName": "Abercrombie Caves",
-    "park_name": "Abercrombie KCR",
+    "parkShortName": "Abercrombie KCR",
     "id": 247
   }
 ]
