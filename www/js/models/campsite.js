@@ -234,7 +234,15 @@ App.Campsite = DS.Model.extend({
     else {
       return list.slice(0, -1).join(", ") + " and " + list[list.length - 1];      
     }
-  }
+  },
+
+  mapUrl: function() {
+    userLongitude = App.get("longitude");
+    userLatitude = App.get("latitude");
+    if (userLongitude && userLatitude) {
+      return "http://maps.google.com/maps?saddr=you+are+here@" + userLatitude + "," + userLongitude + "&daddr=" + this.get("shortName") + "@" + this.get("latitude") + "," + this.get("longitude") + ")";      
+    }
+  }.property("longitude", "latitude", "App.latitude", "App.longitude")
 
 });
 
