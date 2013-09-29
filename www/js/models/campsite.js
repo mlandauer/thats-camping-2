@@ -240,7 +240,7 @@ App.Campsite = DS.Model.extend({
     userLongitude = App.get("longitude");
     userLatitude = App.get("latitude");
     if (userLongitude && userLatitude) {
-      return "http://maps.google.com/maps?saddr=you+are+here@" + userLatitude + "," + userLongitude + "&daddr=" + this.get("shortName") + "@" + this.get("latitude") + "," + this.get("longitude") + ")";      
+      return "http://maps.google.com/maps?saddr=you+are+here@" + userLatitude + "," + userLongitude + "&daddr=" + this.get("shortName") + "@" + this.get("latitude") + "," + this.get("longitude");      
     }
   }.property("longitude", "latitude", "App.latitude", "App.longitude")
 
