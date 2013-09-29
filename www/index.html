@@ -25,7 +25,7 @@
 
   <body>
     <script type="text/x-handlebars" data-template-name="campsites">
-      <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar navbar-fixed-top">
         <div class="container">
           <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -57,6 +57,27 @@
           {{/each}}
         </div>
       </div><!-- /.container -->
+    </script>
+
+    <script type="text/x-handlebars" data-template-name="campsite">
+      <div class="navbar navbar-fixed-top">
+        <div class="container">
+          <div class="navbar-header">
+            <a href="#" class="btn">
+              <span class="glyphicon glyphicon-arrow-left"></span> Camping near you in NSW
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <h2>{{longName}}</h2>
+        <p>{{park_longName}}</p>
+        {{{html_description}}}
+
+        <h3>Hello!</h3>
+        <p>{{shortName}}</p>
+      </div>
     </script>
 
     <!-- Bootstrap core JavaScript
