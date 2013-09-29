@@ -34,24 +34,10 @@ all_parks = load_plist('Parks.plist')
 # end
 # write_json(data, "data.json")
 
-id = 1
+id = 0
 data = all_campsites.map do |campsite|
   park = all_parks.find{|park| campsite["parkWebId"] == park["webId"]}
-  campsite = campsite.merge("parkShortName" => park["shortName"], :id => id)
   id += 1
-  # For the time being we're removing the ones we aren't using
-  campsite.delete("webId")
-  campsite.delete("parkWebId")
-  campsite.delete("toilets")
-  campsite.delete("picnicTables")
-  campsite.delete("barbecues")
-  campsite.delete("showers")
-  campsite.delete("drinkingWater")
-  campsite.delete("caravans")
-  campsite.delete("trailers")
-  campsite.delete("car")
-  campsite.delete("description")
-  campsite.delete("longName")
-  campsite
+  campsite.merge("parkShortName" => park["shortName"], "parkLongName" => park["longName"], :id => id)
 end
 write_json(data, "campsites.json")

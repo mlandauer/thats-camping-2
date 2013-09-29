@@ -37,7 +37,10 @@ App.Campsite = DS.Model.extend({
   latitude: DS.attr('number'),
   longitude: DS.attr('number'),
   shortName: DS.attr('string'),
+  longName: DS.attr('string'),
   parkShortName: DS.attr('string'),
+  parkLongName: DS.attr('string'),
+  description: DS.attr('string'),
 
   distance: function() {
     userLatitude = App.get("latitude");
@@ -102,7 +105,12 @@ App.Campsite = DS.Model.extend({
     sector = Math.floor(((bearing + 22.5) % 360.0) / 45.0);
     sectorNames = [ "N", "NE", "E", "SE", "S", "SW", "W", "NW" ];
     return sectorNames[sector];
-  }.property("bearing")
+  }.property("bearing"),
+
+  html_description: function() {
+    description = this.get("description");
+    return "<p>" + description.replace("\n\n", "</p><p>") + "</p>";
+  }.property("description")
 
 });
 
