@@ -11,3 +11,9 @@ body {
 .list-group {
     margin-top: 10px;
 }
+.navbar-header .back {
+    margin-top: 8px;
+}
+.navbar-inverse .navbar-text {
+    color: #f2f2f2;
+}
