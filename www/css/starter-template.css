@@ -8,3 +8,6 @@ body {
 .short-name {
     font-weight: bold;
 }
+.list-group {
+    margin-top: 10px;
+}

@@ -46,7 +46,6 @@
       </div>
 
       <div class="container">
-        <p>Latitude: {{App.latitude}}, Longitude: {{App.longitude}}</p>
         <div class="list-group">
           {{#each}}
             {{#link-to 'campsite' this classNames=[list-group-item]}}
@@ -82,7 +81,7 @@
             <td>{{haveFacilitiesText}}</td>
           </tr>
           <tr>
-            <td>But no:</td>
+            <th>But no:</th>
             <td>{{notHaveFacilitiesText}}</td>
           </tr>
         </table>
@@ -90,11 +89,11 @@
         <h2>Access</h2>
         <table class="table table-bordered">
           <tr>
-            <td>For:</td>
+            <th>For:</th>
             <td>{{haveAccessText}}</td>
           </tr>
           <tr>
-            <td>Not for:</td>
+            <th>Not for:</th>
             <td>{{notHaveAccessText}}</td>
           </tr>
         </table>
