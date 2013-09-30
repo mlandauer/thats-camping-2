@@ -25,7 +25,7 @@
 
   <body>
     <script type="text/x-handlebars" data-template-name="campsites">
-      <div class="navbar navbar-fixed-top">
+      <div class="navbar navbar-fixed-top navbar-inverse">
         <div class="container">
           <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -41,17 +41,16 @@
               <li><a href="#about">About</a></li>
               <li><a href="#contact">Contact</a></li>
             </ul>
-          </div><!--/.nav-collapse -->
+          </div> <!--.nav-collapse -->
         </div>
       </div>
 
       <div class="container">
-        <p>Latitude: {{App.latitude}}, Longitude: {{App.longitude}}</p>
         <div class="list-group">
           {{#each}}
             {{#link-to 'campsite' this classNames=[list-group-item]}}
               <h4 class="list-group-item-heading pull-right">{{distanceText}} {{bearingText}}</h4>
-              <p class="list-group-item-text">{{shortName}}</p>
+              <p class="list-group-item-text short-name">{{shortName}}</p>
               <p class="list-group-item-text">{{parkShortName}}</p>
             {{/link-to}}
           {{/each}}
@@ -63,43 +62,43 @@
       <div class="navbar navbar-fixed-top">
         <div class="container">
           <div class="navbar-header">
-            <a href="#" class="btn">
-              <span class="glyphicon glyphicon-arrow-left"></span> Camping near you in NSW
+            <a href="#" class="btn btn-primary back">
+              <span class="glyphicon glyphicon-arrow-left"></span> More campsites near you
             </a>
           </div>
         </div>
       </div>
 
       <div class="container">
-        <h2>{{longName}}</h2>
+        <h1>{{longName}}</h1>
         <p>{{parkLongName}}</p>
         {{{html_description}}}
 
-        <h3>Facilities</h3>
+        <h2>Facilities</h2>
         <table class="table table-bordered">
           <tr>
-            <td>Has:</td>
+            <th>Has:</th>
             <td>{{haveFacilitiesText}}</td>
           </tr>
           <tr>
-            <td>But no:</td>
+            <th>But no:</th>
             <td>{{notHaveFacilitiesText}}</td>
           </tr>
         </table>
 
-        <h3>Access</h3>
+        <h2>Access</h2>
         <table class="table table-bordered">
           <tr>
-            <td>For:</td>
+            <th>For:</th>
             <td>{{haveAccessText}}</td>
           </tr>
           <tr>
-            <td>Not for:</td>
+            <th>Not for:</th>
             <td>{{notHaveAccessText}}</td>
           </tr>
         </table>
 
-        <a {{bindAttr href="mapUrl"}} class="btn">Directions to Campsite</a>
+        <a {{bindAttr href="mapUrl"}} class="btn btn-default">     <span class="glyphicon glyphicon-map-marker"></span> Directions to Campsite</a>
       </div>
     </script>
 
