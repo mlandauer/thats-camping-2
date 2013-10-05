@@ -17,3 +17,7 @@ body {
 .navbar-inverse .navbar-text {
     color: #f2f2f2;
 }
+
+.center {
+  text-align: center;
+}
