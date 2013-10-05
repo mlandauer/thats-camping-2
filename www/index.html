@@ -21,6 +21,10 @@
       <script src="../../assets/js/html5shiv.js"></script>
       <script src="../../assets/js/respond.min.js"></script>
     <![endif]-->
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+    <!--[if lte IE 8]>
+     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
+    <![endif]-->
   </head>
 
   <body>
@@ -80,7 +84,7 @@
         </div>
       </div>
       <div class="container">
-        <p>A map will go here!</p>
+        <div id="map"></div>
       </div>
     </script>
 
@@ -133,6 +137,7 @@
     <script src="js/libs/jquery-2.0.3.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/libs/bootstrap.min.js"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
 
     <script src="js/libs/handlebars-1.0.0.js"></script>
     <script src="js/libs/ember.js"></script>
@@ -142,5 +147,6 @@
     <script src="js/router.js"></script>
     <script src="js/models/campsite.js"></script>
     <script src="js/controllers/campsites.js"></script>
+    <script src="js/views/map.js"></script>
   </body>
 </html>
