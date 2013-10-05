@@ -1,6 +1,7 @@
 App.Router.map(function () {
   this.resource('campsites', { path: '/' });
-  this.resource('campsite', { path: '/campsite/:campsite_id'})
+  this.resource('campsite', { path: '/campsite/:campsite_id'});
+  this.resource('map'), { path: '/map'};
 });
 
 App.ApplicationRoute = Ember.Route.extend({

@@ -35,8 +35,12 @@
         <div class="container">
           <div class="center">
             <div class="btn-group">
-              <button type="button" class="btn btn-default navbar-btn">List</button>
-              <button type="button" class="btn btn-default navbar-btn">Map</button>
+              {{#link-to 'campsites' classNames=[btn btn-default navbar-btn]}}
+                List
+              {{/link-to}}
+              {{#link-to 'map' classNames=[btn btn-default navbar-btn]}}
+                Map
+              {{/link-to}}
             </div> 
           </div>
         </div>
@@ -53,6 +57,10 @@
           {{/each}}
         </div>
       </div><!-- /.container -->
+    </script>
+
+    <script type="text/x-handlebars" data-template-name="map">
+      <p>A map will go here!</p>
     </script>
 
     <script type="text/x-handlebars" data-template-name="campsite">
