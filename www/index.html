@@ -60,7 +60,28 @@
     </script>
 
     <script type="text/x-handlebars" data-template-name="map">
-      <p>A map will go here!</p>
+      <div class="navbar navbar-fixed-top navbar-inverse">
+        <div class="container">
+          <p class="navbar-text center">Camping near you in NSW</p>
+        </div>
+      </div>
+      <div class="navbar navbar-fixed-bottom navbar-inverse">
+        <div class="container">
+          <div class="center">
+            <div class="btn-group">
+              {{#link-to 'campsites' classNames=[btn btn-default navbar-btn]}}
+                List
+              {{/link-to}}
+              {{#link-to 'map' classNames=[btn btn-default navbar-btn]}}
+                Map
+              {{/link-to}}
+            </div> 
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <p>A map will go here!</p>
+      </div>
     </script>
 
     <script type="text/x-handlebars" data-template-name="campsite">
