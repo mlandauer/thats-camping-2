@@ -12,9 +12,9 @@ App.MapView = Ember.View.extend({
     }).addTo(map);
 
     // Assumes that the data has been loaded
-    console.log("this.controller", this.controller);
     this.controller.forEach(function(campsite){
       var marker = L.marker([campsite.get("latitude"), campsite.get("longitude")]);
+      marker.bindPopup(campsite.get("shortName") + " - " + campsite.get("parkShortName"), {closeButton: false});
       marker.addTo(map);
     });
   },
