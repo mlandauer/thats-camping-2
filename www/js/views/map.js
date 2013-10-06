@@ -15,12 +15,13 @@ App.MapView = Ember.View.extend({
   didUpdateLocation: function() {
     latitude = App.get("latitude");
     longitude = App.get("longitude");
-    zoom = 13;
-    if (latitude == null || longitude == null) {
-      latitude = -35;
-      longitude = 133;
-      zoom = 3;
+    map = this.get("map");
+    if (latitude != null && longitude != null) {
+      map.setView([latitude, longitude], 10);
+      var marker = L.marker([latitude, longitude]).addTo(map);      
     }
-    this.get("map").setView([latitude, longitude], zoom);
+    else {
+      map.setView([-35, 133], 3);
+    }
   }.observes("App.latitude", "App.longitude")
 });
