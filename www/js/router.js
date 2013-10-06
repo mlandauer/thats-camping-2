@@ -19,6 +19,9 @@ App.ApplicationRoute = Ember.Route.extend({
         store.pushMany('campsite', data);
       }
     });
+  },
+  setupController: function(controller, model) {
+    controller.updateLocation();
   }
 });
 
@@ -28,8 +31,4 @@ App.CampsitesRoute = Ember.Route.extend({
       return campsite.get("hasCoordinates");
     });
   },
-  setupController: function(controller, model) {
-    controller.updateLocation();
-    controller.set('model', model);
-  }
 });
