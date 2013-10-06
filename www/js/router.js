@@ -32,3 +32,11 @@ App.CampsitesRoute = Ember.Route.extend({
     });
   },
 });
+
+App.MapRoute = Ember.Route.extend({
+  model: function () {
+    return this.store.filter('campsite', function(campsite){
+      return campsite.get("hasCoordinates");
+    });
+  },
+});

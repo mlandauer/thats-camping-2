@@ -10,6 +10,13 @@ App.MapView = Ember.View.extend({
       attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
       maxZoom: 18
     }).addTo(map);
+
+    // Assumes that the data has been loaded
+    console.log("this.controller", this.controller);
+    this.controller.forEach(function(campsite){
+      var marker = L.marker([campsite.get("latitude"), campsite.get("longitude")]);
+      marker.addTo(map);
+    });
   },
 
   didUpdateLocation: function() {
@@ -18,6 +25,7 @@ App.MapView = Ember.View.extend({
     map = this.get("map");
     if (latitude != null && longitude != null) {
       map.setView([latitude, longitude], 10);
+      // TODO Move the existing marker
       var marker = L.marker([latitude, longitude]).addTo(map);      
     }
     else {
