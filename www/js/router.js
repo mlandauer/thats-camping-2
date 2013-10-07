@@ -14,7 +14,7 @@ App.ApplicationRoute = Ember.Route.extend({
     $.ajax({
       dataType: "json",
       url: "res/data/campsites.json",
-      async: false,
+      // async: false,
       success: function(data) {
         store.pushMany('campsite', data);
       }

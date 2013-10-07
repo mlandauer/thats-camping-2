@@ -43,3 +43,14 @@ body > .ember-view > .container {
 .list-group { 
   overflow: scroll;
 }
+
+.centered {
+  font-size: 20px;
+  width: 300px;
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  margin-left: -150px;
+  text-align: center;
+  vertical-align: middle;
+}
