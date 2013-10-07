@@ -8,9 +8,6 @@ body {
 .short-name {
     font-weight: bold;
 }
-.list-group {
-    margin-top: 10px;
-}
 .navbar-header .back {
     margin-top: 8px;
 }
@@ -28,4 +25,9 @@ body {
   width: 100%;
   height: 100%;
   left: 0;
+}
+
+.container.campsites {
+  padding-left: 0;
+  padding-right: 0;
 }
