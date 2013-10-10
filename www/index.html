@@ -51,7 +51,20 @@
       </div>
 
       <div class="container fullwidth">
-        <p class="centered">Loading campsites for you...</p>
+        <div class="modal" id="loadingModal">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <p>Loading campsites for you...</p>
+                <div class="progress progress-striped active">
+                  <div class="progress-bar"  role="progressbar" style="width: 100%">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div class="list-group">
           {{#each}}
             {{#link-to 'campsite' this classNames=[list-group-item]}}
@@ -150,5 +163,6 @@
     <script src="js/controllers/application.js"></script>
     <script src="js/controllers/campsites.js"></script>
     <script src="js/views/map.js"></script>
+    <script src="js/views/campsites.js"></script>
   </body>
 </html>

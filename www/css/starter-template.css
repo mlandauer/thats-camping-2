@@ -54,3 +54,9 @@ body > .ember-view > .container {
   text-align: center;
   vertical-align: middle;
 }
+
+body.modal-open,
+.modal-open .navbar-fixed-top,
+.modal-open .navbar-fixed-bottom {
+  margin-right: 0;
+}

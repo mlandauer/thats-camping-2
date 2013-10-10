@@ -17,6 +17,7 @@ App.ApplicationRoute = Ember.Route.extend({
       // async: false,
       success: function(data) {
         store.pushMany('campsite', data);
+        $("#loadingModal").modal('hide');
       }
     });
   },
