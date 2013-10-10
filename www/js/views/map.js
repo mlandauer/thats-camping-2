@@ -27,6 +27,7 @@ App.MapView = Ember.View.extend({
     longitude = App.get("longitude");
     map = this.get("map");
     if (latitude != null && longitude != null) {
+      console.log("In map new latitude, longitude:", latitude, longitude);
       map.setView([latitude, longitude], 10);
       // TODO Move the existing marker
       var marker = L.marker([latitude, longitude]).addTo(map);      
