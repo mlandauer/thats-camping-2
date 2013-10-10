@@ -111,6 +111,17 @@
         </div>
       </div>
 
+      <div class="navbar navbar-fixed-bottom navbar-inverse">
+        <div class="container">
+          <div class="center">
+            <a {{bindAttr href="mapUrl"}} class="btn btn-default navbar-btn">
+              <span class="glyphicon glyphicon-map-marker"></span>
+              Directions to Campsite
+            </a>
+          </div>
+        </div>
+      </div>
+
       <div class="container">
         <h1>{{longName}}</h1>
         <p>{{parkLongName}}</p>
@@ -139,8 +150,6 @@
             <td>{{notHaveAccessText}}</td>
           </tr>
         </table>
-
-        <a {{bindAttr href="mapUrl"}} class="btn btn-default">     <span class="glyphicon glyphicon-map-marker"></span> Directions to Campsite</a>
       </div>
     </script>
 

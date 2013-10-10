@@ -40,7 +40,7 @@ body > .ember-view > .container {
 }
 
 
-.list-group { 
+body > .ember-view > .container { 
   overflow: scroll;
 }
 
