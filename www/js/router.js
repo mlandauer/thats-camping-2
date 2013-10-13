@@ -13,17 +13,30 @@ App.ApplicationRoute = Ember.Route.extend({
 App.CampsitesRoute = Ember.Route.extend({
   model: function () {
     var store = this.get("store");
-    store.find('campsite');
-    return store.filter('campsite', function(campsite){
-      return campsite.get("hasCoordinates");
+    return store.find('campsite').then(function(){
+      return store.filter('campsite', function(campsite){
+        return campsite.get("hasCoordinates");
+      });      
     });
   },
 });
 
+App.CampsiteRoute = Ember.Route.extend({
+  model: function(params) {
+    var store = this.get("store");
+    return store.find('campsite').then(function(){
+      return store.find('campsite', params.campsite_id);
+    });
+  }
+});
+
 App.MapRoute = Ember.Route.extend({
   model: function () {
-    return this.store.filter('campsite', function(campsite){
-      return campsite.get("hasCoordinates");
+    var store = this.get("store");
+    return store.find('campsite').then(function(){
+      return store.filter('campsite', function(campsite){
+        return campsite.get("hasCoordinates");
+      });      
     });
   },
 });
