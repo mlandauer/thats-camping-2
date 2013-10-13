@@ -16,28 +16,27 @@ def write_json(data, output)
   end
 end
 
-def convert_plist_to_json(input, output)
-  write_json(load_plist(input), output)
-end
-
-#convert_plist_to_json('Campsites.plist', 'campsites.json')
-#convert_plist_to_json('Parks.plist', 'parks.json')
-
 # Merge campsites and parks into one file
 all_campsites = load_plist('Campsites.plist')
 all_parks = load_plist('Parks.plist')
 
-# data = all_parks.map do |park|
-#   # Find all campsites that are in this park
-#   campsites = all_campsites.find_all{|campsite| campsite["parkWebId"] == park["webId"]}
-#   park.merge("campsites" => [campsites])
-# end
-# write_json(data, "data.json")
+# Add ids
+id = 0
+all_campsites = all_campsites.map do |campsite|
+  id += 1
+  campsite.merge("id" => id)
+end
 
 id = 0
-data = all_campsites.map do |campsite|
-  park = all_parks.find{|park| campsite["parkWebId"] == park["webId"]}
+all_parks = all_parks.map do |park|
   id += 1
-  campsite.merge("parkShortName" => park["shortName"], "parkLongName" => park["longName"], :id => id)
+  park.merge("id" => id)
 end
-write_json({:campsites => data}, "campsites")
+
+campsites = all_campsites.map do |campsite|
+  park = all_parks.find{|park| campsite["parkWebId"] == park["webId"]}
+  # The Ember guide is currently incorrect. It suggests this should be park_id rather than park
+  campsite.merge(:park => park["id"])
+end
+
+write_json({:campsites => campsites, :parks => all_parks}, "campsites")

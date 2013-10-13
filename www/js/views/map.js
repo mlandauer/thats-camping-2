@@ -16,7 +16,7 @@ App.MapView = Ember.View.extend({
       var marker = L.marker([campsite.get("latitude"), campsite.get("longitude")]);
       // TODO Use view to generate the html (including the link)
       // Perhaps look at using http://gabesmed.github.io/ember-leaflet/ when it has support for views for the popups
-      html = "<a href=\"#/campsite/" + campsite.get("id") + "\">" + campsite.get("shortName") + " - " + campsite.get("parkShortName") + "</a>"
+      html = "<a href=\"#/campsite/" + campsite.get("id") + "\">" + campsite.get("shortName") + " - " + campsite.get("park.shortName") + "</a>"
       marker.bindPopup(html, {closeButton: false});
       marker.addTo(map);
     });

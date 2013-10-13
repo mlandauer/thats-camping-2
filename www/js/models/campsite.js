@@ -38,8 +38,6 @@ App.Campsite = DS.Model.extend({
   longitude: DS.attr('number'),
   shortName: DS.attr('string'),
   longName: DS.attr('string'),
-  parkShortName: DS.attr('string'),
-  parkLongName: DS.attr('string'),
   description: DS.attr('string'),
   toilets: DS.attr('string'),
   picnicTables: DS.attr('boolean'),
@@ -49,6 +47,7 @@ App.Campsite = DS.Model.extend({
   caravans: DS.attr('boolean'),
   trailers: DS.attr('boolean'),
   car: DS.attr('boolean'),
+  park: DS.belongsTo('park'),
 
   distance: function() {
     userLatitude = App.get("latitude");

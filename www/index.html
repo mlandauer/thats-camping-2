@@ -73,7 +73,7 @@
             {{#link-to 'campsite' this classNames=[list-group-item]}}
               <h4 class="list-group-item-heading pull-right">{{distanceText}} {{bearingText}}</h4>
               <p class="list-group-item-text short-name">{{shortName}}</p>
-              <p class="list-group-item-text">{{parkShortName}}</p>
+              <p class="list-group-item-text">{{park.shortName}}</p>
             {{/link-to}}
           {{/each}}
         </div>
@@ -129,7 +129,7 @@
 
       <div class="container">
         <h1>{{longName}}</h1>
-        <p>{{parkLongName}}</p>
+        <p>{{park.longName}}</p>
         {{{html_description}}}
 
         <h2>Facilities</h2>
@@ -214,6 +214,7 @@
     <script src="js/application.js"></script>
     <script src="js/router.js"></script>
     <script src="js/models/campsite.js"></script>
+    <script src="js/models/park.js"></script>
     <script src="js/controllers/application.js"></script>
     <script src="js/controllers/campsites.js"></script>
     <script src="js/views/map.js"></script>

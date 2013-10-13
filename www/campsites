@@ -16,9 +16,8 @@
       "trailers": false,
       "car": false,
       "description": "Explore the \"cradle of conservation\", the Blue Gum Forest. Enjoy birdwatching, long walks and plenty of photogenic flora.",
-      "parkShortName": "Blue Mountains NP",
-      "parkLongName": "Blue Mountains National Park",
-      "id": 1
+      "id": 1,
+      "park": 1
     },
     {
       "shortName": "Alexanders Hut",
@@ -34,9 +33,8 @@
       "trailers": false,
       "car": true,
       "description": "An historic timber slab hut that was occupied until the 1980s. Today it provides shelter and very basic facilities for bushwalkers and visitors. Camping on the grounds of the hut is also permitted.\n\nNunnock Swamp walking trail is nearby and there are opportunities for bird-watching and seeing wildflowers. It's an important site for early European cultural heritage.",
-      "parkShortName": "South East Forest NP",
-      "parkLongName": "South East Forest National Park",
-      "id": 2
+      "id": 2,
+      "park": 2
     },
     {
       "shortName": "Apsley Falls",
@@ -52,9 +50,8 @@
       "trailers": true,
       "car": true,
       "description": "This informal bushland setting, separated from the picnic area, gives easy access to Apsley Gorge Rim Walk and Oxley Walk.",
-      "parkShortName": "Oxley Wild Rivers NP",
-      "parkLongName": "Oxley Wild Rivers National Park",
-      "id": 3
+      "id": 3,
+      "park": 3
     },
     {
       "shortName": "Aragunnu",
@@ -72,9 +69,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Mimosa Rocks NP",
-      "parkLongName": "Mimosa Rocks National Park",
-      "id": 4
+      "id": 4,
+      "park": 4
     },
     {
       "shortName": "Bald Rock",
@@ -92,9 +88,8 @@
       "trailers": true,
       "car": true,
       "description": "From here, you can walk to Bald Rock summit, Little Bald Rock, or north to a viewing area beside the Queensland border.",
-      "parkShortName": "Bald Rock NP",
-      "parkLongName": "Bald Rock National Park",
-      "id": 5
+      "id": 5,
+      "park": 5
     },
     {
       "shortName": "Balor Hut",
@@ -110,9 +105,8 @@
       "trailers": false,
       "car": false,
       "description": "Balor Hut is the last remaining walkers hut in the Warrumbungle National Park. The campground is a 'walk-in' area at the base of The Breadknife and Grand High Tops. It's a great starting point for early morning walks to Bluff Mountain or even as far as Mount Exmouth.\n\nThere are eight (8) slab bunks in the hut but you will need to bring all your own bedding. There is a solid fuel fire in the hut and fireplace outside but you MUST bring your own firewood and adhere to fire season warnings.",
-      "parkShortName": "Warrumbungle NP",
-      "parkLongName": "Warrumbungle National Park",
-      "id": 6
+      "id": 6,
+      "park": 6
     },
     {
       "shortName": "Banksia Green",
@@ -130,9 +124,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is directly behind the park's dunes, with short walking access to the beach. There is good beach fishing, but surf conditions are often rough. The campground is close to Mungo Brush Rainforest Loop and the Tamboi walk.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 7
+      "id": 7,
+      "park": 7
     },
     {
       "shortName": "Bark Hut",
@@ -148,9 +141,8 @@
       "trailers": true,
       "car": true,
       "description": "The Scutts Hut and Euglah Rock Lookout walking tracks start from near this campground. If you're planning to use the wood barbecues, you'll need to bring your own firewood.",
-      "parkShortName": "Mount Kaputar NP",
-      "parkLongName": "Mount Kaputar National Park",
-      "id": 8
+      "id": 8,
+      "park": 8
     },
     {
       "shortName": "Barokee",
@@ -168,9 +160,8 @@
       "trailers": true,
       "car": true,
       "description": "From this campground, you can take an exhilarating walk to Cathedral Rock or relax and enjoy the wildlife around the campsite.",
-      "parkShortName": "Cathedral Rock NP",
-      "parkLongName": "Cathedral Rock National Park",
-      "id": 9
+      "id": 9,
+      "park": 9
     },
     {
       "shortName": "Behrs Flat",
@@ -186,9 +177,8 @@
       "trailers": true,
       "car": true,
       "description": "There are no set campsites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 10
+      "id": 10,
+      "park": 10
     },
     {
       "shortName": "Belah",
@@ -204,9 +194,8 @@
       "trailers": false,
       "car": true,
       "description": "",
-      "parkShortName": "Mungo NP",
-      "parkLongName": "Mungo National Park",
-      "id": 11
+      "id": 11,
+      "park": 11
     },
     {
       "shortName": "Bellbird",
@@ -224,9 +213,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Washpool NP",
-      "parkLongName": "Washpool National Park",
-      "id": 12
+      "id": 12,
+      "park": 12
     },
     {
       "shortName": "Ben Halls",
@@ -242,9 +230,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground has large, level, grassed campsites just beside the historic Seaton's Farm. Ben Halls Cave, the famous bushranger's hide-out, is a half-hour walk away. You'll need to bring drinking water, and there are no powered sites.",
-      "parkShortName": "Weddin Mountains NP",
-      "parkLongName": "Weddin Mountains National Park",
-      "id": 13
+      "id": 13,
+      "park": 13
     },
     {
       "shortName": "Bendethera Valley",
@@ -262,9 +249,8 @@
       "trailers": false,
       "car": true,
       "description": "This campground is in an open valley, with river crossings and grassy flats. It's good for walking, swimming, caving and picnicking.",
-      "parkShortName": "Deua NP",
-      "parkLongName": "Deua National Park",
-      "id": 14
+      "id": 14,
+      "park": 14
     },
     {
       "shortName": "Bents Basin",
@@ -282,9 +268,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Bents Basin SCA",
-      "parkLongName": "Bents Basin State Conservation Area",
-      "id": 15
+      "id": 15,
+      "park": 15
     },
     {
       "shortName": "Berlang",
@@ -302,9 +287,8 @@
       "trailers": false,
       "car": true,
       "description": "This campsite is a good spot for caving, walks to the Big Hole and Marble Arch, and swimming. There are 10 to 15 unmarked tent sites.",
-      "parkShortName": "Deua NP",
-      "parkLongName": "Deua National Park",
-      "id": 16
+      "id": 16,
+      "park": 14
     },
     {
       "shortName": "Big River Camp",
@@ -320,9 +304,8 @@
       "trailers": false,
       "car": true,
       "description": "You'll need to bring drinking water and firewood. Please take rubbish with you.",
-      "parkShortName": "Goulburn River NP",
-      "parkLongName": "Goulburn River National Park",
-      "id": 17
+      "id": 17,
+      "park": 16
     },
     {
       "shortName": "Bittangabee",
@@ -340,9 +323,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Ben Boyd NP",
-      "parkLongName": "Ben Boyd National Park",
-      "id": 18
+      "id": 18,
+      "park": 17
     },
     {
       "shortName": "Black Rocks",
@@ -358,9 +340,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground gives easy access to Ten Mile Beach. You'll need to bring your own water and firewood.",
-      "parkShortName": "Bundjalung NP",
-      "parkLongName": "Bundjalung National Park",
-      "id": 19
+      "id": 19,
+      "park": 18
     },
     {
       "shortName": "Blatherarm",
@@ -378,9 +359,8 @@
       "trailers": true,
       "car": true,
       "description": "Next to Blather Creek, this campground is popular for fossicking topaz and for nature walks.",
-      "parkShortName": "Torrington SCA",
-      "parkLongName": "Torrington State Conservation Area",
-      "id": 20
+      "id": 20,
+      "park": 19
     },
     {
       "shortName": "Blue Gums",
@@ -396,9 +376,8 @@
       "trailers": false,
       "car": true,
       "description": "This is a unique camping area, catering for large groups (up to 100 people) or small vehicle-based bush camping. This area is suitable for 4WD touring, cycling, horseriding and wilderness walks - or just simply relaxing in a remote location.",
-      "parkShortName": "Yengo NP",
-      "parkLongName": "Yengo National Park",
-      "id": 21
+      "id": 21,
+      "park": 20
     },
     {
       "shortName": "Blue Waterholes",
@@ -416,9 +395,8 @@
       "trailers": true,
       "car": true,
       "description": "From this campground you can access the Jennings walks track heads (Clarke Gorge and Nichols Gorge walking tracks). There are only three adventure caves open to the public. Nichols Gorge walk includes Cooleman and Murray caves and Clarke Gorge walk provides access to Barbers Cave and Cave Creek waterfall. The nearby lookout has excellent views to Cave Creek and spectacular limestone cliffs.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 22
+      "id": 22,
+      "park": 10
     },
     {
       "shortName": "Bonnie Vale",
@@ -436,9 +414,8 @@
       "trailers": true,
       "car": true,
       "description": "The main feature of Bonnie Vale is its large sand spit, where there's good swimming. Wood fired and solid fuel barbecues are prohibited. There are no powered sites.\n\nPlease note that some campsites are temporarily unavailable and will be allocated according to availability.",
-      "parkShortName": "Royal NP",
-      "parkLongName": "Royal National Park",
-      "id": 23
+      "id": 23,
+      "park": 21
     },
     {
       "shortName": "Boolambayte Lake",
@@ -454,9 +431,8 @@
       "trailers": true,
       "car": true,
       "description": "The following camping areas are located around the Two-mile and Boolambayte Lakes:\n\nKorsmans Landing (26 sites) Bungaree Bay (7 sites) Violet Hill (40 sites).",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 24
+      "id": 24,
+      "park": 7
     },
     {
       "shortName": "Boomeri",
@@ -474,9 +450,8 @@
       "trailers": false,
       "car": true,
       "description": "This camping area is set away from the lake shore amongst stunning smooth-barked Angopheras and grass trees. You can walk or cycle along the Old Gibber Track to Johnson's Beach from here. Wood and solid fuel fires are not permitted.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 25
+      "id": 25,
+      "park": 7
     },
     {
       "shortName": "Boorkoom",
@@ -494,9 +469,8 @@
       "trailers": false,
       "car": true,
       "description": "You'll find swimming and fishing spots close by. Wilsons Headland Walk (3km one way, grade easy) links Boorkoom Camping Area to the Wilsons Headland Picnic Area. Bring your own water.",
-      "parkShortName": "Yuraygir NP",
-      "parkLongName": "Yuraygir National Park",
-      "id": 26
+      "id": 26,
+      "park": 22
     },
     {
       "shortName": "Boundary Falls",
@@ -512,9 +486,8 @@
       "trailers": true,
       "car": true,
       "description": "Boundary Falls picnic and camping area is in a dry forest, on the site of an old sawmill. There are spectacular waterfalls nearby. This is a good starting point for a day walk to Duffer Creek or continuing to do the 60 kilometre circuit called the World Heritage Walk. Signs tell of the local history and wildlife. The Gibraltar Range Waratahs and other shrubs flower here, especially from mid-October to December. Facilities include modern fire and cooking stands, pit toilets and picnic tables. Bring your own drinking water and firewood. No pets are allowed in the park.",
-      "parkShortName": "Gibraltar Range NP",
-      "parkLongName": "Gibraltar Range National Park",
-      "id": 27
+      "id": 27,
+      "park": 23
     },
     {
       "shortName": "Boyd River",
@@ -532,9 +505,8 @@
       "trailers": true,
       "car": true,
       "description": "This camping ground is set among snow gums. At night you can see greater gliders, sugar gliders, brushtail possums, tawny frogmouths, wombats, wallabies and kangaroos. Please bring firewood with you.",
-      "parkShortName": "Kanangra-Boyd NP",
-      "parkLongName": "Kanangra-Boyd National Park",
-      "id": 28
+      "id": 28,
+      "park": 24
     },
     {
       "shortName": "Bradley's/O'Brien's Hut",
@@ -550,9 +522,8 @@
       "trailers": true,
       "car": true,
       "description": "There are no set campsites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 29
+      "id": 29,
+      "park": 10
     },
     {
       "shortName": "Bradneys Gap",
@@ -570,9 +541,8 @@
       "trailers": true,
       "car": true,
       "description": "There are no set campsites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 30
+      "id": 30,
+      "park": 10
     },
     {
       "shortName": "Brambles Green",
@@ -588,9 +558,8 @@
       "trailers": false,
       "car": false,
       "description": "This boat-based camping area is an ideal overnight stop for kayakers and canoeists paddling the lower Myall River and for hikers on the Brambles Green-Tamboi walk. It is a small grassy area directly beside the river.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 31
+      "id": 31,
+      "park": 7
     },
     {
       "shortName": "Brou Lake",
@@ -606,9 +575,8 @@
       "trailers": false,
       "car": true,
       "description": "Campers at Brou Lake can enjoy beach and lake fishing, surfing and beach walking. Batemans Marine Park is adjacent to Brou Lake camping area, and there is a sanctuary zone where fishing is prohibited from immediately north of the entrance to Brou Lake to Jemisons Point. Parts of Brou Lake are also located within this sanctuary zone. Signs show those areas where fishing is not permitted. Fires are allowed but firewood is not supplied. Campers must bring their own drinking/washing water with them and remove all garbage from the site. The camping area is suitable for small caravans and campervans capable of travelling on unsealed roads.",
-      "parkShortName": "Eurobodalla NP",
-      "parkLongName": "Eurobodalla National Park",
-      "id": 32
+      "id": 32,
+      "park": 25
     },
     {
       "shortName": "Brushy Mountain",
@@ -626,9 +594,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground offers a tranquil setting amid tall gum trees with active bird life. It's an ideal base for exploring the park's walking tracks or starting a longer trek into the wilderness. Spokes Lookout provides views across Willi Willi National Park to the coast. There is a large shelter shed.",
-      "parkShortName": "Werrikimbe NP",
-      "parkLongName": "Werrikimbe National Park",
-      "id": 33
+      "id": 33,
+      "park": 26
     },
     {
       "shortName": "Buddong Falls",
@@ -646,9 +613,8 @@
       "trailers": false,
       "car": false,
       "description": "The campground is at the track head to Buddong (Upper and Lower) Falls walk and is a small section of the Hume and Hovell walking track. There are basic facilities and no designated sites.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 34
+      "id": 34,
+      "park": 10
     },
     {
       "shortName": "Budds Mare",
@@ -664,9 +630,8 @@
       "trailers": false,
       "car": false,
       "description": "This campground stands on the edge of the tablelands and has a spectacular lookout over the Apsley River Gorge. From the lookout, a walking track leads down the ridge to Riverside Visitor Area on the Apsley River.",
-      "parkShortName": "Oxley Wild Rivers NP",
-      "parkLongName": "Oxley Wild Rivers National Park",
-      "id": 35
+      "id": 35,
+      "park": 3
     },
     {
       "shortName": "Bullocks Hill",
@@ -682,9 +647,8 @@
       "trailers": true,
       "car": true,
       "description": "Vehicle based camping with horses is permitted at this campground. A horse yard is provided on site.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 36
+      "id": 36,
+      "park": 10
     },
     {
       "shortName": "Bummaroo Ford",
@@ -702,9 +666,8 @@
       "trailers": true,
       "car": true,
       "description": "You can go swimming, fishing and canoeing at this campground (depending on water level). You'll need to bring drinking water.",
-      "parkShortName": "Abercrombie River NP",
-      "parkLongName": "Abercrombie River National Park",
-      "id": 37
+      "id": 37,
+      "park": 27
     },
     {
       "shortName": "Bungaree Bay",
@@ -722,9 +685,8 @@
       "trailers": true,
       "car": true,
       "description": "This small, secluded camping area is set close to the lake shore and is surrounded by paperbark and casuarina forest. Just minutes down the road, Violet Hill has a boat ramp.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 38
+      "id": 38,
+      "park": 7
     },
     {
       "shortName": "Bungonia",
@@ -742,9 +704,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Bungonia SCA",
-      "parkLongName": "Bungonia State Conservation Area",
-      "id": 39
+      "id": 39,
+      "park": 28
     },
     {
       "shortName": "Burbie Camp",
@@ -760,9 +721,8 @@
       "trailers": false,
       "car": false,
       "description": "This walk-in campground is located along the firetrail to Mount Exmouth. It's very basic with a spring water tap.",
-      "parkShortName": "Warrumbungle NP",
-      "parkLongName": "Warrumbungle National Park",
-      "id": 40
+      "id": 40,
+      "park": 6
     },
     {
       "shortName": "Burralow Creek",
@@ -780,9 +740,8 @@
       "trailers": true,
       "car": true,
       "description": "Burralow is a beautiful picnic and camping area - so close to Sydney yet so far away. Set in a grassed open area among the scribbly gums this campground is ideally suited to families or small groups. Look out for the rare giant dragonfly on the Bulcamatta Falls convict walking track (one hour return; easy grade).\n\nYou'll need to bring drinking water and firewood with you - gathering native vegetation is strictly prohibited as it is valuable habitat for wildlife. You can buy firewood from local service stations at Richmond, North Richmond or Kurmond. Please take all garbage when you leave.",
-      "parkShortName": "Blue Mountains NP",
-      "parkLongName": "Blue Mountains National Park",
-      "id": 41
+      "id": 41,
+      "park": 1
     },
     {
       "shortName": "Camp Blackman",
@@ -798,9 +757,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Warrumbungle NP",
-      "parkLongName": "Warrumbungle National Park",
-      "id": 42
+      "id": 42,
+      "park": 6
     },
     {
       "shortName": "Camp Pincham",
@@ -816,9 +774,8 @@
       "trailers": false,
       "car": true,
       "description": "This is a walk-in camp from the Pincham carpark and a great place to camp. It was one of the first campgrounds in the Warrumbungles and is a starting point for walks to The Breadknife and Grand High Tops.",
-      "parkShortName": "Warrumbungle NP",
-      "parkLongName": "Warrumbungle National Park",
-      "id": 43
+      "id": 43,
+      "park": 6
     },
     {
       "shortName": "Camp Walaay",
@@ -834,9 +791,8 @@
       "trailers": false,
       "car": true,
       "description": "It's a short drive from this campground to the main walking tracks, and there are short walks and cycling routes nearby. The nearby Canyon Picnic Area has electric BBQs. The camping sites here are large and can accommodate from 30 to 200 people. Motor vehicles must not leave the sealed road and the area is not suitable for caravans or camper trailers. The Camp Blackman amenities block is close by.",
-      "parkShortName": "Warrumbungle NP",
-      "parkLongName": "Warrumbungle National Park",
-      "id": 44
+      "id": 44,
+      "park": 6
     },
     {
       "shortName": "Camp Wambelong",
@@ -852,9 +808,8 @@
       "trailers": true,
       "car": true,
       "description": "The campground is close to walking tracks that lead to Split Rock, the Grand High Tops and Mount Exmouth.",
-      "parkShortName": "Warrumbungle NP",
-      "parkLongName": "Warrumbungle National Park",
-      "id": 45
+      "id": 45,
+      "park": 6
     },
     {
       "shortName": "Cascades",
@@ -872,9 +827,8 @@
       "trailers": false,
       "car": true,
       "description": "A walking track leads from this campground to a viewing platform overlooking Tuross Falls. There is a new viewing platform 100 m from the carpark overlooking the Cascades and gorge downstream. You'll need to bring drinking water.",
-      "parkShortName": "Wadbilliga NP",
-      "parkLongName": "Wadbilliga National Park",
-      "id": 46
+      "id": 46,
+      "park": 29
     },
     {
       "shortName": "Cattai",
@@ -892,9 +846,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Cattai NP",
-      "parkLongName": "Cattai National Park",
-      "id": 47
+      "id": 47,
+      "park": 30
     },
     {
       "shortName": "Chaelundi",
@@ -912,9 +865,8 @@
       "trailers": false,
       "car": false,
       "description": "This campground is set amid a forest of gums and stringybarks, beside the delightful Chaelundi Creek. The creek is home to rare New England tree frogs - please don't pollute the water with soap, toothpaste or detergent. From the campground, you can swim and take easy walks with spectacular views.",
-      "parkShortName": "Guy Fawkes River NP",
-      "parkLongName": "Guy Fawkes River National Park",
-      "id": 48
+      "id": 48,
+      "park": 31
     },
     {
       "shortName": "Clover Flat",
@@ -932,9 +884,8 @@
       "trailers": true,
       "car": true,
       "description": "There are no set campsites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 49
+      "id": 49,
+      "park": 10
     },
     {
       "shortName": "Coach and Horses",
@@ -950,9 +901,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Paroo-Darling NP",
-      "parkLongName": "Paroo-Darling National Park",
-      "id": 50
+      "id": 50,
+      "park": 32
     },
     {
       "shortName": "Colo Meroo",
@@ -970,9 +920,8 @@
       "trailers": false,
       "car": false,
       "description": "You'll need to bring drinking water and firewood with you. Please take all garbage when you leave. Check river levels before your visit - the river can flood.",
-      "parkShortName": "Wollemi NP",
-      "parkLongName": "Wollemi National Park",
-      "id": 51
+      "id": 51,
+      "park": 33
     },
     {
       "shortName": "Congo",
@@ -990,9 +939,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is great for beach fishing, surfing and beach walking. Campfires are not permitted at the Congo camping area.",
-      "parkShortName": "Eurobodalla NP",
-      "parkLongName": "Eurobodalla National Park",
-      "id": 52
+      "id": 52,
+      "park": 25
     },
     {
       "shortName": "Cooinbil Hut",
@@ -1010,9 +958,8 @@
       "trailers": true,
       "car": true,
       "description": "There is a walk-in and vehicle-based camping area on the northern side of the hut and a vehicle-based camping area with horses to the south. You'll find a loading ramp and horse yards. Historic Cooinbil Hut is adjacent to the camping areas.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 53
+      "id": 53,
+      "park": 10
     },
     {
       "shortName": "Cooleman Mountain",
@@ -1030,9 +977,8 @@
       "trailers": true,
       "car": true,
       "description": "The campground is on the access road to Blue Waterholes and protected by the Cooleman Mountain gums. The Cooleman Plain karst area is adjacent to the mountain.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 54
+      "id": 54,
+      "park": 10
     },
     {
       "shortName": "Coombadjha",
@@ -1050,9 +996,8 @@
       "trailers": false,
       "car": false,
       "description": "",
-      "parkShortName": "Washpool NP",
-      "parkLongName": "Washpool National Park",
-      "id": 55
+      "id": 55,
+      "park": 12
     },
     {
       "shortName": "Coorongooba",
@@ -1068,9 +1013,8 @@
       "trailers": true,
       "car": true,
       "description": "You'll need to bring drinking water and firewood with you to this secluded campground. There are no toilets at this location. Please take all garbage when you leave.",
-      "parkShortName": "Wollemi NP",
-      "parkLongName": "Wollemi National Park",
-      "id": 56
+      "id": 56,
+      "park": 33
     },
     {
       "shortName": "Coxs Creek",
@@ -1086,9 +1030,8 @@
       "trailers": true,
       "car": true,
       "description": "An alternative to The Barracks, this campground is just beside Coxs Creek Falls. You'll need to bring drinking water and firewood.",
-      "parkShortName": "Coolah Tops NP",
-      "parkLongName": "Coolah Tops National Park",
-      "id": 57
+      "id": 57,
+      "park": 34
     },
     {
       "shortName": "Culgoa",
@@ -1104,9 +1047,8 @@
       "trailers": true,
       "car": true,
       "description": "Camp among the gidgee trees a short walk from the river. Riverbank Walk and Connellys Walk start here.",
-      "parkShortName": "Culgoa NP",
-      "parkLongName": "Culgoa National Park",
-      "id": 58
+      "id": 58,
+      "park": 35
     },
     {
       "shortName": "Cutters camp",
@@ -1124,9 +1066,8 @@
       "trailers": true,
       "car": true,
       "description": "The campground features a walking track to Byrrill Creek. Due to the unsealed road and the layout of the campsite it is only suitable for small camper trailers or small campervans, not for full sized caravans or motor homes.",
-      "parkShortName": "Mebbin NP",
-      "parkLongName": "Mebbin National Park",
-      "id": 59
+      "id": 59,
+      "park": 36
     },
     {
       "shortName": "Cypress-pine",
@@ -1142,9 +1083,8 @@
       "trailers": true,
       "car": true,
       "description": "There are interesting walks along the Boonoo Boonoo River. You'll see excellent wildflower displays in spring, and birds, wallabies and even platypus may be seen along the river.",
-      "parkShortName": "Boonoo Boonoo NP",
-      "parkLongName": "Boonoo Boonoo National Park",
-      "id": 60
+      "id": 60,
+      "park": 37
     },
     {
       "shortName": "Dalmorton",
@@ -1160,9 +1100,8 @@
       "trailers": true,
       "car": true,
       "description": "This camping area offers camping along the Boyd River and an opportunity to explore the ghost town of Dalmorton with on-site information provided.",
-      "parkShortName": "Guy Fawkes River SCA",
-      "parkLongName": "Guy Fawkes River State Conservation Area",
-      "id": 61
+      "id": 61,
+      "park": 38
     },
     {
       "shortName": "Dangars Gorge",
@@ -1180,9 +1119,8 @@
       "trailers": false,
       "car": false,
       "description": "",
-      "parkShortName": "Oxley Wild Rivers NP",
-      "parkLongName": "Oxley Wild Rivers National Park",
-      "id": 62
+      "id": 62,
+      "park": 3
     },
     {
       "shortName": "Darling River",
@@ -1198,9 +1136,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Kinchega NP",
-      "parkLongName": "Kinchega National Park",
-      "id": 63
+      "id": 63,
+      "park": 39
     },
     {
       "shortName": "Dawsons Spring",
@@ -1216,9 +1153,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Mount Kaputar NP",
-      "parkLongName": "Mount Kaputar National Park",
-      "id": 64
+      "id": 64,
+      "park": 8
     },
     {
       "shortName": "Dead Horse Gully",
@@ -1234,9 +1170,8 @@
       "trailers": true,
       "car": true,
       "description": "This large campground is set among the granite boulders surrounding Tibooburra. A signposted walking track starts at the the campsite and passes through granite outcrops, giving you a chance to see euros, red kangaroos and reptiles. After rain, you may also see Sturt's desert peas. Wood fires are not allowed here.",
-      "parkShortName": "Sturt NP",
-      "parkLongName": "Sturt National Park",
-      "id": 65
+      "id": 65,
+      "park": 40
     },
     {
       "shortName": "Dees Corner",
@@ -1254,9 +1189,8 @@
       "trailers": true,
       "car": true,
       "description": "The camping area is close to both the lake and the beach. It connects directly with Mungo Brush via the Rainforest walking track. The Mungo 4 wheel drive beach access track is also nearby.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 66
+      "id": 66,
+      "park": 7
     },
     {
       "shortName": "Denison",
@@ -1274,9 +1208,8 @@
       "trailers": true,
       "car": true,
       "description": "The campground provides access to Eucumbene River/Dam.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 67
+      "id": 67,
+      "park": 10
     },
     {
       "shortName": "Depot Beach",
@@ -1294,9 +1227,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Murramarang NP",
-      "parkLongName": "Murramarang National Park",
-      "id": 68
+      "id": 68,
+      "park": 41
     },
     {
       "shortName": "Deua River",
@@ -1314,9 +1246,8 @@
       "trailers": true,
       "car": true,
       "description": "These campgrounds are great spots for canoeing, fishing and swimming. Bakers Flat campground is not suitable for camper trailers - sites are a short walk (70m) from the road.",
-      "parkShortName": "Deua NP",
-      "parkLongName": "Deua National Park",
-      "id": 69
+      "id": 69,
+      "park": 14
     },
     {
       "shortName": "Devils Hole",
@@ -1334,9 +1265,8 @@
       "trailers": true,
       "car": true,
       "description": "This basic campground, at 1400m altitude, offers spectacular views over the Barrington wilderness and nearby farmlands. Toilets, picnic facilities and fireplaces are across the road at Devils Hole Lookout. You can go fishing nearby.",
-      "parkShortName": "Barrington Tops NP",
-      "parkLongName": "Barrington Tops National Park",
-      "id": 70
+      "id": 70,
+      "park": 42
     },
     {
       "shortName": "Diamond Head",
@@ -1354,9 +1284,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Crowdy Bay NP",
-      "parkLongName": "Crowdy Bay National Park",
-      "id": 71
+      "id": 71,
+      "park": 43
     },
     {
       "shortName": "Dingo Dell",
@@ -1374,9 +1303,8 @@
       "trailers": false,
       "car": false,
       "description": "The campsite is situated beside Tuglow Hole Creek. This creek is quite small but has some waterholes big enough to cool down in if the weather is hot.If you're planning on cooking, please bring your own fuel stove or firewood. Visitors should camp in designated sites to avoid trespassing on private property.",
-      "parkShortName": "Kanangra-Boyd NP",
-      "parkLongName": "Kanangra-Boyd National Park",
-      "id": 72
+      "id": 72,
+      "park": 24
     },
     {
       "shortName": "Dingo Tops",
@@ -1394,9 +1322,8 @@
       "trailers": false,
       "car": false,
       "description": "This campground is near Dingo Tops forest park, which features relic forestry machinery and walking tracks into the park's variety of forests. You'll need to bring drinking water.",
-      "parkShortName": "Tapin Tops NP",
-      "parkLongName": "Tapin Tops National Park",
-      "id": 73
+      "id": 73,
+      "park": 44
     },
     {
       "shortName": "Doon Goonge",
@@ -1412,9 +1339,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Chaelundi NP",
-      "parkLongName": "Chaelundi National Park",
-      "id": 74
+      "id": 74,
+      "park": 45
     },
     {
       "shortName": "Double Wharf",
@@ -1430,9 +1356,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Karuah NR",
-      "parkLongName": "Karuah Nature Reserve",
-      "id": 75
+      "id": 75,
+      "park": 46
     },
     {
       "shortName": "Dry Tank",
@@ -1450,9 +1375,8 @@
       "trailers": true,
       "car": true,
       "description": "From this camping ground, you can go on a 2.4km walk through mulga woodlands to nearby Little Mountain. From the top of the mountain, there's an outstanding view of the entire northern escarpment of the Gunderbooka Range.",
-      "parkShortName": "Gundabooka NP",
-      "parkLongName": "Gundabooka National Park",
-      "id": 76
+      "id": 76,
+      "park": 47
     },
     {
       "shortName": "Dunns Swamp",
@@ -1470,9 +1394,8 @@
       "trailers": true,
       "car": true,
       "description": "You'll need to bring drinking water with you to this popular campground, and limited firewood is supplied on-site. A self-registration system applies here - please bring correct change. Please take all garbage when you leave.",
-      "parkShortName": "Wollemi NP",
-      "parkLongName": "Wollemi National Park",
-      "id": 77
+      "id": 77,
+      "park": 33
     },
     {
       "shortName": "Emu Lake",
@@ -1488,9 +1411,8 @@
       "trailers": true,
       "car": true,
       "description": "Hot showers and bore water are available at the Shearer's Quarters at the historic woolshed.",
-      "parkShortName": "Kinchega NP",
-      "parkLongName": "Kinchega National Park",
-      "id": 78
+      "id": 78,
+      "park": 39
     },
     {
       "shortName": "Euroka",
@@ -1506,9 +1428,8 @@
       "trailers": false,
       "car": true,
       "description": "This grassy area near the beautiful Nepean River gorge is well known for its population of eastern grey kangaroos. There are five camping areas: Appletree Flat, Redgum, Nioka, Bennets Ridge and Daruk. Each area is suitable for 20 people.\n\nThere are picnic tables and fireplaces; bring your own gas/fuel stove or firewood. It is forbidden to collect firewood from the bush at Euroka.\n\nFlush toilets are available at the rangers station while pit toilets are provided at Euroka campground.",
-      "parkShortName": "Blue Mountains NP",
-      "parkLongName": "Blue Mountains National Park",
-      "id": 79
+      "id": 79,
+      "park": 1
     },
     {
       "shortName": "Euroka (trailer area)",
@@ -1526,9 +1447,8 @@
       "trailers": true,
       "car": true,
       "description": "See the general Euroka campground information for facilities and activities. NOTE: Bring your own firewood - collecting firewood from the bush at Euroka is prohibited. \n\nPlease note that the campervan sites are suitable for small campervans or campertrailers - the sites are adjacent to the road edge.",
-      "parkShortName": "Blue Mountains NP",
-      "parkLongName": "Blue Mountains National Park",
-      "id": 80
+      "id": 80,
+      "park": 1
     },
     {
       "shortName": "Federal Falls",
@@ -1546,9 +1466,8 @@
       "trailers": false,
       "car": false,
       "description": "From this camping ground, you can head off along various walking tracks, including the popular Federal Falls track. Along these walks, you can see how subalpine vegetation gives way to moist forest as the altitude changes. You'll also see heathland among the rocky outcrops. Many different bird species gather in this area.",
-      "parkShortName": "Mount Canobolas SCA",
-      "parkLongName": "Mount Canobolas State Conservation Area",
-      "id": 81
+      "id": 81,
+      "park": 48
     },
     {
       "shortName": "Finchley",
@@ -1566,9 +1485,8 @@
       "trailers": false,
       "car": false,
       "description": "This campsite is on the Yango Track, and offers excellent 4WD day touring drives. It's a short walk from the campground to Finchley Aboriginal Area. You'll need to bring your own firewood and drinking water.",
-      "parkShortName": "Yengo NP",
-      "parkLongName": "Yengo National Park",
-      "id": 82
+      "id": 82,
+      "park": 20
     },
     {
       "shortName": "Forest Tops",
@@ -1584,9 +1502,8 @@
       "trailers": false,
       "car": false,
       "description": "The Booyong walking track starts here.",
-      "parkShortName": "Border Ranges NP",
-      "parkLongName": "Border Ranges National Park",
-      "id": 83
+      "id": 83,
+      "park": 49
     },
     {
       "shortName": "Fort Grey",
@@ -1602,9 +1519,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Sturt NP",
-      "parkLongName": "Sturt National Park",
-      "id": 84
+      "id": 84,
+      "park": 40
     },
     {
       "shortName": "Frazer",
@@ -1622,9 +1538,8 @@
       "trailers": false,
       "car": true,
       "description": "This small camping ground is set in a quiet, protected pocket of the Frazer Valley a short walk away from Frazer Beach. It has quick, easy access to Snapper Point, a popular fishing spot. Each of the six sites has room for up to six people. You can stay for a maximum of two weeks.",
-      "parkShortName": "Munmorah SCA",
-      "parkLongName": "Munmorah State Conservation Area",
-      "id": 85
+      "id": 85,
+      "park": 50
     },
     {
       "shortName": "Freemans",
@@ -1642,9 +1557,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Munmorah SCA",
-      "parkLongName": "Munmorah State Conservation Area",
-      "id": 86
+      "id": 86,
+      "park": 50
     },
     {
       "shortName": "Freshwater",
@@ -1662,9 +1576,8 @@
       "trailers": false,
       "car": false,
       "description": "This boat-based camping area is located on Two Mile Lake and features sandy beaches and shallow waters adjacent to the camping area.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 87
+      "id": 87,
+      "park": 7
     },
     {
       "shortName": "Gambells Rest",
@@ -1682,9 +1595,8 @@
       "trailers": true,
       "car": true,
       "description": "This area offers great bushwalking, with 11 identified walking tracks, plus cycling. Maximum of five people per site. Children under 5 free.",
-      "parkShortName": "Morton NP",
-      "parkLongName": "Morton National Park",
-      "id": 88
+      "id": 88,
+      "park": 51
     },
     {
       "shortName": "Geehi Flats",
@@ -1700,9 +1612,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 89
+      "id": 89,
+      "park": 10
     },
     {
       "shortName": "Gentlemans Halt",
@@ -1718,9 +1629,8 @@
       "trailers": false,
       "car": false,
       "description": "You'll need to bring your own drinking water if you're camping here.",
-      "parkShortName": "Marramarra NP",
-      "parkLongName": "Marramarra National Park",
-      "id": 90
+      "id": 90,
+      "park": 52
     },
     {
       "shortName": "Ghost Gully",
@@ -1738,9 +1648,8 @@
       "trailers": true,
       "car": true,
       "description": "Vehicle based camping with horses is permitted at this campground. Loading ramp and horse yards are provided on site.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 91
+      "id": 91,
+      "park": 10
     },
     {
       "shortName": "Gillards",
@@ -1756,9 +1665,8 @@
       "trailers": true,
       "car": true,
       "description": "At this campground, you can enjoy fishing from the beach, surfing and beach walking. \n\nExtra information about camping at this campground: you'll need to bring your own drinking water. Maximum length of stay: two weeks during school holiday periods; four weeks at other times.",
-      "parkShortName": "Mimosa Rocks NP",
-      "parkLongName": "Mimosa Rocks National Park",
-      "id": 92
+      "id": 92,
+      "park": 4
     },
     {
       "shortName": "Glendora",
@@ -1774,9 +1682,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Hill End",
-      "parkLongName": "Hill End Historic Site",
-      "id": 93
+      "id": 93,
+      "park": 53
     },
     {
       "shortName": "Gloucester River",
@@ -1794,9 +1701,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Barrington Tops NP",
-      "parkLongName": "Barrington Tops National Park",
-      "id": 94
+      "id": 94,
+      "park": 42
     },
     {
       "shortName": "Green Gully",
@@ -1812,9 +1718,8 @@
       "trailers": true,
       "car": true,
       "description": "You'll find walking tracks and lookouts overlooking the spectacular Chandler and Wollomombi Rivers here.",
-      "parkShortName": "Oxley Wild Rivers NP",
-      "parkLongName": "Oxley Wild Rivers National Park",
-      "id": 95
+      "id": 95,
+      "park": 3
     },
     {
       "shortName": "Greenbah",
@@ -1830,9 +1735,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is beside Greenbah Creek. It's an excellent spot for birdwatching. You can walk to Burrabadine Peak, or go cycling along the access trail to the campground.",
-      "parkShortName": "Goobang NP",
-      "parkLongName": "Goobang National Park",
-      "id": 96
+      "id": 96,
+      "park": 54
     },
     {
       "shortName": "Group",
@@ -1848,9 +1752,8 @@
       "trailers": true,
       "car": true,
       "description": "Here you can enjoy Willandra Creek and a walking track. The homestead precinct is nearby.",
-      "parkShortName": "Willandra NP",
-      "parkLongName": "Willandra National Park",
-      "id": 97
+      "id": 97,
+      "park": 55
     },
     {
       "shortName": "Gummi Falls",
@@ -1868,9 +1771,8 @@
       "trailers": true,
       "car": true,
       "description": "Small secluded camping area with basic facilities.",
-      "parkShortName": "Barrington Tops NP",
-      "parkLongName": "Barrington Tops National Park",
-      "id": 98
+      "id": 98,
+      "park": 42
     },
     {
       "shortName": "Gunneemooroo",
@@ -1886,9 +1788,8 @@
       "trailers": false,
       "car": false,
       "description": "Gunneemooroo is located in the southern side of the Warrumbungle National Park.",
-      "parkShortName": "Warrumbungle NP",
-      "parkLongName": "Warrumbungle National Park",
-      "id": 99
+      "id": 99,
+      "park": 6
     },
     {
       "shortName": "Halls Peak",
@@ -1904,9 +1805,8 @@
       "trailers": false,
       "car": true,
       "description": "The Halls Peak camping area caters for self-reliant visitors looking to experience the seclusion of remote camping in an idyllic and peaceful setting.",
-      "parkShortName": "Oxley Wild Rivers NP",
-      "parkLongName": "Oxley Wild Rivers National Park",
-      "id": 100
+      "id": 100,
+      "park": 3
     },
     {
       "shortName": "Heartbreak Hill",
@@ -1922,9 +1822,8 @@
       "trailers": false,
       "car": false,
       "description": "",
-      "parkShortName": "Parr SCA",
-      "parkLongName": "Parr State Conservation Area",
-      "id": 101
+      "id": 101,
+      "park": 56
     },
     {
       "shortName": "Hobart Beach",
@@ -1942,9 +1841,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Bournda NP",
-      "parkLongName": "Bournda National Park",
-      "id": 102
+      "id": 102,
+      "park": 57
     },
     {
       "shortName": "Homestead Creek",
@@ -1962,9 +1860,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Mutawintji NP",
-      "parkLongName": "Mutawintji National Park",
-      "id": 103
+      "id": 103,
+      "park": 58
     },
     {
       "shortName": "Horse Swamp",
@@ -1982,9 +1879,8 @@
       "trailers": true,
       "car": true,
       "description": "Small secluded camping area with basic facilities. Polblue Falls picnic area and Polblue Falls walk are 150m to the north.",
-      "parkShortName": "Barrington Tops NP",
-      "parkLongName": "Barrington Tops National Park",
-      "id": 104
+      "id": 104,
+      "park": 42
     },
     {
       "shortName": "Humes Crossing",
@@ -2002,9 +1898,8 @@
       "trailers": true,
       "car": true,
       "description": "There are no designated sites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 105
+      "id": 105,
+      "park": 10
     },
     {
       "shortName": "Hungry Gate",
@@ -2022,9 +1917,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is in a delightful setting, protected by the park's unspoiled sand dunes. The area is surrounded by thick heath and woodland vegetation. You'll need to bring drinking water. There is a recycling station, however, taking all your garbage away is appreciated.",
-      "parkShortName": "Hat Head NP",
-      "parkLongName": "Hat Head National Park",
-      "id": 106
+      "id": 106,
+      "park": 59
     },
     {
       "shortName": "Illaroo",
@@ -2042,9 +1936,8 @@
       "trailers": true,
       "car": true,
       "description": "There's easy access to the beach and a walk-in camp area at Rocky Point with no facilities. Two easy short walks start at Illaroo: the Rocky Point Track (2km return) and the Angophora Grove Walk (1km return) towards Minnie Water village.",
-      "parkShortName": "Yuraygir NP",
-      "parkLongName": "Yuraygir National Park",
-      "id": 107
+      "id": 107,
+      "park": 22
     },
     {
       "shortName": "Indian Head",
@@ -2062,9 +1955,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Crowdy Bay NP",
-      "parkLongName": "Crowdy Bay National Park",
-      "id": 108
+      "id": 108,
+      "park": 43
     },
     {
       "shortName": "Ingar",
@@ -2082,9 +1974,8 @@
       "trailers": false,
       "car": false,
       "description": "This camping ground is set among scribbly gums. The dam on Ingar Creek is suitable for paddling and swimming, and you can also walk or ride your mountain bike to Bedford Creek, via Murphy's Fire Trail. The campground is not suitable for caravans or large campervans.",
-      "parkShortName": "Blue Mountains NP",
-      "parkLongName": "Blue Mountains National Park",
-      "id": 109
+      "id": 109,
+      "park": 1
     },
     {
       "shortName": "Iron Pot Creek",
@@ -2102,9 +1993,8 @@
       "trailers": false,
       "car": true,
       "description": "",
-      "parkShortName": "Toonumbar NP",
-      "parkLongName": "Toonumbar National Park",
-      "id": 110
+      "id": 110,
+      "park": 60
     },
     {
       "shortName": "Island Bend",
@@ -2122,9 +2012,8 @@
       "trailers": true,
       "car": true,
       "description": "There are no set campsites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 111
+      "id": 111,
+      "park": 10
     },
     {
       "shortName": "Jacob's River",
@@ -2142,9 +2031,8 @@
       "trailers": false,
       "car": true,
       "description": "This is a pleasant spot for a picnic and for camping. There are no set campsites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 112
+      "id": 112,
+      "park": 10
     },
     {
       "shortName": "Joes Cove",
@@ -2162,9 +2050,8 @@
       "trailers": false,
       "car": false,
       "description": "This small, secluded camping area is located at the base of Two Mile Lake.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 113
+      "id": 113,
+      "park": 7
     },
     {
       "shortName": "Johnsons Beach",
@@ -2182,9 +2069,8 @@
       "trailers": false,
       "car": false,
       "description": "This is one of the larger boat-based camping areas. It features sandy beaches and shallow waters adjacent to the camping area. There are a number of walking tracks nearby, including Johnsons Hill track and the Old Gibber track.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 114
+      "id": 114,
+      "park": 7
     },
     {
       "shortName": "Jounama Creek campground 1",
@@ -2202,9 +2088,8 @@
       "trailers": true,
       "car": true,
       "description": "Camping is permitted on the mowed area between the access road and Jounama Creek.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 115
+      "id": 115,
+      "park": 10
     },
     {
       "shortName": "Junction Pools",
@@ -2222,9 +2107,8 @@
       "trailers": true,
       "car": true,
       "description": "You'll find swimming spots at this campground. It's close to walking tracks on the Barrington Tops Plateau, drive touring, lookouts, fishing and 4WD trails.",
-      "parkShortName": "Barrington Tops NP",
-      "parkLongName": "Barrington Tops National Park",
-      "id": 116
+      "id": 116,
+      "park": 42
     },
     {
       "shortName": "Kingfisher Pool",
@@ -2242,9 +2126,8 @@
       "trailers": false,
       "car": false,
       "description": "This camping ground fits up to 18 campers. You'll need to bring your own drinking water.",
-      "parkShortName": "Heathcote NP",
-      "parkLongName": "Heathcote National Park",
-      "id": 117
+      "id": 117,
+      "park": 61
     },
     {
       "shortName": "Kings Plains Creek",
@@ -2260,9 +2143,8 @@
       "trailers": false,
       "car": false,
       "description": "",
-      "parkShortName": "Kings Plains NP",
-      "parkLongName": "Kings Plains National Park",
-      "id": 118
+      "id": 118,
+      "park": 62
     },
     {
       "shortName": "Koreelah Creek",
@@ -2278,9 +2160,8 @@
       "trailers": false,
       "car": true,
       "description": "This is a pleasant camping spot at the small grassy area beside Koreelah Creek.\n\nFirewood collection within the park is not permitted. Please bring your own firewood.",
-      "parkShortName": "Koreelah NP",
-      "parkLongName": "Koreelah National Park",
-      "id": 119
+      "id": 119,
+      "park": 63
     },
     {
       "shortName": "Korsmans Landing",
@@ -2298,9 +2179,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is set within open eucalypt forest and you might see eastern grey kangaroos grazing nearby. There is a wharf and an unsealed boat ramp.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 120
+      "id": 120,
+      "park": 7
     },
     {
       "shortName": "Kosciuszko",
@@ -2316,9 +2196,8 @@
       "trailers": true,
       "car": true,
       "description": "There are many camping grounds throughout the park, though most have only basic facilities such as pit toilets and fireplaces.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 121
+      "id": 121,
+      "park": 10
     },
     {
       "shortName": "Kylies Beach",
@@ -2336,9 +2215,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Crowdy Bay NP",
-      "parkLongName": "Crowdy Bay National Park",
-      "id": 122
+      "id": 122,
+      "park": 43
     },
     {
       "shortName": "Lake Arragan and Red Cliff",
@@ -2356,9 +2234,8 @@
       "trailers": true,
       "car": true,
       "description": "Explore isolated beaches or canoe on Lake Arragan. A 10km walking track takes you north to Angourie.",
-      "parkShortName": "Yuraygir NP",
-      "parkLongName": "Yuraygir National Park",
-      "id": 123
+      "id": 123,
+      "park": 22
     },
     {
       "shortName": "Lake Cawndilla",
@@ -2374,9 +2251,8 @@
       "trailers": true,
       "car": true,
       "description": "From this campground you can enjoy a walk along the shores of the lake - especially recommended in the early morning and towards sunset. The campground is ideal for large groups. You'll need to bring drinking water and firewood with you. Hot showers and bore water are available at the Shearer's Quarters at the historic woolshed.",
-      "parkShortName": "Kinchega NP",
-      "parkLongName": "Kinchega National Park",
-      "id": 124
+      "id": 124,
+      "park": 39
     },
     {
       "shortName": "Lake Creek",
@@ -2392,9 +2268,8 @@
       "trailers": false,
       "car": true,
       "description": "This campground is in a bushland setting, next to Lake Creek. You'll need to bring drinking water.",
-      "parkShortName": "Wadbilliga NP",
-      "parkLongName": "Wadbilliga National Park",
-      "id": 125
+      "id": 125,
+      "park": 29
     },
     {
       "shortName": "Lane Cove River",
@@ -2412,9 +2287,8 @@
       "trailers": true,
       "car": true,
       "description": "This beautiful spot offers bushland camping and caravanning only 10 km from the heart of Sydney. Public transport is available from the tourist park to Sydney CBD. Powered and unpowered sites are available for caravans, campervans, motorhomes and tents. You can choose caravan sites with or without concrete slabs and sullage. The tourist park has a swimming pool, camp kitchen, laundry, TV room and internet access. Enjoy a bushwalk or picnic in the Lane Cove National Park.",
-      "parkShortName": "Lane Cove NP",
-      "parkLongName": "Lane Cove National Park",
-      "id": 126
+      "id": 126,
+      "park": 64
     },
     {
       "shortName": "Leatherbarrel Creek",
@@ -2432,9 +2306,8 @@
       "trailers": true,
       "car": true,
       "description": "There are no set campsites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 127
+      "id": 127,
+      "park": 10
     },
     {
       "shortName": "Lemon Tree Flat",
@@ -2450,9 +2323,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Kwiambal NP",
-      "parkLongName": "Kwiambal National Park",
-      "id": 128
+      "id": 128,
+      "park": 65
     },
     {
       "shortName": "Little Beach",
@@ -2470,9 +2342,8 @@
       "trailers": false,
       "car": false,
       "description": "Bouddi Coastal Walk, picnicking, and fishing. Wood fires are not permitted.",
-      "parkShortName": "Bouddi NP",
-      "parkLongName": "Bouddi National Park",
-      "id": 129
+      "id": 129,
+      "park": 66
     },
     {
       "shortName": "Little Mountain",
@@ -2490,9 +2361,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Karuah NR",
-      "parkLongName": "Karuah Nature Reserve",
-      "id": 130
+      "id": 130,
+      "park": 46
     },
     {
       "shortName": "Little Murray",
@@ -2510,9 +2380,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Barrington Tops NP",
-      "parkLongName": "Barrington Tops National Park",
-      "id": 131
+      "id": 131,
+      "park": 42
     },
     {
       "shortName": "Log Bridge Creek",
@@ -2530,9 +2399,8 @@
       "trailers": true,
       "car": true,
       "description": "There are no designated campsites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 132
+      "id": 132,
+      "park": 10
     },
     {
       "shortName": "Long Plain Hut",
@@ -2550,9 +2418,8 @@
       "trailers": true,
       "car": true,
       "description": "Vehicle based camping with horses is permitted in the designated area east of Long Plain Hut (horse yards on site). Walk-in and other vehicle-based camping are provided north of the hut.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 133
+      "id": 133,
+      "park": 10
     },
     {
       "shortName": "Long Point",
@@ -2570,9 +2437,8 @@
       "trailers": false,
       "car": false,
       "description": "Located in a small forest clearing, this campground gives easy access to Cassinia Walk, Chandler View Circuit Walk and the Long Point to Wollomombi overnight bushwalk.",
-      "parkShortName": "Oxley Wild Rivers NP",
-      "parkLongName": "Oxley Wild Rivers National Park",
-      "id": 134
+      "id": 134,
+      "park": 3
     },
     {
       "shortName": "Mackaway Bay",
@@ -2590,9 +2456,8 @@
       "trailers": false,
       "car": false,
       "description": "This small, secluded camping area is located on the narrow stretch of water between Two Mile and Boolambayte lakes. It is often sheltered during windy conditions.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 135
+      "id": 135,
+      "park": 7
     },
     {
       "shortName": "Main camp",
@@ -2608,9 +2473,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Mungo NP",
-      "parkLongName": "Mungo National Park",
-      "id": 136
+      "id": 136,
+      "park": 11
     },
     {
       "shortName": "Mann River",
@@ -2626,9 +2490,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Mann River NR",
-      "parkLongName": "Mann River Nature Reserve",
-      "id": 137
+      "id": 137,
+      "park": 67
     },
     {
       "shortName": "Marramarra Creek",
@@ -2644,9 +2507,8 @@
       "trailers": false,
       "car": false,
       "description": "You'll need to bring your own drinking water if you're camping here.",
-      "parkShortName": "Marramarra NP",
-      "parkLongName": "Marramarra National Park",
-      "id": 138
+      "id": 138,
+      "park": 52
     },
     {
       "shortName": "Melaleuca",
@@ -2664,9 +2526,8 @@
       "trailers": true,
       "car": true,
       "description": "You'll need to bring drinking water and firewood with you. You can explore rare rainforests on a short loop track from this campground.",
-      "parkShortName": "Limeburners Creek NR",
-      "parkLongName": "Limeburners Creek Nature Reserve",
-      "id": 139
+      "id": 139,
+      "park": 68
     },
     {
       "shortName": "Middle Beach",
@@ -2684,9 +2545,8 @@
       "trailers": false,
       "car": false,
       "description": "From here you can enjoy fishing, surfing, beach walking and canoeing. \n\nExtra information about camping at this campground: campsites are around 100m from car parking. You'll need to bring your own drinking water. Maximum length of stay: two weeks during school holiday periods; four weeks at other times.",
-      "parkShortName": "Mimosa Rocks NP",
-      "parkLongName": "Mimosa Rocks National Park",
-      "id": 140
+      "id": 140,
+      "park": 4
     },
     {
       "shortName": "Mill Creek",
@@ -2704,9 +2564,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Dharug NP",
-      "parkLongName": "Dharug National Park",
-      "id": 141
+      "id": 141,
+      "park": 69
     },
     {
       "shortName": "Mogo Creek",
@@ -2724,9 +2583,8 @@
       "trailers": false,
       "car": false,
       "description": "You'll be camping at the top of the Old Great North Road here. There are excellent bushwalks around this historic convict-built road. The campground is also a great base for day tour drives into Macdonald Valley (historic buildings), Wollombi Valley (vineyards) and Koolang Observatory.",
-      "parkShortName": "Yengo NP",
-      "parkLongName": "Yengo National Park",
-      "id": 142
+      "id": 142,
+      "park": 20
     },
     {
       "shortName": "Mooraback",
@@ -2744,9 +2602,8 @@
       "trailers": true,
       "car": true,
       "description": "This basic camping area is on the western edge of a clearing and kangaroos commonly visit the area. You can follow the Mooraback Trail, a short loop walk from the campground. The Platypus Pools walk also starts from the camping area and its 6km loop takes you along the upper reaches of the Hastings River where platypus are often seen.",
-      "parkShortName": "Werrikimbe NP",
-      "parkLongName": "Werrikimbe National Park",
-      "id": 143
+      "id": 143,
+      "park": 26
     },
     {
       "shortName": "Mount Werong",
@@ -2762,9 +2619,8 @@
       "trailers": false,
       "car": false,
       "description": "This camping area surrounds a stone hut which you can use for cooking and temporary shelter. You'll find covered picnic tables and fireplaces here - but bring your own firewood.",
-      "parkShortName": "Blue Mountains NP",
-      "parkLongName": "Blue Mountains National Park",
-      "id": 144
+      "id": 144,
+      "park": 1
     },
     {
       "shortName": "Mount Wood",
@@ -2780,9 +2636,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is set in view of the historic Mount Wood Homestead Complex in the rolling gibber downs on the eastern side of the park. Here you may see red kangaroos, euros and eastern grey kangaroos, plus lots of birds and reptiles. There is small signposted walk around the historic complex.",
-      "parkShortName": "Sturt NP",
-      "parkLongName": "Sturt National Park",
-      "id": 145
+      "id": 145,
+      "park": 40
     },
     {
       "shortName": "Mulligans",
@@ -2800,9 +2655,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Gibraltar Range NP",
-      "parkLongName": "Gibraltar Range National Park",
-      "id": 146
+      "id": 146,
+      "park": 23
     },
     {
       "shortName": "Mungo Brush",
@@ -2820,9 +2674,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 147
+      "id": 147,
+      "park": 7
     },
     {
       "shortName": "Murphys Glen",
@@ -2840,9 +2693,8 @@
       "trailers": false,
       "car": false,
       "description": "This is a secluded camping ground in a forest of tall eucalypt, turpentine and angophora trees. A short, steep walk through the rainforest will lead you to Bedford Creek. Fuel stoves can only be used here - no wood fires.",
-      "parkShortName": "Blue Mountains NP",
-      "parkLongName": "Blue Mountains National Park",
-      "id": 148
+      "id": 148,
+      "park": 1
     },
     {
       "shortName": "Myall Creek",
@@ -2860,9 +2712,8 @@
       "trailers": false,
       "car": false,
       "description": "This basic camping area is situated in a tall eucalypt forest beside Myall Creek, which flows throughout the year. From here, self-reliant bushwalkers can explore nearby waterfalls and rainforest. Contact the Ranger at the Walcha Office for advice on visiting scenic canyons, waterfalls and heritage places that are further from the campground.",
-      "parkShortName": "Nowendoc NP",
-      "parkLongName": "Nowendoc National Park",
-      "id": 149
+      "id": 149,
+      "park": 70
     },
     {
       "shortName": "Native Dog",
@@ -2878,9 +2729,8 @@
       "trailers": false,
       "car": false,
       "description": "From this campground you can walk to Woolpack Rocks and beyond to Cathedral Rock.",
-      "parkShortName": "Cathedral Rock NP",
-      "parkLongName": "Cathedral Rock National Park",
-      "id": 150
+      "id": 150,
+      "park": 9
     },
     {
       "shortName": "Neranie Head",
@@ -2898,9 +2748,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground has good access to Myall Lake, and is perfect for lakeside activities. There's a boat ramp at nearby Hearts Point Picnic Area. You can also go on a short walk to the historic cemetery at Neranie Headland. Wood and solid fuel fires are not permitted.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 151
+      "id": 151,
+      "park": 7
     },
     {
       "shortName": "New Country Swamp",
@@ -2916,9 +2765,8 @@
       "trailers": true,
       "car": true,
       "description": "This is a basic camping ground suitable for small groups. A short walk to the edge of Mummel Gulf offers breathtaking views. The campground is also a good spot for birdwatching and photography.",
-      "parkShortName": "Mummel Gulf NP",
-      "parkLongName": "Mummel Gulf National Park",
-      "id": 152
+      "id": 152,
+      "park": 71
     },
     {
       "shortName": "Newnes",
@@ -2936,9 +2784,8 @@
       "trailers": true,
       "car": true,
       "description": "You'll need to bring drinking water and firewood with you to this popular campground. Please take all garbage when you leave.",
-      "parkShortName": "Wollemi NP",
-      "parkLongName": "Wollemi National Park",
-      "id": 153
+      "id": 153,
+      "park": 33
     },
     {
       "shortName": "Ngarigo",
@@ -2956,9 +2803,8 @@
       "trailers": false,
       "car": false,
       "description": "There are no set campsites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 154
+      "id": 154,
+      "park": 10
     },
     {
       "shortName": "North Era",
@@ -2976,9 +2822,8 @@
       "trailers": false,
       "car": false,
       "description": "A maximum of 36 people can camp here. You'll need to bring your own drinking water, and wood fires are forbidden.",
-      "parkShortName": "Royal NP",
-      "parkLongName": "Royal National Park",
-      "id": 155
+      "id": 155,
+      "park": 21
     },
     {
       "shortName": "Nunnock",
@@ -2996,9 +2841,8 @@
       "trailers": true,
       "car": true,
       "description": "This is a small camping area beside Cattleman's Link Trail. Grasslands, frost hollows and a high altitude perched swamp are features nearby. Stroll along an easy 4km loop track from the campground. Stop at lookouts over the swamp along the way.",
-      "parkShortName": "South East Forest NP",
-      "parkLongName": "South East Forest National Park",
-      "id": 156
+      "id": 156,
+      "park": 2
     },
     {
       "shortName": "Nymboida River",
@@ -3016,9 +2860,8 @@
       "trailers": false,
       "car": true,
       "description": "",
-      "parkShortName": "Nymboida NP",
-      "parkLongName": "Nymboida National Park",
-      "id": 157
+      "id": 157,
+      "park": 72
     },
     {
       "shortName": "O'Hares",
@@ -3036,9 +2879,8 @@
       "trailers": true,
       "car": true,
       "description": "The campground was a former Snowy Mountains Hydro Electric Scheme site and provides boating access to the southern end of Talbingo Reservoir. There are no designated campsites.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 158
+      "id": 158,
+      "park": 10
     },
     {
       "shortName": "Old Geehi",
@@ -3056,9 +2898,8 @@
       "trailers": false,
       "car": true,
       "description": "There are no set campsites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 159
+      "id": 159,
+      "park": 10
     },
     {
       "shortName": "Old Snowy",
@@ -3074,9 +2915,8 @@
       "trailers": true,
       "car": true,
       "description": "Vehicle based camping with horses is permitted at this campground. Horse yards are provided on site.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 160
+      "id": 160,
+      "park": 10
     },
     {
       "shortName": "Olive Downs",
@@ -3092,9 +2932,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is set amongst mulga trees on top of the 'Jump-Up' Range. A walking track starts at the campground and leads you through the Jump-Up landscape. You may see various species of kangaroos, lots of birds and reptiles, and some relics from the park's pastoral history. Wood fires are prohibited.",
-      "parkShortName": "Sturt NP",
-      "parkLongName": "Sturt National Park",
-      "id": 161
+      "id": 161,
+      "park": 40
     },
     {
       "shortName": "Peacock Creek",
@@ -3112,9 +2951,8 @@
       "trailers": false,
       "car": true,
       "description": "Firewood collection within the park is not permitted. Please bring your own firewood.",
-      "parkShortName": "Richmond Range NP",
-      "parkLongName": "Richmond Range National Park",
-      "id": 162
+      "id": 162,
+      "park": 73
     },
     {
       "shortName": "Pebbly Beach",
@@ -3132,9 +2970,8 @@
       "trailers": true,
       "car": true,
       "description": "Here you'll find places to swim and fish. You'll need to bring your own water. Freshwater Track is 4km return, grade medium. Corkwood and Scribbly Gum Walking Track follows the creek upstream. It's 1.5km return, easy grade.\n\nThis camping area is not suitable for large caravans but is suitable for small caravans and trailers if towed by high clearance 4WD.\n\nFirewood is provided for open fire places.",
-      "parkShortName": "Yuraygir NP",
-      "parkLongName": "Yuraygir National Park",
-      "id": 163
+      "id": 163,
+      "park": 22
     },
     {
       "shortName": "Pebbly Beach",
@@ -3152,9 +2989,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Murramarang NP",
-      "parkLongName": "Murramarang National Park",
-      "id": 164
+      "id": 164,
+      "park": 41
     },
     {
       "shortName": "Perrys Lookdown",
@@ -3172,9 +3008,8 @@
       "trailers": false,
       "car": false,
       "description": "You'll be pitching your tent on prime real estate here, beside one of the mountains' best lookouts. The camping ground offers spectacular views of the Grose Valley and Mount Banks - together with basic toilet facilities. It's a great base for walking trips in the valley below. You'll need to bring drinking water and a fuel stove: camp fires are forbidden. You can only stay for one night.",
-      "parkShortName": "Blue Mountains NP",
-      "parkLongName": "Blue Mountains National Park",
-      "id": 165
+      "id": 165,
+      "park": 1
     },
     {
       "shortName": "Picnic Point",
@@ -3192,9 +3027,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Mimosa Rocks NP",
-      "parkLongName": "Mimosa Rocks National Park",
-      "id": 166
+      "id": 166,
+      "park": 4
     },
     {
       "shortName": "Pinch River",
@@ -3212,9 +3046,8 @@
       "trailers": false,
       "car": true,
       "description": "",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 167
+      "id": 167,
+      "park": 10
     },
     {
       "shortName": "Plateau Beech",
@@ -3232,9 +3065,8 @@
       "trailers": false,
       "car": false,
       "description": "A walking track goes from this campground through Antarctic beech forests and past mountain streams and waterfalls.",
-      "parkShortName": "Werrikimbe NP",
-      "parkLongName": "Werrikimbe National Park",
-      "id": 168
+      "id": 168,
+      "park": 26
     },
     {
       "shortName": "Platypus Flat",
@@ -3252,9 +3084,8 @@
       "trailers": false,
       "car": false,
       "description": "You can picnic and swim at this campground. It's also a good spot to launch your canoe from. You'll need to bring drinking water.",
-      "parkShortName": "Nymboi-Binderay NP",
-      "parkLongName": "Nymboi-Binderay National Park",
-      "id": 169
+      "id": 169,
+      "park": 74
     },
     {
       "shortName": "Point Plomer",
@@ -3272,9 +3103,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Limeburners Creek NR",
-      "parkLongName": "Limeburners Creek Nature Reserve",
-      "id": 170
+      "id": 170,
+      "park": 68
     },
     {
       "shortName": "Polblue",
@@ -3292,9 +3122,8 @@
       "trailers": true,
       "car": true,
       "description": "This is a roomy campground in pleasant subalpine woodland, at 1450m altitude. It offers short and inspiring walks passing through snow gum woodland, tall eucalypt forest and areas of high-altitude swamp.",
-      "parkShortName": "Barrington Tops NP",
-      "parkLongName": "Barrington Tops National Park",
-      "id": 171
+      "id": 171,
+      "park": 42
     },
     {
       "shortName": "Postman's",
@@ -3310,9 +3139,8 @@
       "trailers": false,
       "car": false,
       "description": "Camp or picnic near a wide sandy bend of the Tantawangalo Creek. Campsites with fireplaces are provided. The campsite is on the track that was used by the postman delivering mail between the tablelands to Kameruka during the 1800s.",
-      "parkShortName": "South East Forest NP",
-      "parkLongName": "South East Forest National Park",
-      "id": 172
+      "id": 172,
+      "park": 2
     },
     {
       "shortName": "Pretty Beach",
@@ -3330,9 +3158,8 @@
       "trailers": true,
       "car": true,
       "description": "There is an office at this campground, and a manager is present 7 days a week. Powered sites are available. Limited wood barbecues are available for cooking outside of peak season but it is recommended you bring fuel stoves to use while on the park grounds. NO FIRES are to be lit in the peak seasons (Christmas/Easter or long weekends).\n\nExplore Durras mountain, enjoy the coastal walks or discover sea life on the rock platforms. Fishing, snorkelling, surfing and swimming are also popular pasttimes for campers and day visitors alike.\n\nEastern grey kangaroos, swamp wallabies, brushtail possums and a large variety of bird life can be seen in the campground or on the beach at various times throughout the day and night. When sighting birds and animals please remember they have their own foods and can become sick and/or aggressive once introduced to human foods.",
-      "parkShortName": "Murramarang NP",
-      "parkLongName": "Murramarang National Park",
-      "id": 173
+      "id": 173,
+      "park": 41
     },
     {
       "shortName": "Putty Beach",
@@ -3350,9 +3177,8 @@
       "trailers": false,
       "car": false,
       "description": "The main features are at the eastern end of Putty Beach, which provides good swimming and the start of the Coastal Walk. Wood fires are not permitted. Important note: Showers are open-air.",
-      "parkShortName": "Bouddi NP",
-      "parkLongName": "Bouddi National Park",
-      "id": 174
+      "id": 174,
+      "park": 66
     },
     {
       "shortName": "Rivermouth",
@@ -3370,9 +3196,8 @@
       "trailers": false,
       "car": false,
       "description": "This boat-based camping area is an ideal overnight stop for kayakers and canoeists paddling the Upper Myall River. Camp sites are nestled into the bush a short distance from the riverbank.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 175
+      "id": 175,
+      "park": 7
     },
     {
       "shortName": "Riverside",
@@ -3388,9 +3213,8 @@
       "trailers": false,
       "car": false,
       "description": "This campground lies deep within the Macleay Gorges, immediately adjacent to the Macleay Gorges Wilderness Area.",
-      "parkShortName": "Oxley Wild Rivers NP",
-      "parkLongName": "Oxley Wild Rivers National Park",
-      "id": 176
+      "id": 176,
+      "park": 3
     },
     {
       "shortName": "Rock Flat",
@@ -3408,9 +3232,8 @@
       "trailers": true,
       "car": true,
       "description": "There are no designated sites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 177
+      "id": 177,
+      "park": 10
     },
     {
       "shortName": "Rocky Plain",
@@ -3428,9 +3251,8 @@
       "trailers": true,
       "car": true,
       "description": "Vehicle based camping with horses is permitted at this campground. There is a loading ramp adjacent to the toilet facilities.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 178
+      "id": 178,
+      "park": 10
     },
     {
       "shortName": "Rummery Park",
@@ -3448,9 +3270,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Whian Whian SCA",
-      "parkLongName": "Whian Whian State Conservation Area",
-      "id": 179
+      "id": 179,
+      "park": 75
     },
     {
       "shortName": "Running Waters",
@@ -3468,9 +3289,8 @@
       "trailers": false,
       "car": true,
       "description": "",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 180
+      "id": 180,
+      "park": 10
     },
     {
       "shortName": "Saltwater Creek",
@@ -3488,9 +3308,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Ben Boyd NP",
-      "parkLongName": "Ben Boyd National Park",
-      "id": 181
+      "id": 181,
+      "park": 17
     },
     {
       "shortName": "Samual Bollard",
@@ -3506,9 +3325,8 @@
       "trailers": true,
       "car": true,
       "description": "The campground was established primarily for campers treking the Hume and Hovell walking track, however it is open to most visitors.",
-      "parkShortName": "Woomargama NP",
-      "parkLongName": "Woomargama National Park",
-      "id": 182
+      "id": 182,
+      "park": 76
     },
     {
       "shortName": "Sandon River",
@@ -3526,9 +3344,8 @@
       "trailers": true,
       "car": true,
       "description": "This camping ground is close to Sandon River, a popular fishing spot with a boat ramp.",
-      "parkShortName": "Yuraygir NP",
-      "parkLongName": "Yuraygir National Park",
-      "id": 183
+      "id": 183,
+      "park": 22
     },
     {
       "shortName": "Scotchie's Yards",
@@ -3546,9 +3363,8 @@
       "trailers": false,
       "car": true,
       "description": "There are no set campsites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 184
+      "id": 184,
+      "park": 10
     },
     {
       "shortName": "Sheepstation Creek",
@@ -3566,9 +3382,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Border Ranges NP",
-      "parkLongName": "Border Ranges National Park",
-      "id": 185
+      "id": 185,
+      "park": 49
     },
     {
       "shortName": "Shelley Head",
@@ -3584,9 +3399,8 @@
       "trailers": false,
       "car": false,
       "description": "Campsites are close to Shelley Caves, Little Shelley Beach and Caves Beach, where you can swim and fish. Bring your own water and fuel stove.",
-      "parkShortName": "Yuraygir NP",
-      "parkLongName": "Yuraygir National Park",
-      "id": 186
+      "id": 186,
+      "park": 22
     },
     {
       "shortName": "Shelly Beach",
@@ -3604,9 +3418,8 @@
       "trailers": false,
       "car": false,
       "description": "This is one of the larger boat-based camping areas. It features sandy beaches with shallow water along the lake shore. There are opportunities for walking nearby along the Old Gibber track.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 187
+      "id": 187,
+      "park": 7
     },
     {
       "shortName": "Silent Creek",
@@ -3622,9 +3435,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is good for large groups. You'll need to bring drinking water and firewood. Silent Creek is often dry.",
-      "parkShortName": "Abercrombie River NP",
-      "parkLongName": "Abercrombie River National Park",
-      "id": 188
+      "id": 188,
+      "park": 27
     },
     {
       "shortName": "Six Mile Creek",
@@ -3642,9 +3454,8 @@
       "trailers": true,
       "car": true,
       "description": "Picnic, walk, camp or just sit and relax by the pristine waters of Six Mile Creek. The original Tantawangalo Mountain Road to this site was forged around 1860. \n\nAcross the road from the picnic area is the start of an easy 20 minute walk (300m return). A viewing platform overlooks the cascading waters on their way to meet Tantawangalo Creek.\n\nThis is a great place for walking and scenic drives.",
-      "parkShortName": "South East Forest NP",
-      "parkLongName": "South East Forest National Park",
-      "id": 189
+      "id": 189,
+      "park": 2
     },
     {
       "shortName": "Smoky Cape",
@@ -3662,9 +3473,8 @@
       "trailers": true,
       "car": true,
       "description": "This low-key campground is nestled among the rainforest just below the lighthouse at Smoky Cape, on a beautiful, isolated stretch of the coast. You'll need to bring drinking water. There is a recycling station, however, taking all your garbage away is appreciated.",
-      "parkShortName": "Hat Head NP",
-      "parkLongName": "Hat Head National Park",
-      "id": 190
+      "id": 190,
+      "park": 59
     },
     {
       "shortName": "Spring Gully Camp",
@@ -3680,9 +3490,8 @@
       "trailers": false,
       "car": true,
       "description": "You'll need to bring drinking water and firewood. Please take rubbish with you.",
-      "parkShortName": "Goulburn River NP",
-      "parkLongName": "Goulburn River National Park",
-      "id": 191
+      "id": 191,
+      "park": 16
     },
     {
       "shortName": "Station Creek",
@@ -3700,9 +3509,8 @@
       "trailers": true,
       "car": true,
       "description": "Swimming and fishing is available very close to this camping area. Canoeists can enjoy Station Creek. Corkwood and Scribbly Gum Walking Track follows the creek upstream. Bring your own water.",
-      "parkShortName": "Yuraygir NP",
-      "parkLongName": "Yuraygir National Park",
-      "id": 192
+      "id": 192,
+      "park": 22
     },
     {
       "shortName": "Stewart and Lloyds",
@@ -3720,9 +3528,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is directly behind the park's extensive sand dunes, and has walking tracks across the dunes to the beach. There is good beach fishing, but surf conditions are often rough.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 193
+      "id": 193,
+      "park": 7
     },
     {
       "shortName": "Sunnyside",
@@ -3738,9 +3545,8 @@
       "trailers": false,
       "car": false,
       "description": "This boat-based camping area is located on the narrow stretch of water between Two Mile and Boolambayte Lakes. It is at the site of the former Sunnyside Guesthouse.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 194
+      "id": 194,
+      "park": 7
     },
     {
       "shortName": "Tallow Beach",
@@ -3758,9 +3564,8 @@
       "trailers": false,
       "car": false,
       "description": "Tallow Beach is an unpatrolled beach where you can swim, surf and fish. Box Head walking track and Flannel Flower/Lobster Beach walking tracks are nearby. No barbecues are provided and wood fires are not permitted (fuel stoves only).",
-      "parkShortName": "Bouddi NP",
-      "parkLongName": "Bouddi National Park",
-      "id": 195
+      "id": 195,
+      "park": 66
     },
     {
       "shortName": "Tattersals",
@@ -3778,9 +3583,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Karuah NR",
-      "parkLongName": "Karuah Nature Reserve",
-      "id": 196
+      "id": 196,
+      "park": 46
     },
     {
       "shortName": "Ten Mile Hollow",
@@ -3798,9 +3602,8 @@
       "trailers": false,
       "car": false,
       "description": "This camping ground is a great place to stop and rest if you're doing the two-day Old Great North Road walk, from Wisemans Ferry to Mangrove Mountain or the three-day walk to Mount Manning. You'll only find fireplaces here, so bring plenty of water.",
-      "parkShortName": "Dharug NP",
-      "parkLongName": "Dharug National Park",
-      "id": 197
+      "id": 197,
+      "park": 69
     },
     {
       "shortName": "Terarra Creek",
@@ -3816,9 +3619,8 @@
       "trailers": true,
       "car": true,
       "description": "The campground's central location makes it a good spot for exploring the park. It's ideal for bird watchers, bushwalkers and mountain bikers. You can also drive to Mount Nangar Lookout from the campground (4WD only).",
-      "parkShortName": "Nangar NP",
-      "parkLongName": "Nangar National Park",
-      "id": 198
+      "id": 198,
+      "park": 77
     },
     {
       "shortName": "The Barracks",
@@ -3834,9 +3636,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is an ideal base-camp for walking trips. Caravan sites are very limited. You'll need to bring drinking water and firewood.",
-      "parkShortName": "Coolah Tops NP",
-      "parkLongName": "Coolah Tops National Park",
-      "id": 199
+      "id": 199,
+      "park": 34
     },
     {
       "shortName": "The Basin",
@@ -3854,9 +3655,8 @@
       "trailers": false,
       "car": false,
       "description": "",
-      "parkShortName": "Ku-ring-gai Chase NP",
-      "parkLongName": "Ku-ring-gai Chase National Park",
-      "id": 200
+      "id": 200,
+      "park": 78
     },
     {
       "shortName": "The Beach",
@@ -3872,9 +3672,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is in a secluded spot beside the Abercrombie River. You'll need to bring drinking water and firewood.",
-      "parkShortName": "Abercrombie River NP",
-      "parkLongName": "Abercrombie River National Park",
-      "id": 201
+      "id": 201,
+      "park": 27
     },
     {
       "shortName": "The Diggings",
@@ -3890,9 +3689,8 @@
       "trailers": false,
       "car": true,
       "description": "This camping ground is beside the Turon River, site of the goldrush from 1851. Panning or digging for gold are not allowed, but you can go bushwalking, fishing (with a fishing licence) and birdwatching.",
-      "parkShortName": "Turon NP",
-      "parkLongName": "Turon National Park",
-      "id": 202
+      "id": 202,
+      "park": 79
     },
     {
       "shortName": "The Junction",
@@ -3910,9 +3708,8 @@
       "trailers": false,
       "car": false,
       "description": "You can picnic and swim at this campground and it's a good spot to launch your canoe. You'll need to bring drinking water.",
-      "parkShortName": "Nymboi-Binderay NP",
-      "parkLongName": "Nymboi-Binderay National Park",
-      "id": 203
+      "id": 203,
+      "park": 74
     },
     {
       "shortName": "The Pines",
@@ -3930,9 +3727,8 @@
       "trailers": true,
       "car": true,
       "description": "There are no designated sites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 204
+      "id": 204,
+      "park": 10
     },
     {
       "shortName": "The Pines",
@@ -3948,9 +3744,8 @@
       "trailers": true,
       "car": true,
       "description": "This is a large and open campground near to Norfolk Island Swamp. You'll need to bring drinking water and firewood.",
-      "parkShortName": "Coolah Tops NP",
-      "parkLongName": "Coolah Tops National Park",
-      "id": 205
+      "id": 205,
+      "park": 34
     },
     {
       "shortName": "The Ruins",
@@ -3968,9 +3763,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Booti Booti NP",
-      "parkLongName": "Booti Booti National Park",
-      "id": 206
+      "id": 206,
+      "park": 80
     },
     {
       "shortName": "The Sink",
@@ -3988,9 +3782,8 @@
       "trailers": false,
       "car": false,
       "description": "This campground offers fishing, swimming (depending on water level) and bushwalking. You'll need to bring drinking water and firewood. This campground is beside the Retreat River.",
-      "parkShortName": "Abercrombie River NP",
-      "parkLongName": "Abercrombie River National Park",
-      "id": 207
+      "id": 207,
+      "park": 27
     },
     {
       "shortName": "The Wells",
@@ -4008,9 +3801,8 @@
       "trailers": true,
       "car": true,
       "description": "This camping area is located on the eastern shore of Bombah Broadwater. It is one of the areas around the Broadwater where campfires are permitted.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 208
+      "id": 208,
+      "park": 7
     },
     {
       "shortName": "Thredbo Diggings",
@@ -4028,9 +3820,8 @@
       "trailers": true,
       "car": true,
       "description": "There are no set campsites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 209
+      "id": 209,
+      "park": 10
     },
     {
       "shortName": "Three Mile Dam East",
@@ -4046,9 +3837,8 @@
       "trailers": true,
       "car": true,
       "description": "The eastern side of Three Mile Dam has several clear areas for camping. The most sheltered place is within the tree line, near the public facilities. There are no designated sites at this campground.\n\nThree Mile Dam and the surrounding plains provide a spectacular wildflower display during early to mid-summer.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 210
+      "id": 210,
+      "park": 10
     },
     {
       "shortName": "Three Mile Dam West",
@@ -4064,9 +3854,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is located along the peninsular of Three Mile Dam, sheltered amongst the snow gums. There are basic public facilities and no designated campsites.\n\nThe surrounding plains provide a spectacular wildflower display during early to mid-summer. Take Gold Seekers Walk to enjoy the scenery of the snow gums, heath and wildflowers as well as relics of the mining era. Gold Seekers Walk starts adjacent to the carpark next to the Three Mile Dam peninsular access road.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 211
+      "id": 211,
+      "park": 10
     },
     {
       "shortName": "Thungutti",
@@ -4084,9 +3873,8 @@
       "trailers": false,
       "car": false,
       "description": "",
-      "parkShortName": "New England NP",
-      "parkLongName": "New England National Park",
-      "id": 212
+      "id": 212,
+      "park": 81
     },
     {
       "shortName": "Tia Falls",
@@ -4104,9 +3892,8 @@
       "trailers": true,
       "car": true,
       "description": "The campground is situated in quiet, picturesque woodland. Enjoy the Tia Falls and Tiara walking tracks.",
-      "parkShortName": "Oxley Wild Rivers NP",
-      "parkLongName": "Oxley Wild Rivers National Park",
-      "id": 213
+      "id": 213,
+      "park": 3
     },
     {
       "shortName": "Tin Mines",
@@ -4122,9 +3909,8 @@
       "trailers": true,
       "car": true,
       "description": "The campground is a clear grassy area adjacent to Tin Mines Trail. The site has basic camping facilities and is suitable for 4WD vehicle based camping or self reliant backpackers. It's located along the Hume and Hovell walking track which extends from Yass to Albury.",
-      "parkShortName": "Woomargama NP",
-      "parkLongName": "Woomargama National Park",
-      "id": 214
+      "id": 214,
+      "park": 76
     },
     {
       "shortName": "Tom Groggin",
@@ -4142,9 +3928,8 @@
       "trailers": true,
       "car": true,
       "description": "There are no set campsites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 215
+      "id": 215,
+      "park": 10
     },
     {
       "shortName": "Trial Bay Gaol",
@@ -4160,9 +3945,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Arakoon SCA",
-      "parkLongName": "Arakoon State Conservation Area",
-      "id": 216
+      "id": 216,
+      "park": 82
     },
     {
       "shortName": "Two Mile Sands",
@@ -4180,9 +3964,8 @@
       "trailers": false,
       "car": false,
       "description": "This boat-based camping area is located on Two Mile Lake and features sandy beaches and shallow waters adjacent to the camping area. A short walking track connects the camp sites.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 217
+      "id": 217,
+      "park": 7
     },
     {
       "shortName": "Uloola Falls",
@@ -4200,9 +3983,8 @@
       "trailers": false,
       "car": false,
       "description": "A maximum of 18 people can camp here. You'll need to bring your own drinking water, and wood fires are forbidden.",
-      "parkShortName": "Royal NP",
-      "parkLongName": "Royal National Park",
-      "id": 218
+      "id": 218,
+      "park": 21
     },
     {
       "shortName": "Village",
@@ -4218,9 +4000,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Hill End",
-      "parkLongName": "Hill End Historic Site",
-      "id": 219
+      "id": 219,
+      "park": 53
     },
     {
       "shortName": "Violet Hill",
@@ -4238,9 +4019,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 220
+      "id": 220,
+      "park": 7
     },
     {
       "shortName": "Wallingat River",
@@ -4258,9 +4038,8 @@
       "trailers": false,
       "car": true,
       "description": "Walking tracks lead from this campground into the park.",
-      "parkShortName": "Wallingat NP",
-      "parkLongName": "Wallingat National Park",
-      "id": 221
+      "id": 221,
+      "park": 83
     },
     {
       "shortName": "Wanda Wandong",
@@ -4276,9 +4055,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is in an open woodland with a grassy understorey. There's lots of open space for kids.",
-      "parkShortName": "Goobang NP",
-      "parkLongName": "Goobang National Park",
-      "id": 222
+      "id": 222,
+      "park": 54
     },
     {
       "shortName": "Waratah Gully",
@@ -4296,9 +4074,8 @@
       "trailers": true,
       "car": true,
       "description": "Camp amidst the towering eucalypts adjacent to the picturesque Waratah Gully. It's an ideal location from which to explore the Coolangubra section of the park, including Pheasants Peak and Myanba Gorge. \n\nThe area is renowned for old growth forest and the diverse forest fauna it supports.",
-      "parkShortName": "South East Forest NP",
-      "parkLongName": "South East Forest National Park",
-      "id": 223
+      "id": 223,
+      "park": 2
     },
     {
       "shortName": "Wards Glen",
@@ -4314,9 +4091,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "The Glen NR",
-      "parkLongName": "The Glen Nature Reserve",
-      "id": 224
+      "id": 224,
+      "park": 84
     },
     {
       "shortName": "Wares Yards",
@@ -4334,9 +4110,8 @@
       "trailers": true,
       "car": true,
       "description": "Vehicle based camping with horses is permitted at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 225
+      "id": 225,
+      "park": 10
     },
     {
       "shortName": "Warrabah",
@@ -4352,9 +4127,8 @@
       "trailers": false,
       "car": false,
       "description": "This campground is beside the Namoi River. You can go hiking, swimming, canoeing and fishing here. Camping is only permitted at numbered sites, as shown on the plan in the information shelter.",
-      "parkShortName": "Warrabah NP",
-      "parkLongName": "Warrabah National Park",
-      "id": 226
+      "id": 226,
+      "park": 85
     },
     {
       "shortName": "Washpools",
@@ -4372,9 +4146,8 @@
       "trailers": true,
       "car": true,
       "description": "You'll need to bring your own fuel stove and water when you camp here.",
-      "parkShortName": "Towarri NP",
-      "parkLongName": "Towarri National Park",
-      "id": 227
+      "id": 227,
+      "park": 86
     },
     {
       "shortName": "Wheeny Creek",
@@ -4392,9 +4165,8 @@
       "trailers": true,
       "car": true,
       "description": "You'll need to bring drinking water and firewood with you. Please take all garbage when you leave.",
-      "parkShortName": "Wollemi NP",
-      "parkLongName": "Wollemi National Park",
-      "id": 228
+      "id": 228,
+      "park": 33
     },
     {
       "shortName": "White Tree Bay",
@@ -4412,9 +4184,8 @@
       "trailers": true,
       "car": true,
       "description": "This camping area is located on the eastern shore of Bombah Broadwater. It includes a large picnic area and gas barbecue.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 229
+      "id": 229,
+      "park": 7
     },
     {
       "shortName": "Willandra",
@@ -4430,9 +4201,8 @@
       "trailers": true,
       "car": true,
       "description": "You'll find a walking track near this campground.",
-      "parkShortName": "Willandra NP",
-      "parkLongName": "Willandra National Park",
-      "id": 230
+      "id": 230,
+      "park": 55
     },
     {
       "shortName": "Woko",
@@ -4448,9 +4218,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Woko NP",
-      "parkLongName": "Woko National Park",
-      "id": 231
+      "id": 231,
+      "park": 87
     },
     {
       "shortName": "Wombat Creek",
@@ -4466,9 +4235,8 @@
       "trailers": false,
       "car": false,
       "description": "Wombat Creek is one of a number of bushwalking campsites in the park, but it's the only one with toilets. It's a great base for exploring the Barrington Tops plateau, and is only a few kilometres walk from Careys Peak.",
-      "parkShortName": "Barrington Tops NP",
-      "parkLongName": "Barrington Tops National Park",
-      "id": 232
+      "id": 232,
+      "park": 42
     },
     {
       "shortName": "Wombeyan Caves",
@@ -4486,9 +4254,8 @@
       "trailers": true,
       "car": true,
       "description": "There is an abundance of campsites along the picturesque Wombeyan Creek. There is a communal kithen and dining room with stove, barbecues, fridge, urn, tables and chairs. There are three amenities blocks with hot showers and flush toilets; wheelchair access provided. Fire places are provided, but you will need to bring your own firewood.",
-      "parkShortName": "Wombeyan KCR",
-      "parkLongName": "Wombeyan Karst Conservation Reserve",
-      "id": 233
+      "id": 233,
+      "park": 88
     },
     {
       "shortName": "Woody Head",
@@ -4506,9 +4273,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Bundjalung NP",
-      "parkLongName": "Bundjalung National Park",
-      "id": 234
+      "id": 234,
+      "park": 18
     },
     {
       "shortName": "Woolshed Flat",
@@ -4524,9 +4290,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Cocoparra NP",
-      "parkLongName": "Cocoparra National Park",
-      "id": 235
+      "id": 235,
+      "park": 89
     },
     {
       "shortName": "Woolshed Flat",
@@ -4544,9 +4309,8 @@
       "trailers": false,
       "car": true,
       "description": "This peaceful spot is where the Turon River begins. It's a great place for birdwatching and bushwalking.",
-      "parkShortName": "Turon NP",
-      "parkLongName": "Turon National Park",
-      "id": 236
+      "id": 236,
+      "park": 79
     },
     {
       "shortName": "Wyanbene Cave",
@@ -4562,9 +4326,8 @@
       "trailers": false,
       "car": true,
       "description": "The campground offers caving and bushwalking. There are 5 to 10 unmarked sites.",
-      "parkShortName": "Deua NP",
-      "parkLongName": "Deua National Park",
-      "id": 237
+      "id": 237,
+      "park": 14
     },
     {
       "shortName": "Yachting Point",
@@ -4582,9 +4345,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground provides access to the Blowering Foreshores which is a popular place for water activities. There are no designated sites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 238
+      "id": 238,
+      "park": 10
     },
     {
       "shortName": "Yagon",
@@ -4602,9 +4364,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground lies behind the dunes, with close walking access to the beach. Visit nearby Seal Rocks and the Sugarloaf Point Lighthouse. You can also go on overnight walks to Shelly Beach and Mungo Brush from here. Wood and solid fuel fires are not permitted.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 239
+      "id": 239,
+      "park": 7
     },
     {
       "shortName": "Yarrangobilly Village",
@@ -4622,9 +4383,8 @@
       "trailers": true,
       "car": true,
       "description": "This campground is close to Yarrangobilly Caves on the Yarrangobilly River. It's an ideal place to camp if visiting the caves, exploring the local area or fishing. There are no designated camping sites.\n\nYarrangobilly River meanders through the campground before cutting its way through the Yarrangobilly limestone belt heading to the caves, Lobs Hole Ravine and the Talbingo Reservoir.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 240
+      "id": 240,
+      "park": 10
     },
     {
       "shortName": "Yolde",
@@ -4642,9 +4402,8 @@
       "trailers": true,
       "car": true,
       "description": "There are no designated sites at this campground.",
-      "parkShortName": "Kosciuszko NP",
-      "parkLongName": "Kosciuszko National Park",
-      "id": 241
+      "id": 241,
+      "park": 10
     },
     {
       "shortName": "Youdales",
@@ -4662,9 +4421,8 @@
       "trailers": false,
       "car": true,
       "description": "This campground is adjacent to two wilderness areas on the upper reaches of the picturesque Kunderang Brook. It's ideal for picnics, swimming and short walks. You can also visit the historic Youdales Hut.",
-      "parkShortName": "Oxley Wild Rivers NP",
-      "parkLongName": "Oxley Wild Rivers National Park",
-      "id": 242
+      "id": 242,
+      "park": 3
     },
     {
       "shortName": "Youngville",
@@ -4682,9 +4440,8 @@
       "trailers": false,
       "car": false,
       "description": "This campground offers walking tracks, including the walk to Pieries Peak.",
-      "parkShortName": "Mount Royal NP",
-      "parkLongName": "Mount Royal National Park",
-      "id": 243
+      "id": 243,
+      "park": 90
     },
     {
       "shortName": "Sunny Side",
@@ -4702,9 +4459,8 @@
       "trailers": false,
       "car": false,
       "description": "You'll find boat-based camping at the following locations:\n\nBrambles Green (2 sites) Rivermouth (5 sites) Joes Cove (2 sites) Freshwater (7 sites) Two Mile Sands (4 sites) Mackaway Bay (3 sites) Johnsons Beach (17 sites) Shelly Beach (18 sites) Sunny Side (4 sites). There are toilets at Rivermouth, Freshwater, Johnsons Beach and Shelly Beach campgrounds only.",
-      "parkShortName": "Myall Lakes NP",
-      "parkLongName": "Myall Lakes National Park",
-      "id": 244
+      "id": 244,
+      "park": 7
     },
     {
       "shortName": "Gap Creek",
@@ -4722,9 +4478,8 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Watagans NP",
-      "parkLongName": "Watagans National Park",
-      "id": 245
+      "id": 245,
+      "park": 91
     },
     {
       "shortName": "Bangalow",
@@ -4742,9 +4497,8 @@
       "trailers": false,
       "car": true,
       "description": "Camp amongst tall blue gums and blackbutts. This camping area is a short distance (1km) from Gap Creek camping area.",
-      "parkShortName": "Watagans NP",
-      "parkLongName": "Watagans National Park",
-      "id": 246
+      "id": 246,
+      "park": 91
     },
     {
       "shortName": "Abercrombie Caves",
@@ -4760,9 +4514,654 @@
       "trailers": true,
       "car": true,
       "description": "",
-      "parkShortName": "Abercrombie KCR",
-      "parkLongName": "Abercrombie Karst Conservation Reserve",
-      "id": 247
+      "id": 247,
+      "park": 92
+    }
+  ],
+  "parks": [
+    {
+      "shortName": "Blue Mountains NP",
+      "longName": "Blue Mountains National Park",
+      "webId": "N0004",
+      "description": "More than three million people come to Blue Mountains National Park each year. For many it's enough just to find a lookout and gaze across the park's chiselled sandstone outcrops and hazy blue forests. Others walk or cycle along the cliff-tops and in the valleys, following paths that were created for Victorian-era honeymooners, or discovered by Aboriginal hunters many thousands of years ago. Over 140 km of walking tracks of all grades (some accessible for people with a disability) in diverse settings make the Blue Mountains a bushwalker's paradise.\n\nThis park, which is part of the Greater Blue Mountains World Heritage Area, protects an unusually diverse range of vegetation communities. There are rare and ancient plants and isolated animal populations tucked away in its deep gorges. The Greater Blue Mountains Drive, winner of the 2008 Australian Tourism Award for New Tourism Development, links a vast and spectacular world heritage landscape and a number of national parks to the regions that surround it.",
+      "id": 1
+    },
+    {
+      "shortName": "South East Forest NP",
+      "longName": "South East Forest National Park",
+      "webId": "N0111",
+      "description": "The park spans 100 km of spectacular coastal escarpment, tableland edge and hinterland country in the south-east corner of NSW. It forms an important link in a system of conservation reserves stretching over 600 km along the great eastern escarpment of southern NSW and eastern Victoria. \n\nTo the north is the Bega Valley with a scenic backdrop of rugged, forested mountain peaks, and sweeping escarpment. Landscapes in the middle of the park feature a ring of mountainous country and include gorges and deep valleys that descend into the picturesque Towamba River valley below. In the far south mountains rising to 1000 m descend into the plateaus that lead into the remote gorges of the Genoa wilderness.",
+      "id": 2
+    },
+    {
+      "shortName": "Oxley Wild Rivers NP",
+      "longName": "Oxley Wild Rivers National Park",
+      "webId": "N0043",
+      "description": "This is a World Heritage park with dramatic gorges and waterfalls, extensive wilderness, wild and scenic rivers, dry rainforest and rare plants and animals. Wollomombi is the highest waterfall in NSW and the Bicentennial National Trail passes through the park.",
+      "id": 3
+    },
+    {
+      "shortName": "Mimosa Rocks NP",
+      "longName": "Mimosa Rocks National Park",
+      "webId": "N0021",
+      "description": "A diverse coastline of rocky coves and headlands, long sandy beaches and coastal lagoons, all backed by forested hills.\n\nThere are opportunities for fishing, swimming, surfing, snorkelling, walking, birdwatching or just sight-seeing. Car-based camping is available at Aragunnu, Picnic Point and Gillards, with only Gillards suitable for caravans. Walk-in camping is at Middle Beach. There are picnic areas at Aragunnu, Bithry Inlet, Middle Beach and Gillards. Carparks for other activities such as walking are at Wajurda Point, Moon Bay, Nelson Beach and Goalen Head.",
+      "id": 4
+    },
+    {
+      "shortName": "Bald Rock NP",
+      "longName": "Bald Rock National Park",
+      "webId": "N0001",
+      "description": "The water-streaked dome of Bald Rock is the largest granite rock in Australia. It's 750 metres long, 500 metres wide and 200 metres high. \n\nA number of walks make the most of the park's granite landscape - including the track to the summit, which includes canyons, stone arches and panoramic views.",
+      "id": 5
+    },
+    {
+      "shortName": "Warrumbungle NP",
+      "longName": "Warrumbungle National Park",
+      "webId": "N0035",
+      "description": "The combination of forested ridges, rocky spires and domes, deep gorges and plenty of camping and visitor facilities make the Warrumbungles one of the state's most popular national parks.\n\nOn 12 July 2006 this park was added to the National Heritage List.",
+      "id": 6
+    },
+    {
+      "shortName": "Myall Lakes NP",
+      "longName": "Myall Lakes National Park",
+      "webId": "N0026",
+      "description": "One of the state's largest coastal lake systems - a Ramsar Wetland of International Significance - and 40 kilometres of beaches and rolling sand dunes make Myall Lakes one of the most visited parks in NSW. The Grandis, a magnificent 76 m high flooded gum, is one of the tallest trees in the state.\n\nThe lakes and beaches are perfect for water activities, and if you don't have your own craft, you can hire one locally.",
+      "id": 7
+    },
+    {
+      "shortName": "Mount Kaputar NP",
+      "longName": "Mount Kaputar National Park",
+      "webId": "N0038",
+      "description": "Mt Kaputar National Park is a rugged island of wilderness, towering high above the surrounding Western Plains. It's the footprint left behind by a series of volcanic eruptions that moved across this area between 17 and 21 million years ago.\n\nMillions of years of erosion have carved this volcanic pile into the Nandewar Range, with its dramatic landscape of lava terraces, volcanic plugs and ring dykes. At the peak of the range is Mt Kaputar, which reaches an altitude of 1510m. There are superb views from the summit, as well as from many other lookouts in the park.\n\nThe park protects a wide variety of plant communities, including semi-arid woodlands, wet eucalypt forests and subalpine heaths. It's home to a host of animal species, and provides a haven for many threatened species - including bats, birds, wallabies, quolls and a unique large pink slug, which often appears after rain.",
+      "id": 8
+    },
+    {
+      "shortName": "Cathedral Rock NP",
+      "longName": "Cathedral Rock National Park",
+      "webId": "N0046",
+      "description": "Highlights: Giant boulders, sculpted rock and distinctive granite tors make striking subjects for photography and keep an eye out for wedge-tailed eagles on the wing.\n\nActivities: Explore the rock formations on the Cathedral Rock track, an easy three hour circuit, or the longer Woolpack Rocks walk (medium grade). Car-based camping is available at Barokee (not suitable for caravans) and Native Dog Creek rest areas. Camping fees apply.\n\nAccess: 60 km west of Dorrigo off the Waterfall Way (unpaved roads).",
+      "id": 9
+    },
+    {
+      "shortName": "Kosciuszko NP",
+      "longName": "Kosciuszko National Park",
+      "webId": "N0018",
+      "description": "This is one of the world's great national parks, and the largest in New South Wales. Covering 690,000 hectares, the park contains the highest mountain on mainland Australia, the famous Snowy River and all NSW ski fields. Its many and varied attractions include walks through alpine herbfields; spectacular caves and limestone gorges; scenic drives; and historic huts and homesteads.\n\nOne of the Australian Alps national parks, this park is nationally and internationally recognised as a UNESCO Biosphere Reserve. It contains nine wilderness areas, and its alpine and sub-alpine areas contain plant species found nowhere else in the world. The park is also home to the rare mountain pygmy possum and corroboree frog.\n\nThe northern section is famous for extensive treeless plains and historic huts. This is where you will find Selwyn Snowfields. The central section is home to Australia's largest alpine area: the place above the treeline, covered with delicate herbfields and fragile bogs and fens. This is where you'll find most of the park's ski fields - Perisher Blue, Thredbo and Charlotte Pass. The southern section offers dry, rugged areas along the lower Snowy River surrounded by large expanses of wilderness.\n\nWeather can change quickly in the mountains and snow can fall at any time of the year. Check how to get there for more information.\n\nKosciuszko Today, the seasonal Kosciuszko National Park Guide, provides up-to-date information about cross-country camping and picnic areas, cave tours, walking and cycling trails, ski trails and snow-shoeing, heritage accommodation and more. You can request a free printed copy, or you can read Kosciuszko Today online (follow the link at the top of the page).",
+      "id": 10
+    },
+    {
+      "shortName": "Mungo NP",
+      "longName": "Mungo National Park",
+      "webId": "N0049",
+      "description": "The Willandra Lakes World Heritage area, with Mungo National Park at its centre, maintains a continuous record of human occupation stretching back well over 40,000 years. Rain and wind has uncovered ancient fireplaces and hearths, as well as calcified plant matter, artefacts, stone tools and animal bones. At the 33 kilometre long crescent of the Walls of China, erosion has sculpted the sand and clay into dramatic formations.",
+      "id": 11
+    },
+    {
+      "shortName": "Washpool NP",
+      "longName": "Washpool National Park",
+      "webId": "N0061",
+      "description": "The landscape of steep gorges, clear waters and expansive World Heritage rainforest protects some of the most diverse and least disturbed forest in NSW, including the world's largest stand of coachwood trees. The scope for wilderness walking is excellent.",
+      "id": 12
+    },
+    {
+      "shortName": "Weddin Mountains NP",
+      "longName": "Weddin Mountains National Park",
+      "webId": "N0036",
+      "description": "",
+      "id": 13
+    },
+    {
+      "shortName": "Deua NP",
+      "longName": "Deua National Park",
+      "webId": "N0047",
+      "description": "A rugged, scenic area of mountain ranges, bisected plateaus and both wild and gentle rivers, much of which is listed as wilderness. Deua's rivers are popular for canoeing trips and its limestone belt attracts caving enthusiasts.",
+      "id": 14
+    },
+    {
+      "shortName": "Bents Basin SCA",
+      "longName": "Bents Basin State Conservation Area",
+      "webId": "N0618",
+      "description": "Highlights: The Basin forms a deep waterhole, part of a gorge on the Nepean River between Camden and Penrith, that's a popular spot for people escaping Sydney.\n\nActivities: Enjoy water-based activities such as swimming and canoeing. There are picnic areas with barbecues, fireplaces and accessible toilet facilities (though the Basin is not accessible by wheelchair). Car-based and caravan camping is available in the camping area - facilities include coin-operated hot showers. (bookings required and fees apply).\n\nAccess: 60 km west of Sydney, 25 km south of Penrith along Wolstenholme Avenue off Greendale Road from Wallacia in the north or Liverpool in the east.",
+      "id": 15
+    },
+    {
+      "shortName": "Goulburn River NP",
+      "longName": "Goulburn River National Park",
+      "webId": "N0060",
+      "description": "Goulburn River National Park extends along approximately 90 kilometres of the Goulburn River as it winds between sandstone cliffs honeycombed with caves, providing unusually easy access to a variety of recreational opportunities. The wide, sandy riverbanks offer easy walking and spectacular camping sites. \n\nYou're likely to see wombats, eastern grey kangaroos, emus, and a wide variety of birds. The diversity of plant communities and the number of rare and threatened species highlights the value of this national park.",
+      "id": 16
+    },
+    {
+      "shortName": "Ben Boyd NP",
+      "longName": "Ben Boyd National Park",
+      "webId": "N0003",
+      "description": "This park is named after Benjamin Boyd, a prominent 19th-century Far South Coast entrepreneur. Its rugged coastline is a colourful display of folded red rocks, standing out against the sapphire blue waters of the Pacific Ocean. \n\nThe park has sandy surf beaches, rugged bays, rock platforms, quiet campgrounds, sheltered inlets and historic lighthouses. Its heathlands and forests are home to a variety of plants and animals, including threatened species such as the ground parrot, eastern bristlebird, hooded plover, yellow-bellied glider and long-nosed potoroo.",
+      "id": 17
+    },
+    {
+      "shortName": "Bundjalung NP",
+      "longName": "Bundjalung National Park",
+      "webId": "N0041",
+      "description": "Highlights: Ten Mile Beach forms part of Bundjalung's 38 km of protected coastline. The Esk River, the largest untouched coastal river system on the north coast, runs through the southern half of the park. Other features include the Jerusalem Creek Peninsula, freshwater lagoons, mangrove mudflats and rare rainforests at Woody Head.\n\nActivities: The beaches (unpatrolled) suit surfing, fishing, canoeing and swimming. 4WD beach access is available from Shark Bay to the Black Rocks camping area (unpaved roads to camping area but suitable for 2WD). Camping and cabin accommodation is available at Woody Head (bookings phone 6646 6134). Camping fees apply. There are five picnic areas near Iluka, including Iluka Bluff which has a great whale-watching lookout and cultural heritage display in the picnic shelter.\n\nAccess: 50 km south of Ballina, 60 km north of Grafton off the Pacific Highway on Iluka Road.",
+      "id": 18
+    },
+    {
+      "shortName": "Torrington SCA",
+      "longName": "Torrington State Conservation Area",
+      "webId": "N0628",
+      "description": "Sprawling across the rugged Mole Tableland, this large conservation area is ideal for sightseeing, camping, bushwalking and fossicking. Its dry forests and woodlands are scattered with scenic rock outcrops and balancing boulders, gorges, swamps and small creeks. \n\nYou can find outstanding wildflower displays from September to March, and the birdlife and rugged scenery are fine at any time. A yarn with locals, or some fossicking, might bring back the ever-hopeful atmosphere of the mining that once flourished around the historic village of Torrington. You could even plan a longer bushwalk to camp in the beautiful and remote parts of this recreation area.",
+      "id": 19
+    },
+    {
+      "shortName": "Yengo NP",
+      "longName": "Yengo National Park",
+      "webId": "N0068",
+      "description": "Stretching over 70 km from Wisemans Ferry to the Hunter Valley, Yengo National Park is a wild area of steep gorges and rocky ridges, forming part of the Greater Blue Mountains World Heritage area. Mt Yengo is of cultural significance to local Aboriginal communities and the historic Old Great North Road, an intact example of early 19th century convict road-building, follows the south-east boundary of the park.",
+      "id": 20
+    },
+    {
+      "shortName": "Royal NP",
+      "longName": "Royal National Park",
+      "webId": "N0030",
+      "description": "Established in 1879, Royal National Park is the world's second oldest national park - after Yellowstone in the USA.\n\nOnly 32 km from Sydney, the Royal packs incredible natural diversity into a relatively small area. It offers riverside picnics, great surf beaches, clifftop heathland walks, rainforest cycle tracks, and much more.\n\nIn July 2006, this park was added to the National Heritage List.",
+      "id": 21
+    },
+    {
+      "shortName": "Yuraygir NP",
+      "longName": "Yuraygir National Park",
+      "webId": "N0040",
+      "description": "60 kilometres of striking cliffs, rocky headlands, isolated beaches and quiet lake systems, set against a backdrop of forests, heaths, estuaries and wetlands, make Yuraygir the longest stretch of undeveloped coastline in NSW. ",
+      "id": 22
+    },
+    {
+      "shortName": "Gibraltar Range NP",
+      "longName": "Gibraltar Range National Park",
+      "webId": "N0012",
+      "description": "Deep valleys and giant granite boulders protect rainforest of World Heritage importance. Scenic creeks and cascades, swamps, heaths and woodlands can be explored on more than 100 kilometres of walking trails.",
+      "id": 23
+    },
+    {
+      "shortName": "Kanangra-Boyd NP",
+      "longName": "Kanangra-Boyd National Park",
+      "webId": "N0016",
+      "description": "",
+      "id": 24
+    },
+    {
+      "shortName": "Eurobodalla NP",
+      "longName": "Eurobodalla National Park",
+      "webId": "N0095",
+      "description": "Ocean beaches, spotted gum forests, wetlands and estuaries offer a variety of scenery and an important habitat area for waterbirds and threatened native animals such as the white-footed dunnart. The Eurobodalla area also has significant Aboriginal and European cultural sites.",
+      "id": 25
+    },
+    {
+      "shortName": "Werrikimbe NP",
+      "longName": "Werrikimbe National Park",
+      "webId": "N0042",
+      "description": "A World Heritage-listed place of wild magnificence, with rainforests, heaths, rushing rivers and spring wildflowers. This is a place with high conservation and landscape values, an outstanding array of biodiversity and magnificent scenery.\n\nMost of the park is declared wilderness and is an ideal escape from the crowds, offering solitude and self-reliant bush walking. There are five visitor areas with basic facilities - three on the eastern side near the edge of the escarpment, and two on the west, on the plateau. The park reflects the landscape, flora and fauna of both the Great Escarpment and the Northern Tablelands.\n\nThere are several walking trails that explore the wilderness, or you can drive a 4WD through some parts of the park. With a variety of picnic and camping areas, plenty of possibilities await you.",
+      "id": 26
+    },
+    {
+      "shortName": "Abercrombie River NP",
+      "longName": "Abercrombie River National Park",
+      "webId": "N0093",
+      "description": "Abercrombie River National Park preserves the largest remaining intact patch of low open forest in the south-west central tablelands area. Casuarinas stand beside deep waterholes on the park's three main waterways. Camp on the banks of the Retreat or Abercrombie Rivers and fish for trout, go swimming or canoeing in the waterholes (when not in drought conditions).\n\nAbercrombie River and Retreat River are important habitats for platypuses and eastern water rats. Wallaroos, red-necked wallabies, swamp wallabies and eastern grey kangaroos are often seen in the eucalypt forest.",
+      "id": 27
+    },
+    {
+      "shortName": "Bungonia SCA",
+      "longName": "Bungonia State Conservation Area",
+      "webId": "N0612",
+      "description": "",
+      "id": 28
+    },
+    {
+      "shortName": "Wadbilliga NP",
+      "longName": "Wadbilliga National Park",
+      "webId": "N0048",
+      "description": "Steep gorges contrast with wide undulating plateaus in this rugged and wild place that forms a haven for marsupials and birds and contains the remote Brogo Wilderness Area. A park that will suit experienced bushwalkers, Wadbilliga has been deliberately left in a pristine state for the sake of the animals that take refuge here. Don't miss the striking Tuross Falls and Tuross River Gorge.",
+      "id": 29
+    },
+    {
+      "shortName": "Cattai NP",
+      "longName": "Cattai National Park",
+      "webId": "N0079",
+      "description": "",
+      "id": 30
+    },
+    {
+      "shortName": "Guy Fawkes River NP",
+      "longName": "Guy Fawkes River National Park",
+      "webId": "N0013",
+      "description": "Guy Fawkes River National Park is a large and secluded wilderness area of rugged and scenic river systems that provides a habitat for an extensive bird and animal population. It has limited facilities but if you're a well-equipped, experienced bushwalker, there are plenty of excellent opportunities to explore this unspoilt environment.",
+      "id": 31
+    },
+    {
+      "shortName": "Paroo-Darling NP",
+      "longName": "Paroo-Darling National Park",
+      "webId": "N0175",
+      "description": "The outstanding conservation values of this park are centred on the Paroo River wetland system, one of the most regular flooded systems of the arid catchment zones. Peery and Poloko lakes and their associated wetlands form part of the Paroo River overflow, the only unregulated river in the Murray-Darling Basin. This free-flowing river can still sustain its rich and diverse ecosystem.",
+      "id": 32
+    },
+    {
+      "shortName": "Wollemi NP",
+      "longName": "Wollemi National Park",
+      "webId": "N0051",
+      "description": "",
+      "id": 33
+    },
+    {
+      "shortName": "Coolah Tops NP",
+      "longName": "Coolah Tops National Park",
+      "webId": "N0088",
+      "description": "Highlights: Waterfalls plunge from the plateau heights in this spectacular park. Giant grass trees and tall, open forest with stands of huge snow gums shelter abundant wildlife, including gliders, wallabies, eagles and rare owls. \n\nActivities: The higher altitude offers cool walks throughout the year and amazing views northward towards the Liverpool Plains. There are plenty of opportunities for picnicking, as well as car-based, caravan (very limited) and backpack camping, with a choice of sites all at the western end of the park.\n\nAccess: 30 km east of Coolah, along the Coolah Creek Road (unpaved sections). 4WD is necessary on some roads in the park, but camping areas at The Barracks, The Pines and Coxs Creek are 2WD accessible.",
+      "id": 34
+    },
+    {
+      "shortName": "Culgoa NP",
+      "longName": "Culgoa National Park",
+      "webId": "N0099",
+      "description": "Highlights: Sit in the shade of the coolibah trees flanking the floodplain of the Culgoa river and enjoy NSW's only national park with brigalow-gidgee woodland. Watch the passing bustards, falcons, honeyeaters and cockatoos or the kangaroos and emus on the open grass plains or search for koalas in the majestic river red gums.\n\nActivities: Walk along the riverbank through coolibah woodlands or over sandhills carpeted in wildflowers following spring rains. There's a small camping and picnic area suitable for car-based and caravan camping (few facilities, phone for details). \n\nAccess: 100 km north of Brewarrina or 180 km north east of Bourke. Unsealed dry-weather roads only. Obtain directions and weather details before visiting the park.",
+      "id": 35
+    },
+    {
+      "shortName": "Mebbin NP",
+      "longName": "Mebbin National Park",
+      "webId": "N0144",
+      "description": "Mebbin shares its western boundary with Border Ranges National Park and forms part of the rim of the Mount Warning volcano. It's made up of dry eucalypt and rain-forest, with a small section of old-growth forest.",
+      "id": 36
+    },
+    {
+      "shortName": "Boonoo Boonoo NP",
+      "longName": "Boonoo Boonoo National Park",
+      "webId": "N0056",
+      "description": "From a lookout platform you can watch the river plunge 210 m at Boonoo Boonoo Falls (pronounced 'bunna bunoo a local Aboriginal term for big rocks). In spring, boronia, banksia, grevillea and a profusion of other flowering plants brighten the woodlands of this granite country.",
+      "id": 37
+    },
+    {
+      "shortName": "Guy Fawkes River SCA",
+      "longName": "Guy Fawkes River State Conservation Area",
+      "webId": "N0669",
+      "description": "This park was created in January 2003. It covers an area of 5,240 hectares.",
+      "id": 38
+    },
+    {
+      "shortName": "Kinchega NP",
+      "longName": "Kinchega National Park",
+      "webId": "N0017",
+      "description": "Highlights: Meander amongst the massive river red gums that silhouette the Darling River or wander along the lake's dry shores and over red sand dunes all of which have withstood the test of time; enduring droughts, floods and witnessing history unfold. Sit back and relax while watching the birds flit past, kangaroos and emus, where red sand reaches up and touches the clear blue sky.\n\nActivities: Explore the Aboriginal sites and European structures, such as the Kinchega Woolshed. Car-based or caravan camping is available at the rest area near Lake Cawndilla, beside Emu Lake or along the river. Camping fees apply. You can also stay in the old shearers' quarters (bookings required).\n\nAccess: 111 km south-east of Broken Hill along the (paved) road to Menindee. The park's roads are unpaved, and are closed when wet.\n\nNote: Due to the extended drought, the Lakes Menindee, Cawndilla, Speculation and Emu, are dry. Nearby Lake Wetherell has an abundance of water and birdlife for your enjoyment.",
+      "id": 39
+    },
+    {
+      "shortName": "Sturt NP",
+      "longName": "Sturt National Park",
+      "webId": "N0032",
+      "description": "",
+      "id": 40
+    },
+    {
+      "shortName": "Murramarang NP",
+      "longName": "Murramarang National Park",
+      "webId": "N0025",
+      "description": "This park features beaches, rock platforms, spotted gum forests and rainforest gullies, surrounding the beautiful Durras Lake. Stay in a caravan, cabin or tent and enjoy everything the park has to offer - from walking and picnicking to swimming and fishing. Don't forget to visit Murramarang Aboriginal Area while you're here.",
+      "id": 41
+    },
+    {
+      "shortName": "Barrington Tops NP",
+      "longName": "Barrington Tops National Park",
+      "webId": "N0002",
+      "description": "This rugged park is full of contrasts. Carved out of an ancient volcano, it rises from near sea level to over 1500m. In the lower valleys, you'll find World Heritage-listed subtropical rainforests. Up on the plateau, there is subalpine woodland which regularly sees snow in winter.\n\nMost of the area is declared wilderness, and it's a well-known destination for bushwalkers. But the park is accessible even to those with limited mobility. Its excellent track network extends from short, easy walks to steep overnight treks.\n\nThe park's varied environments are home to a wide range of plants and animals, and it protects more than 50 rare or threatened species. In this area, many northern and southern plants meet the limit of their range.",
+      "id": 42
+    },
+    {
+      "shortName": "Crowdy Bay NP",
+      "longName": "Crowdy Bay National Park",
+      "webId": "N0009",
+      "description": "Highlights: Beautiful beaches north and south of Diamond Head. Australian author Kylie Tennant spent time living and writing here, and her hut has been restored and maintained.\n\nActivities: At low tide you can explore the rocks and pools below the cliffs. There's good fishing, birdwatching and fascinating headland walks with abundant wildlife. Car-based and caravan camping is available at Diamond Head, Indian Head and Kylies Beach. Camping fees apply. Bring your own drinking water, firewood is sold on site.\n\nAccess: 35 km north-east of Taree off the Pacific Highway at Moorland; 5 km south of Laurieton via the coast road from Port Macquarie or 13 km east of Kew via Laurieton and the coast road.",
+      "id": 43
+    },
+    {
+      "shortName": "Tapin Tops NP",
+      "longName": "Tapin Tops National Park",
+      "webId": "N0122",
+      "description": "",
+      "id": 44
+    },
+    {
+      "shortName": "Chaelundi NP",
+      "longName": "Chaelundi National Park",
+      "webId": "N0104",
+      "description": "Lying north-west of Dorrigo, Chaelundi has the largest stand of old-growth forest in northern NSW. Go bushwalking along the park's crystal clear creeks, cycling along a network of fire trails or stop for a swim, a picnic, birdwatching or enjoy a spot of remote bush camping.\n\nThe diverse forest environments and substantial old-growth sections make the area ecologically unique. The park harbours approximately 18 threatened animal species, and the many tree-dwelling mammals include brush-tailed and ringtail possums and greater gliders.",
+      "id": 45
+    },
+    {
+      "shortName": "Karuah NR",
+      "longName": "Karuah Nature Reserve",
+      "webId": "N0744",
+      "description": "This reserve, in six separate sections, contains stands of spotted gum, ironbark and bloodwoods, which protect koalas, wallabies and kangaroos. Mangrove areas along Deep Creek, Limeburners Creek and the Karuah River provide important fish habitat for Port Stephens. \n\nThis reserve offers easy walks and is popular for fishing.",
+      "id": 46
+    },
+    {
+      "shortName": "Gundabooka NP",
+      "longName": "Gundabooka National Park",
+      "webId": "N0100",
+      "description": "Mount Gunderbooka rises to 500 m among the rust-coloured cliffs, gorges and hills of the Gunderbooka Range. The region is of great significance to the local Ngemba people and the range has a history of ceremonial gatherings and rock art.",
+      "id": 47
+    },
+    {
+      "shortName": "Mount Canobolas SCA",
+      "longName": "Mount Canobolas State Conservation Area",
+      "webId": "N0636",
+      "description": "",
+      "id": 48
+    },
+    {
+      "shortName": "Border Ranges NP",
+      "longName": "Border Ranges National Park",
+      "webId": "N0050",
+      "description": "A park within the Gondwana Rainforests of Australia World Heritage Area on the rim of a vast, ancient volcano. Pinnacle Lookout offers views of Mt Warning, the escarpment and all the way to the coast. The park is a haven to native fauna such as Alberts lyrebird and the pouched frog.",
+      "id": 49
+    },
+    {
+      "shortName": "Munmorah SCA",
+      "longName": "Munmorah State Conservation Area",
+      "webId": "N0605",
+      "description": "",
+      "id": 50
+    },
+    {
+      "shortName": "Morton NP",
+      "longName": "Morton National Park",
+      "webId": "N0022",
+      "description": "Explore sandstone scenery on a grand scale throughout the park. To the south, George Boyd lookout, Little Forest Plateau and Pigeon House Mountain offer views of the coastline and the Budawang wilderness areas. The recently upgraded Tianjara lookout, on the Nowra-Braidwood road, provides views of Tianjara Falls. To the north, Fitzroy Falls and Belmore Falls plunge off the plateau into rainforest gullies. On the western side at Tallong there are wonderful views of the Shoalhaven Gorge from Badgerys and Longpoint lookouts.\n\nEnjoy the spectacular views and award-winning visitor centre at Fitzroy Falls.",
+      "id": 51
+    },
+    {
+      "shortName": "Marramarra NP",
+      "longName": "Marramarra National Park",
+      "webId": "N0052",
+      "description": "Marramarra National Park is a great place to go canoeing, camping, bushwalking, picnicking or birdwatching. It's at the junction of Hawkesbury River and Berowra Creek, on the northern outskirts of Sydney, and features great wetlands, views of the Hawkesbury and the largest area of mangroves on the Central Coast. This park has been left in its natural and undeveloped state, and is mainly the preserve of experienced bushwalkers.",
+      "id": 52
+    },
+    {
+      "shortName": "Hill End",
+      "longName": "Hill End Historic Site",
+      "webId": "N0204",
+      "description": "Highlights: Hill End is a living village featuring intact goldrush streetscapes and buildings dating back to the 1860s. Preserved much as it was in its heyday, it's the perfect place to relive the early goldmining days of 19th century New South Wales. Hill End's landscape also played a significant role in Australian art, inspiring artists such as Russell Drysdale, John Olsen, Donald Friend and Brett Whitely. \n\nActivities: Take a self-guided tour of the town starting at the visitor centre and museum. Bald Hill Tourist Mine is a popular attraction and tours of historic Craigmoor House are available on the Australia Day and Easter long weekends. Car-based and caravan camping is available at Glendora or in the village itself (with twelve powered sites for caravans); camping areas have accessible toilets and showers with handrails. Camping fees apply.\n\nAccess: 85 km north of Bathurst via Sofala (35 km unpaved), 72 km via Hargraves (30 km unpaved).",
+      "id": 53
+    },
+    {
+      "shortName": "Goobang NP",
+      "longName": "Goobang National Park",
+      "webId": "N0096",
+      "description": "Goobang National Park provides protection for the diverse range of plant and animal communities found in central west NSW, as well as the rich scenic, cultural and natural features of the area. Visitors can go picnicking, walking, and bush camping in the park. If you plan on horse riding in the park, you'll need a permit.\n\nThe park's main trails are accessible to 2WD vehicles, however they can become very boggy after heavy rain. Caloma Trig lookout offers fantastic views of the surrounding countryside.",
+      "id": 54
+    },
+    {
+      "shortName": "Willandra NP",
+      "longName": "Willandra National Park",
+      "webId": "N0037",
+      "description": "Willandra Station was once famous for its wool, and these days it offers an insight into the pastoral history of the region.The homestead, surrounded by gardens and overlooking peaceful Willandra Creek, has been restored to its former glory. The grasslands and coolibah-lined creek beds to the west of the homestead are home to kangaroos, emus and ground-nesting birds.",
+      "id": 55
+    },
+    {
+      "shortName": "Parr SCA",
+      "longName": "Parr State Conservation Area",
+      "webId": "N0622",
+      "description": "This is a rugged and little known area of steep gorges, cliffs and rock outcrops, adjoining Yengo National Park. It conserves the Webbs Creek Catchment and is named after William Parr, one of the earliest explorers of northern routes out of Sydney. \n\nDiscovery walks, talks and tours (including 4WD) are conducted throughout the park and at Pierces Valley environmental education area.",
+      "id": 56
+    },
+    {
+      "shortName": "Bournda NP",
+      "longName": "Bournda National Park",
+      "webId": "N0082",
+      "description": "A place of great beauty and conservation significance, with saltwater and freshwater lakes, a lagoon, a creek and beaches.",
+      "id": 57
+    },
+    {
+      "shortName": "Mutawintji NP",
+      "longName": "Mutawintji National Park",
+      "webId": "N0113",
+      "description": "Dominated by the rugged, fiery red Bynguano Ranges, Mutawintji National Park is characterised by beautiful gorges lined with majestic river red gums occasionally punctuated by dark, mysterious rockpools. In this idyllic oasis the silence of the desert accompanies the sounds of birds and animals.\n\nAmongst the rocky cliffs secrets of an ancient culture are revealed. Dotted throughout the maze of overhangs and rock faces lie an array of Aboriginal rock art and engravings, providing evidence of continuous occupation of this area stretching back over 8 000 years. The scattered remains of fireplaces, stone flakes and grinding stones on the flats paint a picture of the day-to-day life of the people who once occupied the area. The park was returned to its traditional owners in 1998 and is held on their behalf by the Mutawintji Local Aboriginal Land Council.\n\nVisitors most commonly accompany guides into the areas where Aboriginal rock art can be seen and photographed. Guides also tell stories of Dreamtime legends relating to the creation of the landscapes.",
+      "id": 58
+    },
+    {
+      "shortName": "Hat Head NP",
+      "longName": "Hat Head National Park",
+      "webId": "N0014",
+      "description": "Hat Head National Park has long, sweeping beaches, dramatic headlands, and one of the largest dune systems in New South Wales. You'll discover stunning coastal heaths, pockets of rainforest, extensive wetlands and beautiful wildflower displays here.\n\nHead out to Smoky Cape, Hat Head or Kemps Corner for sweeping views of forests, swamps and ocean. Have a picnic, go for a bushwalk, or spend time on some of the state's best beaches. You could also explore Trial Bay Gaol, in Arakoon State Conservation Area.\n\nThere are campgrounds in the park, and you can stay in the Smoky Cape lighthouse keepers' cottages for a night or two of splendid isolation. The lighthouse also makes a great day trip: guided tours are available.",
+      "id": 59
+    },
+    {
+      "shortName": "Toonumbar NP",
+      "longName": "Toonumbar National Park",
+      "webId": "N0092",
+      "description": "Extensive subtropical rainforests protect threatened plants and animals, including the sooty owl, red-necked pademelon and yellow-bellied glider. The rainforests of Dome Mountain and the Murray Scrub are part of the Gondwana Rainforests of Australia World Heritage Area. The rainforests are only one facet of this wild and intricate natural environment and you will be inspired by its rugged landscape.",
+      "id": 60
+    },
+    {
+      "shortName": "Heathcote NP",
+      "longName": "Heathcote National Park",
+      "webId": "N0015",
+      "description": "Heathcote National Park is within easy reach of Sydney and has a great deal to offer as a walker's park. Enjoy the beauty and diversity of the bush in this rocky reserve, and swim in pools hidden along the gorges. In spring, Gymea lilies give a scarlet glow to the gullies.",
+      "id": 61
+    },
+    {
+      "shortName": "Kings Plains NP",
+      "longName": "Kings Plains National Park",
+      "webId": "N0067",
+      "description": "Kings Plains Creek, at the heart of this large park, offers still pools, rapids, waterfalls and peaceful walks among the area's rocky ridges. The rugged terrain and permanent water in pools along the creek encourages an abundance of wildlife.\n\nThis wild and little-known park, one of the few protected areas on the north-western tablelands, is important for both conservation and recreation. The main attraction is bushwalking the walk along the creek to Kings Plains Falls is an enjoyable trip of about 2.5 hours return. However, be aware that the falls only flow after good rains. You can also stroll along the attractive creek banks.",
+      "id": 62
+    },
+    {
+      "shortName": "Koreelah NP",
+      "longName": "Koreelah National Park",
+      "webId": "N0141",
+      "description": "Koreelah National Park, in the north of NSW near the Queensland border, protects one of the state's western-most rainforest areas. Pockets of rainforest within the Gondwana Rainforests of Australia World Heritage Area hug steep slopes below Acacia Plateau and Mount Wilson. Keep and eye out for the endangered Coxen's fig parrot, eastern bristlebird, the threatened brush-tailed rock-wallaby or black-tailed wallaby.\n\nThis park is co-managed under an Indigenous Land Use Agreement with the Githabul people.",
+      "id": 63
+    },
+    {
+      "shortName": "Lane Cove NP",
+      "longName": "Lane Cove National Park",
+      "webId": "N0083",
+      "description": "Lane Cove National Park is now open at all entrances following major improvements which finished in late 2007.\n\nThe picturesque Lane Cove River winds through a peaceful bushland valley within easy reach of the city centre, extending from East Ryde to Wahroonga/Pennant Hills.\n\nThe river is the focus of most activities - take a stroll along the bank, or hire a row boat. Swimming is not advisable. There are dozens of picnic spots and you can stay overnight in cabins or powered/unpowered camping sites at the nearby award-winning Lane Cove River Tourist Park which is operated by the NPWS. The northern part of the park is good for bushwalking and bike riding on fire trails.",
+      "id": 64
+    },
+    {
+      "shortName": "Kwiambal NP",
+      "longName": "Kwiambal National Park",
+      "webId": "N0156",
+      "description": "The Macintyre river rushes through sculpted granite gorges and plunge pools at Macintyre Falls before meeting the Severn River. The park protects regionally important woodlands of white cypress-pine, box and ironbark.",
+      "id": 65
+    },
+    {
+      "shortName": "Bouddi NP",
+      "longName": "Bouddi National Park",
+      "webId": "N0005",
+      "description": "This park has a series of small, beautiful beaches beneath forests, steep hills and cliffs. In the eastern part of the park, Maitland Bay is at the heart of the 300 ha Marine Extension, one of the first in NSW, where all marine life is protected.",
+      "id": 66
+    },
+    {
+      "shortName": "Mann River NR",
+      "longName": "Mann River Nature Reserve",
+      "webId": "N0569",
+      "description": "Nestled amongst magnificent mountain scenery east of the Great Dividing Range in the north of NSW, this reserve is a lovely and little-known part of the Mann River. It is an area of great interest to naturalists, bushwalkers and photographers. You can rock-hop and stroll along the rivers and creeks, swim, paddle a canoe, or stretch out and relax on a smooth boulder.",
+      "id": 67
+    },
+    {
+      "shortName": "Limeburners Creek NR",
+      "longName": "Limeburners Creek Nature Reserve",
+      "webId": "N0443",
+      "description": "",
+      "id": 68
+    },
+    {
+      "shortName": "Dharug NP",
+      "longName": "Dharug National Park",
+      "webId": "N0010",
+      "description": "Steeped in history and abounding in natural wonders, Dharug National Park's multi-coloured sandstone landscape protects vital clear-water tributaries. The historic Old Great North Road is an intact and spectacular example of early 19th century road-building as well as a lesson in planning gone wrong. Abandoned even before it was finished, it took the toil and sweat of convicts to quarry, dress and shift the huge sandstone blocks that form the road's striking retaining walls and bridges. You can also experience the park's natural beauty on one of its many great walking tracks.",
+      "id": 69
+    },
+    {
+      "shortName": "Nowendoc NP",
+      "longName": "Nowendoc National Park",
+      "webId": "N0130",
+      "description": "",
+      "id": 70
+    },
+    {
+      "shortName": "Mummel Gulf NP",
+      "longName": "Mummel Gulf National Park",
+      "webId": "N0129",
+      "description": "The ancient old-growth forests of this park cling to the edge of the Great Escarpment, which drops from 1450m down to 470m. The park is the site of protests against continued logging in the early 1990s, and it protects a number of threatened plants and animal species.",
+      "id": 71
+    },
+    {
+      "shortName": "Nymboida NP",
+      "longName": "Nymboida National Park",
+      "webId": "N0055",
+      "description": "This is a large, remote, undeveloped wilderness park. It contains a range of dramatic landscapes, and is famous for the challenging white water on the Nymboida and Mann rivers.\n\nThere are no marked walking tracks, but there are plenty of opportunities for experienced and well-equipped walkers. Canoeing, swimming, fishing and nature study are also popular.",
+      "id": 72
+    },
+    {
+      "shortName": "Richmond Range NP",
+      "longName": "Richmond Range National Park",
+      "webId": "N0110",
+      "description": "The extensive old-growth forest and rainforests of the Gondwana Rainforests of Australia World Heritage Area provide habitats for a huge range of native fauna. These internationally significant rainforests have an outstanding diversity of native plants and animals including many rare and threatened species. One local spotted gum, related to the more common form of spotted gum of the New South Wales east coast, is found only in a small area on the range.",
+      "id": 73
+    },
+    {
+      "shortName": "Nymboi-Binderay NP",
+      "longName": "Nymboi-Binderay National Park",
+      "webId": "N0109",
+      "description": "This park surrounds the spectacular granite gorges and rainforest-lined banks of the rugged Nymboida River. The Nymboida rapids are renowned among white-water enthusisasts, and rafting is certainly the best way to fully appreciate the river's stunning beauty. \n\nThe park also contains parts of the Little Nymboida river and well-known recreational spots at Cod Hole and The Junction. Rainforest and extensive old-growth forest provide habitat for a variety of threatened fauna.\n\nNymboi-Binderay National Park lies north of Dorrigo and comprises part of the former Wild Cattle Creek, Clouds Creek and Kangaroo Creek state forests. It includes patches of the rare Dorrigo white gum.",
+      "id": 74
+    },
+    {
+      "shortName": "Whian Whian SCA",
+      "longName": "Whian Whian State Conservation Area",
+      "webId": "N0699",
+      "description": "",
+      "id": 75
+    },
+    {
+      "shortName": "Woomargama NP",
+      "longName": "Woomargama National Park",
+      "webId": "N0159",
+      "description": "",
+      "id": 76
+    },
+    {
+      "shortName": "Nangar NP",
+      "longName": "Nangar National Park",
+      "webId": "N0063",
+      "description": "The horse-shoe shaped red silt-stone cliff lines of the Nangar-Murga range is a landmark of the central west's rolling plains. The rocky slopes running down to Terrara creek, forests rich in flowering shrubs and timbered hills form an important wildlife refuge in a landscape that has been largely cleared.",
+      "id": 77
+    },
+    {
+      "shortName": "Ku-ring-gai Chase NP",
+      "longName": "Ku-ring-gai Chase National Park",
+      "webId": "N0019",
+      "description": "Ku-ring-gai Chase National Park is where the Hawkesbury River meets the sea: a tight cluster of secretive, winding creeks, sheltered beaches, hidden coves and wide expanses of deep blue water. You'll find heathlands on the sandstone ridges, dense forests on the slopes, and mangroves on the tidal mudflats.\n\nThe park's scenic beauty is combined with a rich Aboriginal heritage and a strong sense of history. So it's hardly surprising that millions of walkers, boaters, swimmers and picnickers have visited this icon Sydney park since it opened in 1894.\n\nOn 12 July 2006 this park was added to the National Heritage List.",
+      "id": 78
+    },
+    {
+      "shortName": "Turon NP",
+      "longName": "Turon National Park",
+      "webId": "N0174",
+      "description": "",
+      "id": 79
+    },
+    {
+      "shortName": "Booti Booti NP",
+      "longName": "Booti Booti National Park",
+      "webId": "N0081",
+      "description": "Wallis Lake and beautiful beaches of all shapes and sizes offer excellent opportunities for water activites - Elizabeth beach is patrolled by volunteer lifesavers during the swimming season. The lookout tower on Cape Hawke offers 360 views over the forests of Booti Booti and Wallingat national parks, the foothills of the Barrington Tops, Seal Rocks and Crowdy Bay.",
+      "id": 80
+    },
+    {
+      "shortName": "New England NP",
+      "longName": "New England National Park",
+      "webId": "N0028",
+      "description": "Highlights: A landscape of cliffs and World Heritage rainforests with fast creeks, occasional snowfalls and mist that spills over the edge of the Great Escarpment. \n\nActivities: Point Lookout, Banksia Point or Wrights Lookout offer wilderness views. You can enjoy easy walks around the lookouts, or take one of the longer, more challenging tracks. There's wheelchair access to Point Lookout viewing platform on a 100 m paved track from the carpark (accessible parking and toilets). Stay at The Residence, The Chalet or Tom's Cabin (for bookings phone 6657 2309). Car-based camping is available at Thungutti and an area for campervans and camper trailers is available just outside the entrance to the park (call for details). Camping fees apply.\n\nAccess: 85 km east of Armidale on the Waterfall Way. Unpaved roads.",
+      "id": 81
+    },
+    {
+      "shortName": "Arakoon SCA",
+      "longName": "Arakoon State Conservation Area",
+      "webId": "N0601",
+      "description": "This reserve is home to Trial Bay Gaol (1886), a picturesque ruin which was built as a public works prison but was also used as a World War I internment camp. The gaol is surrounded by rocky foreshores and pleasant sandy beaches.\n\nWander through the gaol museum, explore the ruins or relax on the beach. Stroll over Monument Hill to the Little Bay picnic area, or enjoy the spectacular half-day walk from the picnic area to historic Smoky Cape Lighthouse in Hat Head National Park.\n\nAround the gaol there are picnic areas and facilities for car-based and caravan camping, and you can stay at secluded Little Bay Cottage.",
+      "id": 82
+    },
+    {
+      "shortName": "Wallingat NP",
+      "longName": "Wallingat National Park",
+      "webId": "N0132",
+      "description": "",
+      "id": 83
+    },
+    {
+      "shortName": "The Glen NR",
+      "longName": "The Glen Nature Reserve",
+      "webId": "N0734",
+      "description": "",
+      "id": 84
+    },
+    {
+      "shortName": "Warrabah NP",
+      "longName": "Warrabah National Park",
+      "webId": "N0064",
+      "description": "In Warrabah, one of the few inland river parks in NSW, you'll enjoy the languid atmosphere and scenery of the Namoi River. Huge granite boulders perch high above the valley's tranquil pools. The rapids make an enjoyable challenge for experienced canoeists.",
+      "id": 85
+    },
+    {
+      "shortName": "Towarri NP",
+      "longName": "Towarri National Park",
+      "webId": "N0112",
+      "description": "",
+      "id": 86
+    },
+    {
+      "shortName": "Woko NP",
+      "longName": "Woko National Park",
+      "webId": "N0057",
+      "description": "This steep and rugged landscape features large areas of rainforest, moist eucalypt forest and impressive rock outcrops. The tranquil Manning River is a wonderful spot to sit and enjoy the surroundings.\n\nTwo walking tracks begin at the camping area, and after a short but steep walk you can explore soaring rock faces that harbour many species of native orchids, staghorns and elkhorns. You can also enjoy birdwatching, camping, swimming or floating on an air mattress.",
+      "id": 87
+    },
+    {
+      "shortName": "Wombeyan KCR",
+      "longName": "Wombeyan Karst Conservation Reserve",
+      "webId": "N0352",
+      "description": "A short, spectacular drive from Sydney, Canberra or Wollongong will bring you to a hidden valley where you'll find the Wombeyan Caves. The Wollondilly and Junction caves offer excellent all round tours with a wide variety of features, and the Figtree Cave is regarded as the state's premier self-guided cave experience.\n\nActivities include cave tours, camping, hiking, canyoning, tennis and swimming. This is also an ideal place for bird watching and photography.",
+      "id": 88
+    },
+    {
+      "shortName": "Cocoparra NP",
+      "longName": "Cocoparra National Park",
+      "webId": "N0008",
+      "description": "Wattles, orchids and blue-tinged cypress pines contrast against rich red rocks in one of the Riverina's rare forest remnants. After very heavy rains the creeks flow, waterfalls leap into life and the land is bright with wildflowers.",
+      "id": 89
+    },
+    {
+      "shortName": "Mount Royal NP",
+      "longName": "Mount Royal National Park",
+      "webId": "N0107",
+      "description": "Mount Royal National Park is adjacent to the south-western edge of Barrington Tops National Park and contains part of the Barrington Tops Wilderness Area. It was declared over former state forest in 1996 and includes rainforest areas that provide habitat for threatened species such as the Hastings River mouse.",
+      "id": 90
+    },
+    {
+      "shortName": "Watagans NP",
+      "longName": "Watagans National Park",
+      "webId": "N0133",
+      "description": "Welcome to Watagans National Park, one of the most beautiful reserves in the area with moss-covered boulders and rainforests throughout. Enjoy the natural beauty of the Watagans on a bushwalk, touring by car or having a picnic. \n\nWalk amongst magnificent red cedar and Illawarra flame trees to Gap Creek Falls; enjoy spectacular views of rainforest gullies from Gap Creek and Monkey Face Lookout; or spend time at Boarding House Dam picnic area, set amongst large blackbutt and blue gum trees, and offering rainforest walks along the creek. There is plenty of shade and free gas barbecues. \n\nWant to stay longer? Pitch a tent at one of two camping areas in the park, Bangalow or Gap Creek.\n\nThe Watagan Mountains have a rich cultural heritage: see the many Aboriginal engraving, art sites and shelters as well as the log chutes and old saw mill sites used during past forestry operations.\n\nThis park protects the headwaters of the Congewai and Quorrobolong creeks, which flow into the Hunter River, and the Gap and Dora creeks, which feed into Lake Macquarie.\n\nWatagans National Park adjoins Jilliby State Conservation Area to the south. Views across Lake Macquarie to the ocean can be enjoyed from Muirs Lookout and picnic area accessible via Martinsville Road.",
+      "id": 91
+    },
+    {
+      "shortName": "Abercrombie KCR",
+      "longName": "Abercrombie Karst Conservation Reserve",
+      "webId": "N0350",
+      "description": "The Abercrombie Caves lie in a quiet, picturesque valley, four hours drive from Sydney. Here you'll find The Archway - the largest natural arch in the Southern Hemisphere - and a number of other grand, richly decorated caves.\n\nActivities include cave tours, camping, hiking to Mount Gray or the Grove Creek Falls, fishing, swimming and fossicking for gold and semi-precious gemstones. This is also an ideal place for birdwatching and photography.",
+      "id": 92
     }
   ]
 }
