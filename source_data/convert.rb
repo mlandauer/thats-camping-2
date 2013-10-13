@@ -11,7 +11,7 @@ def load_plist(input)
 end
 
 def write_json(data, output)
-  File.open(File.join(File.dirname(__FILE__), "..", "www", "res", "data", output), 'w') do |f|
+  File.open(File.join(File.dirname(__FILE__), "..", "www", output), 'w') do |f|
     f.write(JSON.pretty_generate(data))
   end
 end
@@ -40,4 +40,4 @@ data = all_campsites.map do |campsite|
   id += 1
   campsite.merge("parkShortName" => park["shortName"], "parkLongName" => park["longName"], :id => id)
 end
-write_json(data, "campsites.json")
+write_json({:campsites => data}, "campsites")
