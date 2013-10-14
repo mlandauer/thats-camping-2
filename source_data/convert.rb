@@ -39,4 +39,9 @@ campsites = all_campsites.map do |campsite|
   campsite.merge(:park => park["id"])
 end
 
-write_json({:campsites => campsites, :parks => all_parks}, "campsites")
+parks = all_parks.map do |park|
+  array = all_campsites.find_all{|campsite| campsite["parkWebId"] == park["webId"]}.map{|campsite| campsite["id"]}
+  park.merge(:campsites => array)
+end
+
+write_json({:campsites => campsites, :parks => parks}, "campsites")
