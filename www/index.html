@@ -107,6 +107,29 @@
       </div>
     </script>
 
+    <script type="text/x-handlebars" data-template-name="park">
+      <div class="navbar navbar-fixed-top">
+        <div class="container">
+          <a href="#" class="btn btn-primary back navbar-btn">
+            <span class="glyphicon glyphicon-arrow-left"></span>
+            Back
+          </a>
+        </div>
+      </div>
+      <div class="container">
+        <h2>{{longName}}</h2>
+        {{{html_description}}}
+
+        <div class="list-group">
+          {{#each campsites }}
+            {{#link-to 'campsite' this classNames=[list-group-item]}}
+            {{shortName}}
+            {{/link-to}}
+          {{/each}}
+        </div>
+      </div>
+    </script>
+
     <script type="text/x-handlebars" data-template-name="campsite">
       <div class="navbar navbar-fixed-top">
         <div class="container">
@@ -129,7 +152,7 @@
 
       <div class="container">
         <h1>{{longName}}</h1>
-        <p>{{park.longName}}</p>
+        <p>{{#link-to 'park' park}}{{park.longName}}{{/link-to}}</p>
         {{{html_description}}}
 
         <h2>Facilities</h2>
@@ -220,5 +243,6 @@
     <script src="js/views/map.js"></script>
     <script src="js/views/campsites.js"></script>
     <script src="js/views/campsite.js"></script>
+    <script src="js/views/park.js"></script>
   </body>
 </html>

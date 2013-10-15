@@ -1,6 +1,7 @@
 App.Router.map(function () {
   this.resource('campsites', { path: '/' });
   this.resource('campsite', { path: '/campsite/:campsite_id'});
+  this.resource('park', { path: "/park/:park_id"});
   this.resource('map'), { path: '/map'};
 });
 
@@ -19,6 +20,15 @@ App.CampsitesRoute = Ember.Route.extend({
       });      
     });
   },
+});
+
+App.ParkRoute = Ember.Route.extend({
+  model: function(params) {
+    var store = this.get("store");
+    return store.find('campsite').then(function(){
+      return store.find('park', params.park_id);
+    });
+  }
 });
 
 App.CampsiteRoute = Ember.Route.extend({
