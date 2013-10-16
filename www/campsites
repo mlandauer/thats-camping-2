@@ -51,7 +51,9 @@
       "car": true,
       "description": "This informal bushland setting, separated from the picnic area, gives easy access to Apsley Gorge Rim Walk and Oxley Walk.",
       "id": 3,
-      "park": 3
+      "park": 3,
+      "latitude": "-31.0540415000018",
+      "longitude": "151.762134053333"
     },
     {
       "shortName": "Aragunnu",
@@ -106,7 +108,9 @@
       "car": false,
       "description": "Balor Hut is the last remaining walkers hut in the Warrumbungle National Park. The campground is a 'walk-in' area at the base of The Breadknife and Grand High Tops. It's a great starting point for early morning walks to Bluff Mountain or even as far as Mount Exmouth.\n\nThere are eight (8) slab bunks in the hut but you will need to bring all your own bedding. There is a solid fuel fire in the hut and fireplace outside but you MUST bring your own firewood and adhere to fire season warnings.",
       "id": 6,
-      "park": 6
+      "park": 6,
+      "latitude": "-31.327071666666",
+      "longitude": "148.995784999949"
     },
     {
       "shortName": "Banksia Green",
@@ -142,7 +146,9 @@
       "car": true,
       "description": "The Scutts Hut and Euglah Rock Lookout walking tracks start from near this campground. If you're planning to use the wood barbecues, you'll need to bring your own firewood.",
       "id": 8,
-      "park": 8
+      "park": 8,
+      "latitude": "-30.2901866666667",
+      "longitude": "150.143200000001"
     },
     {
       "shortName": "Barokee",
@@ -195,7 +201,9 @@
       "car": true,
       "description": "",
       "id": 11,
-      "park": 11
+      "park": 11,
+      "latitude": "-33.7123603466667",
+      "longitude": "143.17720658"
     },
     {
       "shortName": "Bellbird",
@@ -231,7 +239,9 @@
       "car": true,
       "description": "This campground has large, level, grassed campsites just beside the historic Seaton's Farm. Ben Halls Cave, the famous bushranger's hide-out, is a half-hour walk away. You'll need to bring drinking water, and there are no powered sites.",
       "id": 13,
-      "park": 13
+      "park": 13,
+      "latitude": "-33.9065083333333",
+      "longitude": "147.950425"
     },
     {
       "shortName": "Bendethera Valley",
@@ -305,7 +315,9 @@
       "car": true,
       "description": "You'll need to bring drinking water and firewood. Please take rubbish with you.",
       "id": 17,
-      "park": 16
+      "park": 16,
+      "latitude": "-32.2375453066664",
+      "longitude": "150.05597492"
     },
     {
       "shortName": "Bittangabee",
@@ -341,7 +353,9 @@
       "car": true,
       "description": "This campground gives easy access to Ten Mile Beach. You'll need to bring your own water and firewood.",
       "id": 19,
-      "park": 18
+      "park": 18,
+      "latitude": "-29.2510837133332",
+      "longitude": "153.366306113334"
     },
     {
       "shortName": "Blatherarm",
@@ -487,7 +501,9 @@
       "car": true,
       "description": "Boundary Falls picnic and camping area is in a dry forest, on the site of an old sawmill. There are spectacular waterfalls nearby. This is a good starting point for a day walk to Duffer Creek or continuing to do the 60 kilometre circuit called the World Heritage Walk. Signs tell of the local history and wildlife. The Gibraltar Range Waratahs and other shrubs flower here, especially from mid-October to December. Facilities include modern fire and cooking stands, pit toilets and picnic tables. Bring your own drinking water and firewood. No pets are allowed in the park.",
       "id": 27,
-      "park": 23
+      "park": 23,
+      "latitude": "-29.5354200000029",
+      "longitude": "152.24952"
     },
     {
       "shortName": "Boyd River",
@@ -559,7 +575,9 @@
       "car": false,
       "description": "This boat-based camping area is an ideal overnight stop for kayakers and canoeists paddling the lower Myall River and for hikers on the Brambles Green-Tamboi walk. It is a small grassy area directly beside the river.",
       "id": 31,
-      "park": 7
+      "park": 7,
+      "latitude": "-32.5657619133333",
+      "longitude": "152.28187646"
     },
     {
       "shortName": "Brou Lake",
@@ -631,7 +649,9 @@
       "car": false,
       "description": "This campground stands on the edge of the tablelands and has a spectacular lookout over the Apsley River Gorge. From the lookout, a walking track leads down the ridge to Riverside Visitor Area on the Apsley River.",
       "id": 35,
-      "park": 3
+      "park": 3,
+      "latitude": "-30.9836535933333",
+      "longitude": "151.970635113333"
     },
     {
       "shortName": "Bullocks Hill",
@@ -722,7 +742,9 @@
       "car": false,
       "description": "This walk-in campground is located along the firetrail to Mount Exmouth. It's very basic with a spring water tap.",
       "id": 40,
-      "park": 6
+      "park": 6,
+      "latitude": "-31.2993314066666",
+      "longitude": "148.960260086667"
     },
     {
       "shortName": "Burralow Creek",
@@ -758,7 +780,9 @@
       "car": true,
       "description": "",
       "id": 42,
-      "park": 6
+      "park": 6,
+      "latitude": "-31.2772155533333",
+      "longitude": "148.996723886667"
     },
     {
       "shortName": "Camp Pincham",
@@ -775,7 +799,9 @@
       "car": true,
       "description": "This is a walk-in camp from the Pincham carpark and a great place to camp. It was one of the first campgrounds in the Warrumbungles and is a starting point for walks to The Breadknife and Grand High Tops.",
       "id": 43,
-      "park": 6
+      "park": 6,
+      "latitude": "-31.2977765866666",
+      "longitude": "148.996173946667"
     },
     {
       "shortName": "Camp Walaay",
@@ -792,7 +818,9 @@
       "car": true,
       "description": "It's a short drive from this campground to the main walking tracks, and there are short walks and cycling routes nearby. The nearby Canyon Picnic Area has electric BBQs. The camping sites here are large and can accommodate from 30 to 200 people. Motor vehicles must not leave the sealed road and the area is not suitable for caravans or camper trailers. The Camp Blackman amenities block is close by.",
       "id": 44,
-      "park": 6
+      "park": 6,
+      "latitude": "-31.2752395799999",
+      "longitude": "148.996456833334"
     },
     {
       "shortName": "Camp Wambelong",
@@ -902,7 +930,9 @@
       "car": true,
       "description": "",
       "id": 50,
-      "park": 32
+      "park": 32,
+      "latitude": "-31.4557936600012",
+      "longitude": "143.827580340013"
     },
     {
       "shortName": "Colo Meroo",
@@ -1014,7 +1044,9 @@
       "car": true,
       "description": "You'll need to bring drinking water and firewood with you to this secluded campground. There are no toilets at this location. Please take all garbage when you leave.",
       "id": 56,
-      "park": 33
+      "park": 33,
+      "latitude": "-33.1245106466662",
+      "longitude": "150.323932786659"
     },
     {
       "shortName": "Coxs Creek",
@@ -1031,7 +1063,9 @@
       "car": true,
       "description": "An alternative to The Barracks, this campground is just beside Coxs Creek Falls. You'll need to bring drinking water and firewood.",
       "id": 57,
-      "park": 34
+      "park": 34,
+      "latitude": "-31.7325018333333",
+      "longitude": "150.011104446667"
     },
     {
       "shortName": "Culgoa",
@@ -1048,7 +1082,9 @@
       "car": true,
       "description": "Camp among the gidgee trees a short walk from the river. Riverbank Walk and Connellys Walk start here.",
       "id": 58,
-      "park": 35
+      "park": 35,
+      "latitude": "-29.1729884866664",
+      "longitude": "147.000296853334"
     },
     {
       "shortName": "Cutters camp",
@@ -1084,7 +1120,9 @@
       "car": true,
       "description": "There are interesting walks along the Boonoo Boonoo River. You'll see excellent wildflower displays in spring, and birds, wallabies and even platypus may be seen along the river.",
       "id": 60,
-      "park": 37
+      "park": 37,
+      "latitude": "-28.8423147200037",
+      "longitude": "152.15128278"
     },
     {
       "shortName": "Dalmorton",
@@ -1101,7 +1139,9 @@
       "car": true,
       "description": "This camping area offers camping along the Boyd River and an opportunity to explore the ghost town of Dalmorton with on-site information provided.",
       "id": 61,
-      "park": 38
+      "park": 38,
+      "latitude": "-29.8646632266695",
+      "longitude": "152.448368540001"
     },
     {
       "shortName": "Dangars Gorge",
@@ -1137,7 +1177,9 @@
       "car": true,
       "description": "",
       "id": 63,
-      "park": 39
+      "park": 39,
+      "latitude": "-32.3976094466671",
+      "longitude": "142.375044446667"
     },
     {
       "shortName": "Dawsons Spring",
@@ -1171,7 +1213,9 @@
       "car": true,
       "description": "This large campground is set among the granite boulders surrounding Tibooburra. A signposted walking track starts at the the campsite and passes through granite outcrops, giving you a chance to see euros, red kangaroos and reptiles. After rain, you may also see Sturt's desert peas. Wood fires are not allowed here.",
       "id": 65,
-      "park": 40
+      "park": 40,
+      "latitude": "-29.4173872200031",
+      "longitude": "142.000893333334"
     },
     {
       "shortName": "Dees Corner",
@@ -1340,7 +1384,9 @@
       "car": true,
       "description": "",
       "id": 74,
-      "park": 45
+      "park": 45,
+      "latitude": "-29.908651713336",
+      "longitude": "152.510029486667"
     },
     {
       "shortName": "Double Wharf",
@@ -1412,7 +1458,9 @@
       "car": true,
       "description": "Hot showers and bore water are available at the Shearer's Quarters at the historic woolshed.",
       "id": 78,
-      "park": 39
+      "park": 39,
+      "latitude": "-32.4703089333339",
+      "longitude": "142.34655168"
     },
     {
       "shortName": "Euroka",
@@ -1503,7 +1551,9 @@
       "car": false,
       "description": "The Booyong walking track starts here.",
       "id": 83,
-      "park": 49
+      "park": 49,
+      "latitude": "-28.3875234266665",
+      "longitude": "153.063873026667"
     },
     {
       "shortName": "Fort Grey",
@@ -1520,7 +1570,9 @@
       "car": true,
       "description": "",
       "id": 84,
-      "park": 40
+      "park": 40,
+      "latitude": "-29.0883377800034",
+      "longitude": "141.213329446667"
     },
     {
       "shortName": "Frazer",
@@ -1613,7 +1665,9 @@
       "car": true,
       "description": "",
       "id": 89,
-      "park": 10
+      "park": 10,
+      "latitude": "-36.3797156999999",
+      "longitude": "148.178818740001"
     },
     {
       "shortName": "Gentlemans Halt",
@@ -1630,7 +1684,9 @@
       "car": false,
       "description": "You'll need to bring your own drinking water if you're camping here.",
       "id": 90,
-      "park": 52
+      "park": 52,
+      "latitude": "-33.4658525533332",
+      "longitude": "151.153046166667"
     },
     {
       "shortName": "Ghost Gully",
@@ -1666,7 +1722,9 @@
       "car": true,
       "description": "At this campground, you can enjoy fishing from the beach, surfing and beach walking. \n\nExtra information about camping at this campground: you'll need to bring your own drinking water. Maximum length of stay: two weeks during school holiday periods; four weeks at other times.",
       "id": 92,
-      "park": 4
+      "park": 4,
+      "latitude": "-36.660003075182",
+      "longitude": "150.000530293548"
     },
     {
       "shortName": "Glendora",
@@ -1683,7 +1741,9 @@
       "car": true,
       "description": "",
       "id": 93,
-      "park": 53
+      "park": 53,
+      "latitude": "-33.0272296066665",
+      "longitude": "149.409651753334"
     },
     {
       "shortName": "Gloucester River",
@@ -1736,7 +1796,9 @@
       "car": true,
       "description": "This campground is beside Greenbah Creek. It's an excellent spot for birdwatching. You can walk to Burrabadine Peak, or go cycling along the access trail to the campground.",
       "id": 96,
-      "park": 54
+      "park": 54,
+      "latitude": "-32.7714557799999",
+      "longitude": "148.352861046668"
     },
     {
       "shortName": "Group",
@@ -1806,7 +1868,9 @@
       "car": true,
       "description": "The Halls Peak camping area caters for self-reliant visitors looking to experience the seclusion of remote camping in an idyllic and peaceful setting.",
       "id": 100,
-      "park": 3
+      "park": 3,
+      "latitude": "-30.7401290866666",
+      "longitude": "152.01061866"
     },
     {
       "shortName": "Heartbreak Hill",
@@ -1823,7 +1887,9 @@
       "car": false,
       "description": "",
       "id": 101,
-      "park": 56
+      "park": 56,
+      "latitude": "-33.2709845533332",
+      "longitude": "150.897112779999"
     },
     {
       "shortName": "Hobart Beach",
@@ -2144,7 +2210,9 @@
       "car": false,
       "description": "",
       "id": 118,
-      "park": 62
+      "park": 62,
+      "latitude": "-29.5840102733331",
+      "longitude": "151.389535626667"
     },
     {
       "shortName": "Koreelah Creek",
@@ -2161,7 +2229,9 @@
       "car": true,
       "description": "This is a pleasant camping spot at the small grassy area beside Koreelah Creek.\n\nFirewood collection within the park is not permitted. Please bring your own firewood.",
       "id": 119,
-      "park": 63
+      "park": 63,
+      "latitude": "-28.3083237466664",
+      "longitude": "152.465974586667"
     },
     {
       "shortName": "Korsmans Landing",
@@ -2324,7 +2394,9 @@
       "car": true,
       "description": "",
       "id": 128,
-      "park": 65
+      "park": 65,
+      "latitude": "-29.1477466133368",
+      "longitude": "150.991899279999"
     },
     {
       "shortName": "Little Beach",
@@ -2491,7 +2563,9 @@
       "car": true,
       "description": "",
       "id": 137,
-      "park": 67
+      "park": 67,
+      "latitude": "-29.6879616666695",
+      "longitude": "152.099355"
     },
     {
       "shortName": "Marramarra Creek",
@@ -2508,7 +2582,9 @@
       "car": false,
       "description": "You'll need to bring your own drinking water if you're camping here.",
       "id": 138,
-      "park": 52
+      "park": 52,
+      "latitude": "-33.5221833333331",
+      "longitude": "151.086839780001"
     },
     {
       "shortName": "Melaleuca",
@@ -2620,7 +2696,9 @@
       "car": false,
       "description": "This camping area surrounds a stone hut which you can use for cooking and temporary shelter. You'll find covered picnic tables and fireplaces here - but bring your own firewood.",
       "id": 144,
-      "park": 1
+      "park": 1,
+      "latitude": "-34.0799083866665",
+      "longitude": "149.927051053333"
     },
     {
       "shortName": "Mount Wood",
@@ -2637,7 +2715,9 @@
       "car": true,
       "description": "This campground is set in view of the historic Mount Wood Homestead Complex in the rolling gibber downs on the eastern side of the park. Here you may see red kangaroos, euros and eastern grey kangaroos, plus lots of birds and reptiles. There is small signposted walk around the historic complex.",
       "id": 145,
-      "park": 40
+      "park": 40,
+      "latitude": "-29.4803675066698",
+      "longitude": "142.236944560001"
     },
     {
       "shortName": "Mulligans",
@@ -2730,7 +2810,9 @@
       "car": false,
       "description": "From this campground you can walk to Woolpack Rocks and beyond to Cathedral Rock.",
       "id": 150,
-      "park": 9
+      "park": 9,
+      "latitude": "-30.3875337600024",
+      "longitude": "152.268151033334"
     },
     {
       "shortName": "Neranie Head",
@@ -2766,7 +2848,9 @@
       "car": true,
       "description": "This is a basic camping ground suitable for small groups. A short walk to the edge of Mummel Gulf offers breathtaking views. The campground is also a good spot for birdwatching and photography.",
       "id": 152,
-      "park": 71
+      "park": 71,
+      "latitude": "-31.3293550000016",
+      "longitude": "151.86906128"
     },
     {
       "shortName": "Newnes",
@@ -2933,7 +3017,9 @@
       "car": true,
       "description": "This campground is set amongst mulga trees on top of the 'Jump-Up' Range. A walking track starts at the campground and leads you through the Jump-Up landscape. You may see various species of kangaroos, lots of birds and reptiles, and some relics from the park's pastoral history. Wood fires are prohibited.",
       "id": 161,
-      "park": 40
+      "park": 40,
+      "latitude": "-29.0590052200035",
+      "longitude": "141.863163886667"
     },
     {
       "shortName": "Peacock Creek",
@@ -3214,7 +3300,9 @@
       "car": false,
       "description": "This campground lies deep within the Macleay Gorges, immediately adjacent to the Macleay Gorges Wilderness Area.",
       "id": 176,
-      "park": 3
+      "park": 3,
+      "latitude": "-30.9713922400016",
+      "longitude": "152.010151546667"
     },
     {
       "shortName": "Rock Flat",
@@ -3326,7 +3414,9 @@
       "car": true,
       "description": "The campground was established primarily for campers treking the Hume and Hovell walking track, however it is open to most visitors.",
       "id": 182,
-      "park": 76
+      "park": 76,
+      "latitude": "-35.8992380133333",
+      "longitude": "147.328728926667"
     },
     {
       "shortName": "Sandon River",
@@ -3436,7 +3526,9 @@
       "car": true,
       "description": "This campground is good for large groups. You'll need to bring drinking water and firewood. Silent Creek is often dry.",
       "id": 188,
-      "park": 27
+      "park": 27,
+      "latitude": "-34.15795772",
+      "longitude": "149.67846078"
     },
     {
       "shortName": "Six Mile Creek",
@@ -3491,7 +3583,9 @@
       "car": true,
       "description": "You'll need to bring drinking water and firewood. Please take rubbish with you.",
       "id": 191,
-      "park": 16
+      "park": 16,
+      "latitude": "-32.2439368866666",
+      "longitude": "150.0476675"
     },
     {
       "shortName": "Station Creek",
@@ -3620,7 +3714,9 @@
       "car": true,
       "description": "The campground's central location makes it a good spot for exploring the park. It's ideal for bird watchers, bushwalkers and mountain bikers. You can also drive to Mount Nangar Lookout from the campground (4WD only).",
       "id": 198,
-      "park": 77
+      "park": 77,
+      "latitude": "-33.4197878866665",
+      "longitude": "148.498299786667"
     },
     {
       "shortName": "The Barracks",
@@ -3637,7 +3733,9 @@
       "car": true,
       "description": "This campground is an ideal base-camp for walking trips. Caravan sites are very limited. You'll need to bring drinking water and firewood.",
       "id": 199,
-      "park": 34
+      "park": 34,
+      "latitude": "-31.7311582799998",
+      "longitude": "150.016164446667"
     },
     {
       "shortName": "The Basin",
@@ -3673,7 +3771,9 @@
       "car": true,
       "description": "This campground is in a secluded spot beside the Abercrombie River. You'll need to bring drinking water and firewood.",
       "id": 201,
-      "park": 27
+      "park": 27,
+      "latitude": "-34.1292185533332",
+      "longitude": "149.634718553334"
     },
     {
       "shortName": "The Diggings",
@@ -3690,7 +3790,9 @@
       "car": true,
       "description": "This camping ground is beside the Turon River, site of the goldrush from 1851. Panning or digging for gold are not allowed, but you can go bushwalking, fishing (with a fishing licence) and birdwatching.",
       "id": 202,
-      "park": 79
+      "park": 79,
+      "latitude": "-33.1847833333331",
+      "longitude": "149.953588266667"
     },
     {
       "shortName": "The Junction",
@@ -3910,7 +4012,9 @@
       "car": true,
       "description": "The campground is a clear grassy area adjacent to Tin Mines Trail. The site has basic camping facilities and is suitable for 4WD vehicle based camping or self reliant backpackers. It's located along the Hume and Hovell walking track which extends from Yass to Albury.",
       "id": 214,
-      "park": 76
+      "park": 76,
+      "latitude": "-35.85970676",
+      "longitude": "147.477404540001"
     },
     {
       "shortName": "Tom Groggin",
@@ -3946,7 +4050,9 @@
       "car": true,
       "description": "",
       "id": 216,
-      "park": 82
+      "park": 82,
+      "latitude": "-30.8779949999999",
+      "longitude": "153.068771666667"
     },
     {
       "shortName": "Two Mile Sands",
@@ -4056,7 +4162,9 @@
       "car": true,
       "description": "This campground is in an open woodland with a grassy understorey. There's lots of open space for kids.",
       "id": 222,
-      "park": 54
+      "park": 54,
+      "latitude": "-32.6374702266667",
+      "longitude": "148.381473360001"
     },
     {
       "shortName": "Waratah Gully",
@@ -4128,7 +4236,9 @@
       "car": false,
       "description": "This campground is beside the Namoi River. You can go hiking, swimming, canoeing and fishing here. Camping is only permitted at numbered sites, as shown on the plan in the information shelter.",
       "id": 226,
-      "park": 85
+      "park": 85,
+      "latitude": "-30.5680702800022",
+      "longitude": "150.916603699998"
     },
     {
       "shortName": "Washpools",
@@ -4202,7 +4312,9 @@
       "car": true,
       "description": "You'll find a walking track near this campground.",
       "id": 230,
-      "park": 55
+      "park": 55,
+      "latitude": "-33.1940544466666",
+      "longitude": "145.118274446667"
     },
     {
       "shortName": "Woko",
@@ -4219,7 +4331,9 @@
       "car": true,
       "description": "",
       "id": 231,
-      "park": 87
+      "park": 87,
+      "latitude": "-31.8009795599999",
+      "longitude": "151.793573980001"
     },
     {
       "shortName": "Wombat Creek",
@@ -4236,7 +4350,9 @@
       "car": false,
       "description": "Wombat Creek is one of a number of bushwalking campsites in the park, but it's the only one with toilets. It's a great base for exploring the Barrington Tops plateau, and is only a few kilometres walk from Careys Peak.",
       "id": 232,
-      "park": 42
+      "park": 42,
+      "latitude": "-32.05225734",
+      "longitude": "151.471280313333"
     },
     {
       "shortName": "Wombeyan Caves",
@@ -4515,7 +4631,9 @@
       "car": true,
       "description": "",
       "id": 247,
-      "park": 92
+      "park": 92,
+      "latitude": "-33.9169027799998",
+      "longitude": "149.358523553334"
     }
   ],
   "parks": [

@@ -56,6 +56,20 @@ parks = all_parks.map do |park|
   park.merge(:campsites => array)
 end
 
+# Load in second list and combine it with the first
+campsites2 = CSV.read(File.join(File.dirname(__FILE__), "nationalpark_nsw_gov_au_reconciled.csv")).delete_if{|l| l[0][0] == "#"}[1..-1].map do |a|
+  {"longName" => a[0], "latitude" => a[1], "longitude" => a[2]}
+end
+
+campsites = campsites.map do |campsite|
+  campsite_match = campsites2.find{|c| c["longName"] == campsite["longName"]}
+  if campsite_match
+    campsite.merge(campsite_match)
+  else
+    campsite
+  end
+end
+
 write_json({:campsites => campsites, :parks => parks}, "campsites")
 
 # Also write the campsites to a csv file
