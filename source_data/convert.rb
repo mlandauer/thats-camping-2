@@ -59,4 +59,4 @@ end
 write_json({:campsites => campsites, :parks => parks}, "campsites")
 
 # Also write the campsites to a csv file
-write_csv(campsites, "campsites.csv")
+#write_csv(campsites, "campsites.csv")
