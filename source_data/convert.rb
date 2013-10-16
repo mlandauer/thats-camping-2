@@ -5,6 +5,7 @@
 require 'rubygems'
 require 'plist'
 require 'json'
+require 'csv'
 
 def load_plist(input)
   Plist::parse_xml(File.join(File.dirname(__FILE__), input))
@@ -13,6 +14,17 @@ end
 def write_json(data, output)
   File.open(File.join(File.dirname(__FILE__), "..", "www", output), 'w') do |f|
     f.write(JSON.pretty_generate(data))
+  end
+end
+
+def write_csv(data, output)
+  keys = data.map{|r| r.keys}.flatten.uniq
+
+  CSV.open(output, "w") do |f|
+    f << keys
+    data.each do |r|
+      f << keys.map{|k| r[k]}
+    end
   end
 end
 
@@ -45,3 +57,6 @@ parks = all_parks.map do |park|
 end
 
 write_json({:campsites => campsites, :parks => parks}, "campsites")
+
+# Also write the campsites to a csv file
+write_csv(campsites, "campsites.csv")
